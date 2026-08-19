@@ -1,1965 +1,2106 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Documentation Types"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "User Documentation"
-    },
-    {
-      "description": "Assist users in understanding and navigating the features and functionalities of the app directly from within its interface.",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Driver.js",
-          "description": "A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-18T16:01:07Z",
-            "owner": "nilbuild",
-            "repo": "driver.js",
-            "stars": 26600
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shepherd",
-          "description": "Guide your users through a tour of your app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T13:50:10Z",
-            "owner": "shipshapecode",
-            "repo": "shepherd",
-            "stars": 13780
-          }
-        }
-      ],
-      "title": "In-app Documentation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Log4brains",
-          "description": "Log Architecture Decision Records (ADR) right from your IDE and to publish them automatically as a static website.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-12-17T16:51:30Z",
-            "owner": "thomvaill",
-            "repo": "log4brains",
-            "stars": 1563
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "arc42",
-          "description": "Proven, practical and pragmatic template for documentation and communication of software and system architectures.",
           "children": [
             {
-              "node_type": "item",
-              "title": "docToolchain",
-              "description": "An implementation of the docs-as-code approach for software architecture, which use arc42 as template.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Groovy",
-                "last_commit": "2026-08-10T16:33:12Z",
-                "owner": "docToolchain",
-                "repo": "docToolchain",
-                "stars": 857
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Example: arc42 + C4 model",
-              "description": "Shows how to use arc42 in combination with the C4 model with the Documentation as Code technique.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Shell",
-                "last_commit": "2026-01-11T12:30:42Z",
-                "owner": "bitsmuggler",
-                "repo": "arc42-c4-software-architecture-documentation-example",
-                "stars": 199
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "C4 model",
-          "description": "The C4 model for visualizing software architecture using Context, Containers, Components, and Code.",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "C4-PlantUML",
-              "description": "Includes macros, stereotypes, and other goodies (like VSCode Snippets) for creating C4 diagrams with PlantUML.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "PlantUML",
-                "last_commit": "2026-05-07T08:24:47Z",
-                "owner": "plantuml-stdlib",
-                "repo": "C4-PlantUML",
-                "stars": 7378
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "c4-draw.io",
-              "description": "A C4 Modelling plugin for draw.io, which provides C4 Notation Elements in draw.io.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "HTML",
-                "last_commit": "2022-09-12T09:10:28Z",
-                "owner": "tobiashochguertel",
-                "repo": "c4-draw.io",
-                "stars": 809
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "C4-Builder",
-              "description": "A lightweight Node.js cli tool for building, maintaining and sharing a software architecture project using only text.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2024-03-11T13:23:03Z",
-                "owner": "adrianvlupu",
-                "repo": "C4-Builder",
-                "stars": 623
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Goa Design - Model",
-              "description": "Create your software architecture models and diagrams in Go. The Model DSL is implemented in Go and follows the C4 Model.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Go",
-                "last_commit": "2026-08-17T23:43:07Z",
-                "owner": "goadesign",
-                "repo": "model",
-                "stars": 465
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "C4Sharp",
-              "description": "A .net library for building diagrams as code, based on C4 Model.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-02-01T22:57:03Z",
-                "owner": "8T4",
-                "repo": "c4sharp",
-                "stars": 320
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Architectural Documentation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "API Documentation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "DevDocs",
-          "description": "Combines multiple developer documentations in a clean and organized web UI with instant search, offline support, mobile version, dark theme, keyboard shortcuts, and more.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-16T00:41:20Z",
-            "owner": "freeCodeCamp",
-            "repo": "devdocs",
-            "stars": 39304
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Slate",
-          "description": "Beautiful static documentation for your API.",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Widdershins",
-              "description": "OpenAPI / Swagger / AsyncAPI / Semoasa definition to Slate / ReSlate compatible markdown.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2024-06-04T23:50:09Z",
-                "owner": "Mermade",
-                "repo": "widdershins",
-                "stars": 1581
-              }
-            }
-          ],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2026-02-01T05:54:12Z",
-            "owner": "slatedocs",
-            "repo": "slate",
-            "stars": 36040
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Zeal",
-          "description": "Offline documentation browser inspired by Dash.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T13:27:21Z",
-            "owner": "zealdocs",
-            "repo": "zeal",
-            "stars": 12764
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "apiDoc",
-          "description": "RESTful web API Documentation Generator.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2024-02-16T09:29:16Z",
-            "owner": "apidoc",
-            "repo": "apidoc",
-            "stars": 9655
-          }
-        }
-      ],
-      "title": "General"
-    },
-    {
-      "description": "OpenAPI Specification defines a standard, language-agnostic interface to HTTP APIs. An OpenAPI definition can then be used by documentation generation tools to display the API.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "GitBook",
-          "description": "A modern platform for creating and managing interactive API documentation from OpenAPI definitions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T15:20:24Z",
-            "owner": "GitbookIO",
-            "repo": "gitbook",
-            "stars": 29001
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Swagger UI",
-          "description": "Dynamically generate beautiful documentation from a Swagger-compliant API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T23:03:14Z",
-            "owner": "swagger-api",
-            "repo": "swagger-ui",
-            "stars": 28976
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OpenAPI Generator",
-          "description": "Generate API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T16:36:57Z",
-            "owner": "OpenAPITools",
-            "repo": "openapi-generator",
-            "stars": 26677
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Redoc",
-          "description": "An open source tool for generating documentation from OpenAPI (formerly Swagger) definitions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T16:30:59Z",
-            "owner": "Redocly",
-            "repo": "redoc",
-            "stars": 25880
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Scalar",
-          "description": "Generate interactive API documentations from Swagger files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T23:30:29Z",
-            "owner": "scalar",
-            "repo": "scalar",
-            "stars": 15939
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fern",
-          "description": "Generate SDKs and API documentation from OpenAPI definitions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T22:20:01Z",
-            "owner": "fern-api",
-            "repo": "fern",
-            "stars": 3760
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Elements",
-          "description": "Beautiful API documentation powered by OpenAPI and Markdown.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-15T23:03:13Z",
-            "owner": "stoplightio",
-            "repo": "elements",
-            "stars": 2453
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RapiDoc",
-          "description": "WebComponent Custom Element for OpenAPI Spec viewing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-02-11T08:37:36Z",
-            "owner": "rapi-doc",
-            "repo": "RapiDoc",
-            "stars": 1899
-          }
-        }
-      ],
-      "title": "OpenAPI"
-    },
-    {
-      "description": "GraphQL is a query language for APIs, which provides a complete and understandable description of the data in your API.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SpectaQL",
-          "description": "A Node.js library that generates static documentation for a GraphQL schema.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-09T13:40:55Z",
-            "owner": "anvilco",
-            "repo": "spectaql",
-            "stars": 1230
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GraphQLDocs",
-          "description": "Ruby library and CLI for easily generating beautiful documentation from your GraphQL schema.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-01-22T15:24:45Z",
-            "owner": "brettchalupa",
-            "repo": "graphql-docs",
-            "stars": 521
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Magidoc",
-          "description": "A JavaScript library that auto-generates static documentation from any GraphQL schema.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-10T11:58:53Z",
-            "owner": "magidoc-org",
-            "repo": "magidoc",
-            "stars": 284
-          }
-        }
-      ],
-      "title": "GraphQL"
-    },
-    {
-      "description": "gRPC is a modern open source high performance Remote Procedure Call (RPC) framework.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "protoc-gen-doc",
-          "description": "Generate HTML, JSON, DocBook, and Markdown documentation from comments in your .proto files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-21T16:29:26Z",
-            "owner": "pseudomuto",
-            "repo": "protoc-gen-doc",
-            "stars": 2836
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sabledocs",
-          "description": "A simple static documentation generator for Protobuf and gRPC contracts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2026-05-09T19:00:49Z",
-            "owner": "markvincze",
-            "repo": "sabledocs",
-            "stars": 94
-          }
-        }
-      ],
-      "title": "gRPC"
-    },
-    {
-      "description": "AsyncAPI Specification is a project used to describe message-driven APIs in a machine-readable format, which can also be used to generate API documents.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Async API Generator",
-          "description": "Use AsyncAPI definition to generate literally anything, including Markdown documentation and HTML documentation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T12:27:54Z",
-            "owner": "asyncapi",
-            "repo": "generator",
-            "stars": 1072
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AsyncAPI React Component",
-          "description": "Rendering documentation from your specification in real-time in the browser.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-13T10:27:32Z",
-            "owner": "asyncapi",
-            "repo": "asyncapi-react",
-            "stars": 241
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Petstore Kafka",
-          "description": "A functional example for describing with AsyncAPI and OpenAPI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-11T00:43:04Z",
-            "owner": "swagger-api",
-            "repo": "petstore-kafka",
-            "stars": 14
-          }
-        }
-      ],
-      "title": "AsyncAPI"
-    },
-    {
-      "description": "RAML Specification provides mechanisms for defining practically-RESTful APIs, creating client/server source code, and comprehensively documenting the APIs for users.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "RAML to HTML",
-          "description": "A simple RAML to HTML documentation generator, written for Node.js, with theme support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-09-22T08:36:40Z",
-            "owner": "raml2html",
-            "repo": "raml2html",
-            "stars": 1131
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "API Console",
-          "description": "An interactive REST console based on RAML/OAS files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T14:19:31Z",
-            "owner": "mulesoft",
-            "repo": "api-console",
-            "stars": 907
-          }
-        }
-      ],
-      "title": "RAML"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Code Documentation"
-    },
-    {
-      "description": "README files are a staple of any code project. They provide the first introduction to a new codebase and help you share important project details with collaborators.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Awesome README",
-          "description": "A curated list of awesome READMEs, including examples, articles and tools.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-07-27T16:54:15Z",
-            "owner": "matiassingers",
-            "repo": "awesome-readme",
-            "stars": 21333
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Best-README-Template",
-          "description": "An awesome README template to jumpstart your projects.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-04-18T12:39:32Z",
-            "owner": "othneildrew",
-            "repo": "Best-README-Template",
-            "stars": 16301
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "readme.so",
-          "description": "An online drag-and-drop editor to easily build READMEs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-13T04:38:06Z",
-            "owner": "octokatherine",
-            "repo": "readme.so",
-            "stars": 4629
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NRG",
-          "description": "Multi-language README generator that builds README files from a single template with imports, widgets, and a table-of-contents engine. CLI, Maven plugin, and Java library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-05-18T10:01:41Z",
-            "owner": "nanolaba",
-            "repo": "readme-generator",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "README"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "JavaScript",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Storybook",
-              "description": "A frontend workshop made for UI development, testing, and documentation.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "TypeScript",
-                "last_commit": "2026-08-18T20:53:22Z",
-                "owner": "storybookjs",
-                "repo": "storybook",
-                "stars": 90872
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Docz",
-              "description": "Write and publish beautiful interactive documentation for your code.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "TypeScript",
-                "last_commit": "2025-11-21T04:28:57Z",
-                "owner": "pedronauck",
-                "repo": "docz",
-                "stars": 23586
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "JSDoc",
-              "description": "An API documentation generator for JavaScript.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2026-08-18T22:01:34Z",
-                "owner": "jsdoc",
-                "repo": "jsdoc",
-                "stars": 15448
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "documentation.js",
-              "description": "The documentation system for modern JavaScript.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2025-04-15T18:50:26Z",
-                "owner": "documentationjs",
-                "repo": "documentation",
-                "stars": 5800
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "TypeScript",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "TSDoc",
-              "description": "A doc comment standard for TypeScript.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "TypeScript",
-                "last_commit": "2026-07-19T06:34:20Z",
-                "owner": "microsoft",
-                "repo": "tsdoc",
-                "stars": 4960
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Python",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Comments and Docstrings",
-              "description": "From Google Python Style Guide.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "HTML",
-                "last_commit": "2026-06-03T15:51:23Z",
-                "owner": "google",
-                "repo": "styleguide",
-                "stars": 39513
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "PHP",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "phpDocumentor",
-              "description": "The de-facto documentation tool for PHP projects, offering a robust solution for generating comprehensive documentation effortlessly.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "PHP",
-                "last_commit": "2026-08-17T02:24:11Z",
-                "owner": "phpDocumentor",
-                "repo": "phpDocumentor",
-                "stars": 4345
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "C#",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Docfx",
-              "description": "Static site generator for .NET API documentation.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-18T08:34:18Z",
-                "owner": "dotnet",
-                "repo": "docfx",
-                "stars": 4444
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "C++",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Doxygen",
-              "description": "The de facto standard tool for generating documentation from annotated C++ sources.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C++",
-                "last_commit": "2026-08-18T17:34:50Z",
-                "owner": "doxygen",
-                "repo": "doxygen",
-                "stars": 6551
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Java",
-          "description": null,
-          "children": [
-            {
-              "node_type": "group",
-              "title": "JavaDoc",
-              "description": "A documentation generator created by Sun Microsystems for the Java language (now owned by Oracle Corporation) for generating API documentation in HTML format from Java source code.",
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Maven Javadoc Plugin",
-                  "description": "Uses the Javadoc tool to generate javadocs for the specified project.",
+                  "title": "Driver.js",
+                  "description": "A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "language": "Java",
-                    "last_commit": "2026-08-17T03:52:35Z",
-                    "owner": "apache",
-                    "repo": "maven-javadoc-plugin",
-                    "stars": 107
+                    "id": 124792826,
+                    "language": "TypeScript",
+                    "last_commit": "2026-07-18T16:01:07Z",
+                    "owner": "nilbuild",
+                    "repo": "driver.js",
+                    "stars": 26602
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Shepherd",
+                  "description": "Guide your users through a tour of your app.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 15246993,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-17T13:50:10Z",
+                    "owner": "shipshapecode",
+                    "repo": "shepherd",
+                    "stars": 13781
+                  }
+                }
+              ],
+              "description": "Assist users in understanding and navigating the features and functionalities of the app directly from within its interface.",
+              "node_type": "group",
+              "title": "In-app Documentation"
+            }
+          ],
+          "description": "\"It doesn't matter how good your product is, because if its documentation is not good enough, people will not use it.\" - The Documentation System",
+          "node_type": "group",
+          "title": "User Documentation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Log4brains",
+              "description": "Log Architecture Decision Records (ADR) right from your IDE and to publish them automatically as a static website.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 295764802,
+                "language": "TypeScript",
+                "last_commit": "2024-12-17T16:51:30Z",
+                "owner": "thomvaill",
+                "repo": "log4brains",
+                "stars": 1563
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "arc42",
+              "description": "Proven, practical and pragmatic template for documentation and communication of software and system architectures.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "docToolchain",
+                  "description": "An implementation of the docs-as-code approach for software architecture, which use arc42 as template.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 62666917,
+                    "language": "Groovy",
+                    "last_commit": "2026-08-10T16:33:12Z",
+                    "owner": "docToolchain",
+                    "repo": "docToolchain",
+                    "stars": 858
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Example: arc42 + C4 model",
+                  "description": "Shows how to use arc42 in combination with the C4 model with the Documentation as Code technique.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 559197192,
+                    "language": "Shell",
+                    "last_commit": "2026-01-11T12:30:42Z",
+                    "owner": "bitsmuggler",
+                    "repo": "arc42-c4-software-architecture-documentation-example",
+                    "stars": 199
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "C4 model",
+              "description": "The C4 model for visualizing software architecture using Context, Containers, Components, and Code.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "C4-PlantUML",
+                  "description": "Includes macros, stereotypes, and other goodies (like VSCode Snippets) for creating C4 diagrams with PlantUML.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 147545986,
+                    "language": "PlantUML",
+                    "last_commit": "2026-05-07T08:24:47Z",
+                    "owner": "plantuml-stdlib",
+                    "repo": "C4-PlantUML",
+                    "stars": 7379
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "c4-draw.io",
+                  "description": "A C4 Modelling plugin for draw.io, which provides C4 Notation Elements in draw.io.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 101432938,
+                    "language": "HTML",
+                    "last_commit": "2022-09-12T09:10:28Z",
+                    "owner": "tobiashochguertel",
+                    "repo": "c4-draw.io",
+                    "stars": 809
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "C4-Builder",
+                  "description": "A lightweight Node.js cli tool for building, maintaining and sharing a software architecture project using only text.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 178720222,
+                    "language": "JavaScript",
+                    "last_commit": "2024-03-11T13:23:03Z",
+                    "owner": "adrianvlupu",
+                    "repo": "C4-Builder",
+                    "stars": 623
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Goa Design - Model",
+                  "description": "Create your software architecture models and diagrams in Go. The Model DSL is implemented in Go and follows the C4 Model.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 276731696,
+                    "language": "Go",
+                    "last_commit": "2026-08-17T23:43:07Z",
+                    "owner": "goadesign",
+                    "repo": "model",
+                    "stars": 465
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "C4Sharp",
+                  "description": "A .net library for building diagrams as code, based on C4 Model.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 352080063,
+                    "language": "C#",
+                    "last_commit": "2026-02-01T22:57:03Z",
+                    "owner": "8T4",
+                    "repo": "c4sharp",
+                    "stars": 320
                   }
                 }
               ]
             }
-          ]
+          ],
+          "description": "\"Architecture is about the important stuff. Whatever that is.\" — Ralph Johnson",
+          "node_type": "group",
+          "title": "Architectural Documentation"
         },
         {
-          "node_type": "group",
-          "title": "Kotlin",
-          "description": null,
           "children": [
             {
-              "node_type": "item",
-              "title": "Dokka",
-              "description": "An API documentation engine for Kotlin.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Kotlin",
-                "last_commit": "2026-08-18T14:39:28Z",
-                "owner": "Kotlin",
-                "repo": "dokka",
-                "stars": 3802
-              }
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "DevDocs",
+                  "description": "Combines multiple developer documentations in a clean and organized web UI with instant search, offline support, mobile version, dark theme, keyboard shortcuts, and more.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 13840241,
+                    "language": "Ruby",
+                    "last_commit": "2026-08-16T00:41:20Z",
+                    "owner": "freeCodeCamp",
+                    "repo": "devdocs",
+                    "stars": 39309
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Slate",
+                  "description": "Beautiful static documentation for your API.",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Widdershins",
+                      "description": "OpenAPI / Swagger / AsyncAPI / Semoasa definition to Slate / ReSlate compatible markdown.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 70106620,
+                        "language": "JavaScript",
+                        "last_commit": "2024-06-04T23:50:09Z",
+                        "owner": "Mermade",
+                        "repo": "widdershins",
+                        "stars": 1581
+                      }
+                    }
+                  ],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 12820537,
+                    "language": null,
+                    "last_commit": "2026-02-01T05:54:12Z",
+                    "owner": "slatedocs",
+                    "repo": "slate",
+                    "stars": 36040
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Zeal",
+                  "description": "Offline documentation browser inspired by Dash.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 7711472,
+                    "language": "C++",
+                    "last_commit": "2026-08-18T13:27:21Z",
+                    "owner": "zealdocs",
+                    "repo": "zeal",
+                    "stars": 12764
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "apiDoc",
+                  "description": "RESTful web API Documentation Generator.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 9568416,
+                    "language": "JavaScript",
+                    "last_commit": "2024-02-16T09:29:16Z",
+                    "owner": "apidoc",
+                    "repo": "apidoc",
+                    "stars": 9655
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "General"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitBook",
+                  "description": "A modern platform for creating and managing interactive API documentation from OpenAPI definitions.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 18280236,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-19T10:56:00Z",
+                    "owner": "GitbookIO",
+                    "repo": "gitbook",
+                    "stars": 29002
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Swagger UI",
+                  "description": "Dynamically generate beautiful documentation from a Swagger-compliant API.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2055965,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-18T23:03:14Z",
+                    "owner": "swagger-api",
+                    "repo": "swagger-ui",
+                    "stars": 28977
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "OpenAPI Generator",
+                  "description": "Generate API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 133134007,
+                    "language": "Java",
+                    "last_commit": "2026-08-19T12:19:17Z",
+                    "owner": "OpenAPITools",
+                    "repo": "openapi-generator",
+                    "stars": 26679
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Redoc",
+                  "description": "An open source tool for generating documentation from OpenAPI (formerly Swagger) definitions.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 45250726,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-18T16:30:59Z",
+                    "owner": "Redocly",
+                    "repo": "redoc",
+                    "stars": 25882
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Scalar",
+                  "description": "Generate interactive API documentations from Swagger files.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 679280065,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-18T23:30:29Z",
+                    "owner": "scalar",
+                    "repo": "scalar",
+                    "stars": 15944
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Fern",
+                  "description": "Generate SDKs and API documentation from OpenAPI definitions.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 476820102,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-19T03:38:25Z",
+                    "owner": "fern-api",
+                    "repo": "fern",
+                    "stars": 3761
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Elements",
+                  "description": "Beautiful API documentation powered by OpenAPI and Markdown.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 184680614,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-15T23:03:13Z",
+                    "owner": "stoplightio",
+                    "repo": "elements",
+                    "stars": 2453
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "RapiDoc",
+                  "description": "WebComponent Custom Element for OpenAPI Spec viewing.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 165951750,
+                    "language": "JavaScript",
+                    "last_commit": "2026-02-11T08:37:36Z",
+                    "owner": "rapi-doc",
+                    "repo": "RapiDoc",
+                    "stars": 1899
+                  }
+                }
+              ],
+              "description": "OpenAPI Specification defines a standard, language-agnostic interface to HTTP APIs. An OpenAPI definition can then be used by documentation generation tools to display the API.",
+              "node_type": "group",
+              "title": "OpenAPI"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "SpectaQL",
+                  "description": "A Node.js library that generates static documentation for a GraphQL schema.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 348502906,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-09T13:40:55Z",
+                    "owner": "anvilco",
+                    "repo": "spectaql",
+                    "stars": 1230
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "GraphQLDocs",
+                  "description": "Ruby library and CLI for easily generating beautiful documentation from your GraphQL schema.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 81388642,
+                    "language": "Ruby",
+                    "last_commit": "2026-01-22T15:24:45Z",
+                    "owner": "brettchalupa",
+                    "repo": "graphql-docs",
+                    "stars": 521
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Magidoc",
+                  "description": "A JavaScript library that auto-generates static documentation from any GraphQL schema.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 455860136,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-10T11:58:53Z",
+                    "owner": "magidoc-org",
+                    "repo": "magidoc",
+                    "stars": 284
+                  }
+                }
+              ],
+              "description": "GraphQL is a query language for APIs, which provides a complete and understandable description of the data in your API.",
+              "node_type": "group",
+              "title": "GraphQL"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "protoc-gen-doc",
+                  "description": "Generate HTML, JSON, DocBook, and Markdown documentation from comments in your .proto files.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 22581723,
+                    "language": "Go",
+                    "last_commit": "2026-07-21T16:29:26Z",
+                    "owner": "pseudomuto",
+                    "repo": "protoc-gen-doc",
+                    "stars": 2836
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Sabledocs",
+                  "description": "A simple static documentation generator for Protobuf and gRPC contracts.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 539184242,
+                    "language": "CSS",
+                    "last_commit": "2026-05-09T19:00:49Z",
+                    "owner": "markvincze",
+                    "repo": "sabledocs",
+                    "stars": 94
+                  }
+                }
+              ],
+              "description": "gRPC is a modern open source high performance Remote Procedure Call (RPC) framework.",
+              "node_type": "group",
+              "title": "gRPC"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Async API Generator",
+                  "description": "Use AsyncAPI definition to generate literally anything, including Markdown documentation and HTML documentation.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 142165796,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-18T12:27:54Z",
+                    "owner": "asyncapi",
+                    "repo": "generator",
+                    "stars": 1073
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "AsyncAPI React Component",
+                  "description": "Rendering documentation from your specification in real-time in the browser.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 156510564,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-13T10:27:32Z",
+                    "owner": "asyncapi",
+                    "repo": "asyncapi-react",
+                    "stars": 241
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Petstore Kafka",
+                  "description": "A functional example for describing with AsyncAPI and OpenAPI.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 508120743,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-11T00:43:04Z",
+                    "owner": "swagger-api",
+                    "repo": "petstore-kafka",
+                    "stars": 14
+                  }
+                }
+              ],
+              "description": "AsyncAPI Specification is a project used to describe message-driven APIs in a machine-readable format, which can also be used to generate API documents.",
+              "node_type": "group",
+              "title": "AsyncAPI"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "RAML to HTML",
+                  "description": "A simple RAML to HTML documentation generator, written for Node.js, with theme support.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 17437377,
+                    "language": "JavaScript",
+                    "last_commit": "2022-09-22T08:36:40Z",
+                    "owner": "raml2html",
+                    "repo": "raml2html",
+                    "stars": 1131
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "API Console",
+                  "description": "An interactive REST console based on RAML/OAS files.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 10970632,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-18T14:19:31Z",
+                    "owner": "mulesoft",
+                    "repo": "api-console",
+                    "stars": 907
+                  }
+                }
+              ],
+              "description": "RAML Specification provides mechanisms for defining practically-RESTful APIs, creating client/server source code, and comprehensively documenting the APIs for users.",
+              "node_type": "group",
+              "title": "RAML"
             }
-          ]
+          ],
+          "description": "\"All teams will henceforth expose their data and functionality through service interfaces.\" - The Bezos API Mandate",
+          "node_type": "group",
+          "title": "API Documentation"
         },
         {
-          "node_type": "group",
-          "title": "Go",
-          "description": null,
           "children": [
             {
-              "node_type": "item",
-              "title": "Swag",
-              "description": "Converts Go annotations to Swagger Documentation 2.0.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Go",
-                "last_commit": "2026-08-18T18:04:17Z",
-                "owner": "swaggo",
-                "repo": "swag",
-                "stars": 12983
-              }
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Awesome README",
+                  "description": "A curated list of awesome READMEs, including examples, articles and tools.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 29456624,
+                    "language": null,
+                    "last_commit": "2026-07-27T16:54:15Z",
+                    "owner": "matiassingers",
+                    "repo": "awesome-readme",
+                    "stars": 21334
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Best-README-Template",
+                  "description": "An awesome README template to jumpstart your projects.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 161215159,
+                    "language": null,
+                    "last_commit": "2026-04-18T12:39:32Z",
+                    "owner": "othneildrew",
+                    "repo": "Best-README-Template",
+                    "stars": 16303
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "readme.so",
+                  "description": "An online drag-and-drop editor to easily build READMEs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 356007050,
+                    "language": "JavaScript",
+                    "last_commit": "2026-03-13T04:38:06Z",
+                    "owner": "octokatherine",
+                    "repo": "readme.so",
+                    "stars": 4629
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "NRG",
+                  "description": "Multi-language README generator that builds README files from a single template with imports, widgets, and a table-of-contents engine. CLI, Maven plugin, and Java library.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 780794188,
+                    "language": "Java",
+                    "last_commit": "2026-05-18T10:01:41Z",
+                    "owner": "nanolaba",
+                    "repo": "readme-generator",
+                    "stars": 9
+                  }
+                }
+              ],
+              "description": "README files are a staple of any code project. They provide the first introduction to a new codebase and help you share important project details with collaborators.",
+              "node_type": "group",
+              "title": "README"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "group",
+                  "title": "JavaScript",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Storybook",
+                      "description": "A frontend workshop made for UI development, testing, and documentation.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 54173593,
+                        "language": "TypeScript",
+                        "last_commit": "2026-08-19T12:12:58Z",
+                        "owner": "storybookjs",
+                        "repo": "storybook",
+                        "stars": 90875
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Docz",
+                      "description": "Write and publish beautiful interactive documentation for your code.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": true,
+                        "id": 125596489,
+                        "language": "TypeScript",
+                        "last_commit": "2025-11-21T04:28:57Z",
+                        "owner": "pedronauck",
+                        "repo": "docz",
+                        "stars": 23586
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "JSDoc",
+                      "description": "An API documentation generator for JavaScript.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 560495,
+                        "language": "JavaScript",
+                        "last_commit": "2026-08-18T22:01:34Z",
+                        "owner": "jsdoc",
+                        "repo": "jsdoc",
+                        "stars": 15449
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "documentation.js",
+                      "description": "The documentation system for modern JavaScript.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 31936600,
+                        "language": "JavaScript",
+                        "last_commit": "2025-04-15T18:50:26Z",
+                        "owner": "documentationjs",
+                        "repo": "documentation",
+                        "stars": 5800
+                      }
+                    }
+                  ]
+                },
+                {
+                  "node_type": "group",
+                  "title": "TypeScript",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "TSDoc",
+                      "description": "A doc comment standard for TypeScript.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 123358607,
+                        "language": "TypeScript",
+                        "last_commit": "2026-07-19T06:34:20Z",
+                        "owner": "microsoft",
+                        "repo": "tsdoc",
+                        "stars": 4960
+                      }
+                    }
+                  ]
+                },
+                {
+                  "node_type": "group",
+                  "title": "Python",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Comments and Docstrings",
+                      "description": "From Google Python Style Guide.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 35969061,
+                        "language": "HTML",
+                        "last_commit": "2026-06-03T15:51:23Z",
+                        "owner": "google",
+                        "repo": "styleguide",
+                        "stars": 39514
+                      }
+                    }
+                  ]
+                },
+                {
+                  "node_type": "group",
+                  "title": "PHP",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "phpDocumentor",
+                      "description": "The de-facto documentation tool for PHP projects, offering a robust solution for generating comprehensive documentation effortlessly.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 761653,
+                        "language": "PHP",
+                        "last_commit": "2026-08-17T02:24:11Z",
+                        "owner": "phpDocumentor",
+                        "repo": "phpDocumentor",
+                        "stars": 4345
+                      }
+                    }
+                  ]
+                },
+                {
+                  "node_type": "group",
+                  "title": "C#",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Docfx",
+                      "description": "Static site generator for .NET API documentation.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 38007053,
+                        "language": "C#",
+                        "last_commit": "2026-08-19T08:35:09Z",
+                        "owner": "dotnet",
+                        "repo": "docfx",
+                        "stars": 4446
+                      }
+                    }
+                  ]
+                },
+                {
+                  "node_type": "group",
+                  "title": "C++",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Doxygen",
+                      "description": "The de facto standard tool for generating documentation from annotated C++ sources.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 10160141,
+                        "language": "C++",
+                        "last_commit": "2026-08-18T17:34:50Z",
+                        "owner": "doxygen",
+                        "repo": "doxygen",
+                        "stars": 6551
+                      }
+                    }
+                  ]
+                },
+                {
+                  "node_type": "group",
+                  "title": "Java",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "group",
+                      "title": "JavaDoc",
+                      "description": "A documentation generator created by Sun Microsystems for the Java language (now owned by Oracle Corporation) for generating API documentation in HTML format from Java source code.",
+                      "children": [
+                        {
+                          "node_type": "item",
+                          "title": "Maven Javadoc Plugin",
+                          "description": "Uses the Javadoc tool to generate javadocs for the specified project.",
+                          "children": [],
+                          "repo_info": {
+                            "archived": false,
+                            "id": 113678408,
+                            "language": "Java",
+                            "last_commit": "2026-08-17T03:52:35Z",
+                            "owner": "apache",
+                            "repo": "maven-javadoc-plugin",
+                            "stars": 107
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "node_type": "group",
+                  "title": "Kotlin",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Dokka",
+                      "description": "An API documentation engine for Kotlin.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 21763603,
+                        "language": "Kotlin",
+                        "last_commit": "2026-08-18T14:39:28Z",
+                        "owner": "Kotlin",
+                        "repo": "dokka",
+                        "stars": 3802
+                      }
+                    }
+                  ]
+                },
+                {
+                  "node_type": "group",
+                  "title": "Go",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Swag",
+                      "description": "Converts Go annotations to Swagger Documentation 2.0.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 93928882,
+                        "language": "Go",
+                        "last_commit": "2026-08-18T18:04:17Z",
+                        "owner": "swaggo",
+                        "repo": "swag",
+                        "stars": 12982
+                      }
+                    }
+                  ]
+                },
+                {
+                  "node_type": "group",
+                  "title": "Rust",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Docs.rs",
+                      "description": "An open source project to host documentation of crates for the Rust Programming Language.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 50424101,
+                        "language": "Rust",
+                        "last_commit": "2026-08-19T09:23:01Z",
+                        "owner": "rust-lang",
+                        "repo": "docs.rs",
+                        "stars": 1169
+                      }
+                    }
+                  ]
+                },
+                {
+                  "node_type": "group",
+                  "title": "SQL",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "SchemaSpy",
+                      "description": "Document your database simply and easily.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 64106157,
+                        "language": "HTML",
+                        "last_commit": "2026-03-05T20:31:40Z",
+                        "owner": "schemaspy",
+                        "repo": "schemaspy",
+                        "stars": 3708
+                      }
+                    }
+                  ]
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Language-specific"
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Code Documentation"
         },
         {
-          "node_type": "group",
-          "title": "Rust",
-          "description": null,
           "children": [
             {
-              "node_type": "item",
-              "title": "Docs.rs",
-              "description": "An open source project to host documentation of crates for the Rust Programming Language.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Rust",
-                "last_commit": "2026-08-18T20:38:16Z",
-                "owner": "rust-lang",
-                "repo": "docs.rs",
-                "stars": 1168
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "SQL",
-          "description": null,
-          "children": [
+              "node_type": "group",
+              "title": "Test Plans",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Writing Test Plan Items | VS Code",
+                  "description": "A guide for writing Test Plan Item (TPI) for VS Code project.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 41881900,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-19T12:21:03Z",
+                    "owner": "microsoft",
+                    "repo": "vscode",
+                    "stars": 188923
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SONiC Test Plan Template",
+                  "description": "A test plan template from Software for Open Networking in the Cloud (SONiC).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 51108542,
+                    "language": "HTML",
+                    "last_commit": "2026-08-19T01:13:05Z",
+                    "owner": "sonic-net",
+                    "repo": "SONiC",
+                    "stars": 2899
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "IEEE Test Plan Template",
+                  "description": "IEEE 829 templates in HTML5 and Markdown formats.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 20866828,
+                    "language": null,
+                    "last_commit": "2014-06-21T18:36:21Z",
+                    "owner": "JennifferLockwood",
+                    "repo": "test_plan_template",
+                    "stars": 4
+                  }
+                }
+              ]
+            },
             {
-              "node_type": "item",
-              "title": "SchemaSpy",
-              "description": "Document your database simply and easily.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "HTML",
-                "last_commit": "2026-03-05T20:31:40Z",
-                "owner": "schemaspy",
-                "repo": "schemaspy",
-                "stars": 3708
-              }
+              "node_type": "group",
+              "title": "Test Cases",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "TestCases and Templates for Manual Software Testing",
+                  "description": "General Test Cases for performing Manual Testing and API Testing on the Web/Mobile application.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 104551127,
+                    "language": null,
+                    "last_commit": "2025-08-03T15:03:29Z",
+                    "owner": "mfaisalkhatri",
+                    "repo": "Manual_Testing",
+                    "stars": 489
+                  }
+                }
+              ]
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Test Documentation"
         }
       ],
-      "title": "Language-specific"
+      "title": "Documentation Types"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "group",
-          "title": "Test Plans",
-          "description": null,
           "children": [
             {
               "node_type": "item",
-              "title": "Writing Test Plan Items | VS Code",
-              "description": "A guide for writing Test Plan Item (TPI) for VS Code project.",
+              "title": "Docusaurus",
+              "description": "A project for building, deploying, and maintaining open source project websites easily.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 94911145,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T23:33:13Z",
-                "owner": "microsoft",
-                "repo": "vscode",
-                "stars": 188911
+                "last_commit": "2026-08-13T14:19:29Z",
+                "owner": "facebook",
+                "repo": "docusaurus",
+                "stars": 65991
               }
             },
             {
               "node_type": "item",
-              "title": "SONiC Test Plan Template",
-              "description": "A test plan template from Software for Open Networking in the Cloud (SONiC).",
+              "title": "Docsify",
+              "description": "A magical documentation site generator.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "HTML",
-                "last_commit": "2026-08-18T01:11:56Z",
-                "owner": "sonic-net",
-                "repo": "SONiC",
-                "stars": 2899
+                "id": 74260508,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T06:55:04Z",
+                "owner": "docsifyjs",
+                "repo": "docsify",
+                "stars": 31464
               }
             },
             {
               "node_type": "item",
-              "title": "IEEE Test Plan Template",
-              "description": "IEEE 829 templates in HTML5 and Markdown formats.",
-              "children": [],
+              "title": "MkDocs",
+              "description": "A fast, simple and downright gorgeous static site generator that's geared towards building project documentation.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Material for MkDocs",
+                  "description": "A powerful documentation framework on top of MkDocs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 50617428,
+                    "language": "Python",
+                    "last_commit": "2026-08-09T08:59:52Z",
+                    "owner": "squidfunk",
+                    "repo": "mkdocs-material",
+                    "stars": 27289
+                  }
+                }
+              ],
               "repo_info": {
                 "archived": false,
-                "language": null,
-                "last_commit": "2014-06-21T18:36:21Z",
-                "owner": "JennifferLockwood",
-                "repo": "test_plan_template",
-                "stars": 4
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Test Cases",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "TestCases and Templates for Manual Software Testing",
-              "description": "General Test Cases for performing Manual Testing and API Testing on the Web/Mobile application.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": null,
-                "last_commit": "2025-08-03T15:03:29Z",
-                "owner": "mfaisalkhatri",
-                "repo": "Manual_Testing",
-                "stars": 489
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Test Documentation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "General Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Docusaurus",
-          "description": "A project for building, deploying, and maintaining open source project websites easily.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-13T14:19:29Z",
-            "owner": "facebook",
-            "repo": "docusaurus",
-            "stars": 65960
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Docsify",
-          "description": "A magical documentation site generator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T03:25:50Z",
-            "owner": "docsifyjs",
-            "repo": "docsify",
-            "stars": 31463
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MkDocs",
-          "description": "A fast, simple and downright gorgeous static site generator that's geared towards building project documentation.",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Material for MkDocs",
-              "description": "A powerful documentation framework on top of MkDocs.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
+                "id": 15830664,
                 "language": "Python",
-                "last_commit": "2026-08-09T08:59:52Z",
-                "owner": "squidfunk",
-                "repo": "mkdocs-material",
-                "stars": 27283
+                "last_commit": "2025-10-20T13:17:06Z",
+                "owner": "mkdocs",
+                "repo": "mkdocs",
+                "stars": 22359
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mdBook",
+              "description": "Create book from markdown files. Like Gitbook but implemented in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38655056,
+                "language": "Rust",
+                "last_commit": "2026-08-19T09:53:48Z",
+                "owner": "rust-lang",
+                "repo": "mdBook",
+                "stars": 22081
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Starlight",
+              "description": "Build beautiful, accessible, high-performance documentation websites with Astro.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 614933136,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T09:28:36Z",
+                "owner": "withastro",
+                "repo": "starlight",
+                "stars": 9092
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Markdoc",
+              "description": "A Markdown-based syntax and toolchain for creating custom documentation sites and experiences.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 490388312,
+                "language": "TypeScript",
+                "last_commit": "2026-08-04T13:30:39Z",
+                "owner": "markdoc",
+                "repo": "markdoc",
+                "stars": 8378
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sphinx",
+              "description": "Make it easy to create intelligent and beautiful documentation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28710753,
+                "language": "Python",
+                "last_commit": "2026-08-16T22:51:06Z",
+                "owner": "sphinx-doc",
+                "repo": "sphinx",
+                "stars": 7980
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bookdown",
+              "description": "Authoring Books and Technical Documents with R Markdown.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45090026,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T23:07:17Z",
+                "owner": "rstudio",
+                "repo": "bookdown",
+                "stars": 4069
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Docco",
+              "description": "A quick-and-dirty, hundred-line-long, literate-programming-style documentation generator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 540542,
+                "language": "HTML",
+                "last_commit": "2025-11-17T10:31:55Z",
+                "owner": "jashkenas",
+                "repo": "docco",
+                "stars": 3575
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Docus",
+              "description": "Create document-driven websites with Vue & Markdown.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 312318044,
+                "language": "TypeScript",
+                "last_commit": "2026-07-16T14:22:42Z",
+                "owner": "nuxt-content",
+                "repo": "docus",
+                "stars": 2984
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sourcey",
+              "description": "Multi-source static documentation generator. Consumes OpenAPI, MCP, Doxygen XML, godoc, and Markdown to produce one static HTML site. Self-hosted, AGPL-3.0.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49493043,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T19:57:38Z",
+                "owner": "sourcey",
+                "repo": "sourcey",
+                "stars": 1351
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Doctave",
+              "description": "A batteries-included developer documentation site generator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 294650775,
+                "language": "Rust",
+                "last_commit": "2022-09-19T04:10:27Z",
+                "owner": "Doctave",
+                "repo": "doctave",
+                "stars": 669
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xyd",
+              "description": "A new scalable docs framework built for everyone powered by LiveSession.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 896939708,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T01:43:45Z",
+                "owner": "livesession",
+                "repo": "xyd",
+                "stars": 113
               }
             }
           ],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-10-20T13:17:06Z",
-            "owner": "mkdocs",
-            "repo": "mkdocs",
-            "stars": 22356
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mdBook",
-          "description": "Create book from markdown files. Like Gitbook but implemented in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T20:01:46Z",
-            "owner": "rust-lang",
-            "repo": "mdBook",
-            "stars": 22080
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Starlight",
-          "description": "Build beautiful, accessible, high-performance documentation websites with Astro.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T11:41:19Z",
-            "owner": "withastro",
-            "repo": "starlight",
-            "stars": 9090
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Markdoc",
-          "description": "A Markdown-based syntax and toolchain for creating custom documentation sites and experiences.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-04T13:30:39Z",
-            "owner": "markdoc",
-            "repo": "markdoc",
-            "stars": 8375
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sphinx",
-          "description": "Make it easy to create intelligent and beautiful documentation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T22:51:06Z",
-            "owner": "sphinx-doc",
-            "repo": "sphinx",
-            "stars": 7979
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bookdown",
-          "description": "Authoring Books and Technical Documents with R Markdown.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T23:07:17Z",
-            "owner": "rstudio",
-            "repo": "bookdown",
-            "stars": 4069
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Docco",
-          "description": "A quick-and-dirty, hundred-line-long, literate-programming-style documentation generator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2025-11-17T10:31:55Z",
-            "owner": "jashkenas",
-            "repo": "docco",
-            "stars": 3575
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Docus",
-          "description": "Create document-driven websites with Vue & Markdown.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-16T14:22:42Z",
-            "owner": "nuxt-content",
-            "repo": "docus",
-            "stars": 2983
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sourcey",
-          "description": "Multi-source static documentation generator. Consumes OpenAPI, MCP, Doxygen XML, godoc, and Markdown to produce one static HTML site. Self-hosted, AGPL-3.0.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-11T19:57:38Z",
-            "owner": "sourcey",
-            "repo": "sourcey",
-            "stars": 1351
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Doctave",
-          "description": "A batteries-included developer documentation site generator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2022-09-19T04:10:27Z",
-            "owner": "Doctave",
-            "repo": "doctave",
-            "stars": 669
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xyd",
-          "description": "A new scalable docs framework built for everyone powered by LiveSession.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T01:43:45Z",
-            "owner": "livesession",
-            "repo": "xyd",
-            "stars": 113
-          }
-        }
-      ],
-      "title": "Site Builder"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Wiki.js",
-          "description": "A modern and powerful wiki app built on Node.js.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2026-08-18T01:00:05Z",
-            "owner": "requarks",
-            "repo": "wiki",
-            "stars": 28774
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gollum",
-          "description": "A simple wiki system built on top of Git.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2025-11-24T22:15:31Z",
-            "owner": "gollum",
-            "repo": "gollum",
-            "stars": 14313
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VimWiki",
-          "description": "A personal wiki for Vim, which can be used to write documentation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vim Script",
-            "last_commit": "2026-04-30T18:15:10Z",
-            "owner": "vimwiki",
-            "repo": "vimwiki",
-            "stars": 9507
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MediaWiki",
-          "description": "A free and open-source wiki software package written in PHP. It serves as the platform for Wikipedia and the other Wikimedia projects.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-18T23:33:30Z",
-            "owner": "wikimedia",
-            "repo": "mediawiki",
-            "stars": 5147
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DokuWiki",
-          "description": "A simple to use and highly versatile Open Source wiki software that doesn't require a database.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-16T21:29:55Z",
-            "owner": "dokuwiki",
-            "repo": "dokuwiki",
-            "stars": 4702
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "GitHub Wiki",
           "description": null,
+          "node_type": "group",
+          "title": "Site Builder"
+        },
+        {
           "children": [
             {
               "node_type": "item",
-              "title": "Awesome GitHub Wikis",
-              "description": "A curated list of awesome GitHub Wikis, including examples, tips and tricks.",
+              "title": "Wiki.js",
+              "description": "A modern and powerful wiki app built on Node.js.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": null,
-                "last_commit": "2026-07-11T22:30:36Z",
-                "owner": "MyHoneyBadger",
-                "repo": "awesome-github-wiki",
-                "stars": 484
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Federated Wiki",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Node.js server version",
-              "description": "Federated Wiki node server as npm package.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2026-08-11T15:18:39Z",
-                "owner": "fedwiki",
+                "id": 65848095,
+                "language": "Vue",
+                "last_commit": "2026-08-18T01:00:05Z",
+                "owner": "requarks",
                 "repo": "wiki",
-                "stars": 369
+                "stars": 28778
               }
+            },
+            {
+              "node_type": "item",
+              "title": "Gollum",
+              "description": "A simple wiki system built on top of Git.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 585285,
+                "language": "Ruby",
+                "last_commit": "2025-11-24T22:15:31Z",
+                "owner": "gollum",
+                "repo": "gollum",
+                "stars": 14312
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VimWiki",
+              "description": "A personal wiki for Vim, which can be used to write documentation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6698053,
+                "language": "Vim Script",
+                "last_commit": "2026-04-30T18:15:10Z",
+                "owner": "vimwiki",
+                "repo": "vimwiki",
+                "stars": 9507
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MediaWiki",
+              "description": "A free and open-source wiki software package written in PHP. It serves as the platform for Wikipedia and the other Wikimedia projects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6495081,
+                "language": "PHP",
+                "last_commit": "2026-08-19T11:37:28Z",
+                "owner": "wikimedia",
+                "repo": "mediawiki",
+                "stars": 5149
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DokuWiki",
+              "description": "A simple to use and highly versatile Open Source wiki software that doesn't require a database.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 456930,
+                "language": "PHP",
+                "last_commit": "2026-08-16T21:29:55Z",
+                "owner": "dokuwiki",
+                "repo": "dokuwiki",
+                "stars": 4702
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "GitHub Wiki",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Awesome GitHub Wikis",
+                  "description": "A curated list of awesome GitHub Wikis, including examples, tips and tricks.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 490239470,
+                    "language": null,
+                    "last_commit": "2026-07-11T22:30:36Z",
+                    "owner": "MyHoneyBadger",
+                    "repo": "awesome-github-wiki",
+                    "stars": 484
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Federated Wiki",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Node.js server version",
+                  "description": "Federated Wiki node server as npm package.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 14955213,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-11T15:18:39Z",
+                    "owner": "fedwiki",
+                    "repo": "wiki",
+                    "stars": 369
+                  }
+                }
+              ]
             }
-          ]
-        }
-      ],
-      "title": "Wiki Builder"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "AFFiNE",
-          "description": "A next-gen knowledge base that brings planning, sorting and creating all together.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T15:26:50Z",
-            "owner": "toeverything",
-            "repo": "AFFiNE",
-            "stars": 71658
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Logseq",
-          "description": "A privacy-first, open-source platform for knowledge management and collaboration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2026-08-18T18:45:38Z",
-            "owner": "logseq",
-            "repo": "logseq",
-            "stars": 44503
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Trilium Notes",
-          "description": "A hierarchical note taking application with focus on building large personal knowledge bases.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T20:15:41Z",
-            "owner": "TriliumNext",
-            "repo": "Trilium",
-            "stars": 37486
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Docmost",
-          "description": "An open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T22:53:23Z",
-            "owner": "docmost",
-            "repo": "docmost",
-            "stars": 21406
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Seafile",
-          "description": "High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-08T02:47:29Z",
-            "owner": "haiwen",
-            "repo": "seafile",
-            "stars": 15139
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MrDoc",
-          "description": "An online document system suitable for individuals and small teams to manage documents, wiki, knowledge and notes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-13T07:28:38Z",
-            "owner": "zmister2016",
-            "repo": "MrDoc",
-            "stars": 3230
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Documize",
-          "description": "Modern Confluence alternative designed for internal & external docs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-05-18T16:18:58Z",
-            "owner": "documize",
-            "repo": "community",
-            "stars": 2415
-          }
-        }
-      ],
-      "title": "Knowledge Base"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Mintlify Writer",
-          "description": "An AI-powered VS Code extension that automatically generates code documentation by highlighting code. Supports multiple programming languages and docstring formats including JSDoc, reST, NumPy, and more.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2026-06-12T17:31:03Z",
-            "owner": "mintlify",
-            "repo": "writer",
-            "stars": 3133
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Readme AI",
-          "description": "A developer tool that automatically generates comprehensive README files using repository analysis and language models. It supports multiple LLM providers, custom templates, and offline generation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-04T02:59:13Z",
-            "owner": "eli64s",
-            "repo": "readme-ai",
-            "stars": 2969
-          }
-        }
-      ],
-      "title": "AI-powered Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "LanguageTool",
-          "description": "Style and Grammar Checker for 25+ Languages.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T17:26:45Z",
-            "owner": "languagetool-org",
-            "repo": "languagetool",
-            "stars": 14826
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "alex",
-          "description": "Catch insensitive, inconsiderate writing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-11-27T17:45:46Z",
-            "owner": "get-alex",
-            "repo": "alex",
-            "stars": 5098
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lychee",
-          "description": "Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T09:06:14Z",
-            "owner": "lycheeverse",
-            "repo": "lychee",
-            "stars": 3845
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CasePolice",
-          "description": "Scan all your source files and fix the cases of known names.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-15T01:48:52Z",
-            "owner": "antfu",
-            "repo": "case-police",
-            "stars": 1427
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "linkinator",
-          "description": "A super simple site crawler and broken link checker.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T05:01:34Z",
-            "owner": "JustinBeckwith",
-            "repo": "linkinator",
-            "stars": 1250
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TeXtidote",
-          "description": "A correction tool for LaTeX documents and other formats.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T19:26:48Z",
-            "owner": "sylvainhalle",
-            "repo": "textidote",
-            "stars": 1055
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Spellcheck GitHub Actions",
-          "description": "A GitHub Action that spell checks Python, Markdown, and Text files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-17T19:39:42Z",
-            "owner": "rojopolis",
-            "repo": "spellcheck-github-actions",
-            "stars": 152
-          }
-        }
-      ],
-      "title": "Checker & Formatter"
-    },
-    {
-      "description": "One diagram is usually worth more than a thousand words.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Excalidraw",
-          "description": "An open source virtual hand-drawn style whiteboard for sketching hand-drawn like diagrams.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-16T15:30:04Z",
-            "owner": "excalidraw",
-            "repo": "excalidraw",
-            "stars": 129967
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mermaid",
-          "description": "A diagramming and charting tool that renders Markdown-inspired text definitions to create charts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T15:00:01Z",
-            "owner": "mermaid-js",
-            "repo": "mermaid",
-            "stars": 89832
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PlantUML",
-          "description": "Allows users to create diagrams using a simple syntax.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-17T01:03:55Z",
-            "owner": "plantuml",
-            "repo": "plantuml",
-            "stars": 13252
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "draw.io",
-          "description": "(Open Source) - A JavaScript, client-side editor for general diagramming.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-09T12:38:12Z",
-            "owner": "jgraph",
-            "repo": "drawio",
-            "stars": 7587
-          }
-        }
-      ],
-      "title": "Diagramming"
-    },
-    {
-      "description": "Documentation can be more than just plain texts and static pictures.",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Screen Recorder",
+          ],
           "description": null,
+          "node_type": "group",
+          "title": "Wiki Builder"
+        },
+        {
           "children": [
             {
               "node_type": "item",
-              "title": "Flameshot",
-              "description": "Powerful yet simple to use screenshot software.",
+              "title": "AFFiNE",
+              "description": "A next-gen knowledge base that brings planning, sorting and creating all together.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "C++",
-                "last_commit": "2026-08-18T20:50:55Z",
-                "owner": "flameshot-org",
-                "repo": "flameshot",
-                "stars": 30639
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "ScreenToGif",
-              "description": "Record a selected area of your screen, edit and save it as a gif or video.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-07-28T17:52:48Z",
-                "owner": "NickeManarin",
-                "repo": "ScreenToGif",
-                "stars": 27498
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "rrweb",
-              "description": "A tool for recording and replaying users' interactions on the web.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
+                "id": 519859998,
                 "language": "TypeScript",
-                "last_commit": "2026-07-24T10:27:11Z",
-                "owner": "rrweb-io",
-                "repo": "rrweb",
-                "stars": 20052
+                "last_commit": "2026-08-19T09:57:29Z",
+                "owner": "toeverything",
+                "repo": "AFFiNE",
+                "stars": 71668
               }
             },
             {
               "node_type": "item",
-              "title": "Kap",
-              "description": "An open-source screen recorder built with web technology.",
+              "title": "Logseq",
+              "description": "A privacy-first, open-source platform for knowledge management and collaboration.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 266231149,
+                "language": "Clojure",
+                "last_commit": "2026-08-19T07:25:35Z",
+                "owner": "logseq",
+                "repo": "logseq",
+                "stars": 44507
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Trilium Notes",
+              "description": "A hierarchical note taking application with focus on building large personal knowledge bases.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92111509,
                 "language": "TypeScript",
-                "last_commit": "2024-11-12T15:32:40Z",
-                "owner": "wulkano",
-                "repo": "Kap",
-                "stars": 19330
+                "last_commit": "2026-08-19T11:50:51Z",
+                "owner": "TriliumNext",
+                "repo": "Trilium",
+                "stars": 37499
               }
             },
             {
               "node_type": "item",
-              "title": "Screenity",
-              "description": "The free and privacy-friendly screen recorder with no limits.",
+              "title": "Docmost",
+              "description": "An open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 674295265,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T22:53:23Z",
+                "owner": "docmost",
+                "repo": "docmost",
+                "stars": 21415
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Seafile",
+              "description": "High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4999959,
+                "language": "C",
+                "last_commit": "2026-08-08T02:47:29Z",
+                "owner": "haiwen",
+                "repo": "seafile",
+                "stars": 15144
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MrDoc",
+              "description": "An online document system suitable for individuals and small teams to manage documents, wiki, knowledge and notes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 254536602,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T17:39:05Z",
-                "owner": "alyssaxuu",
-                "repo": "screenity",
-                "stars": 18487
+                "last_commit": "2026-08-13T07:28:38Z",
+                "owner": "zmister2016",
+                "repo": "MrDoc",
+                "stars": 3230
               }
             },
             {
               "node_type": "item",
-              "title": "Peek",
-              "description": "Simple animated GIF screen recorder with an easy to use interface.",
+              "title": "Documize",
+              "description": "Modern Confluence alternative designed for internal & external docs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 57418962,
+                "language": "JavaScript",
+                "last_commit": "2026-05-18T16:18:58Z",
+                "owner": "documize",
+                "repo": "community",
+                "stars": 2415
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Knowledge Base"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Mintlify Writer",
+              "description": "An AI-powered VS Code extension that automatically generates code documentation by highlighting code. Supports multiple programming languages and docstring formats including JSDoc, reST, NumPy, and more.",
               "children": [],
               "repo_info": {
                 "archived": true,
-                "language": "Vala",
-                "last_commit": "2025-09-24T14:09:08Z",
-                "owner": "phw",
-                "repo": "peek",
-                "stars": 10559
+                "id": 441005943,
+                "language": "TypeScript",
+                "last_commit": "2026-06-12T17:31:03Z",
+                "owner": "mintlify",
+                "repo": "writer",
+                "stars": 3133
               }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Terminal Recorder",
-          "description": null,
-          "children": [
+            },
             {
               "node_type": "item",
-              "title": "asciinema",
-              "description": "A command-line tool for recording terminal sessions.",
+              "title": "Readme AI",
+              "description": "A developer tool that automatically generates comprehensive README files using repository analysis and language models. It supports multiple LLM providers, custom templates, and offline generation.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 589727205,
+                "language": "Python",
+                "last_commit": "2026-07-04T02:59:13Z",
+                "owner": "eli64s",
+                "repo": "readme-ai",
+                "stars": 2971
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AI-powered Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LanguageTool",
+              "description": "Style and Grammar Checker for 25+ Languages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11981144,
+                "language": "Java",
+                "last_commit": "2026-08-19T11:38:47Z",
+                "owner": "languagetool-org",
+                "repo": "languagetool",
+                "stars": 14835
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "alex",
+              "description": "Catch insensitive, inconsiderate writing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40781628,
+                "language": "JavaScript",
+                "last_commit": "2024-11-27T17:45:46Z",
+                "owner": "get-alex",
+                "repo": "alex",
+                "stars": 5098
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lychee",
+              "description": "Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 285115432,
                 "language": "Rust",
-                "last_commit": "2026-08-14T09:03:57Z",
-                "owner": "asciinema",
-                "repo": "asciinema",
-                "stars": 17695
+                "last_commit": "2026-08-18T09:06:14Z",
+                "owner": "lycheeverse",
+                "repo": "lychee",
+                "stars": 3845
               }
             },
             {
               "node_type": "item",
-              "title": "Terminalizer",
-              "description": "Record your terminal and generate animated gif images or share a web player.",
+              "title": "CasePolice",
+              "description": "Scan all your source files and fix the cases of known names.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2024-08-29T00:40:13Z",
-                "owner": "faressoft",
-                "repo": "terminalizer",
-                "stars": 16152
+                "id": 476254167,
+                "language": "TypeScript",
+                "last_commit": "2026-04-15T01:48:52Z",
+                "owner": "antfu",
+                "repo": "case-police",
+                "stars": 1427
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "linkinator",
+              "description": "A super simple site crawler and broken link checker.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 170236232,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:08:11Z",
+                "owner": "JustinBeckwith",
+                "repo": "linkinator",
+                "stars": 1250
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TeXtidote",
+              "description": "A correction tool for LaTeX documents and other formats.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136962671,
+                "language": "Java",
+                "last_commit": "2026-08-18T19:26:48Z",
+                "owner": "sylvainhalle",
+                "repo": "textidote",
+                "stars": 1055
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Spellcheck GitHub Actions",
+              "description": "A GitHub Action that spell checks Python, Markdown, and Text files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 188080710,
+                "language": "Shell",
+                "last_commit": "2026-08-19T06:17:32Z",
+                "owner": "rojopolis",
+                "repo": "spellcheck-github-actions",
+                "stars": 152
               }
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Checker & Formatter"
         },
         {
-          "node_type": "group",
-          "title": "Animation Builder",
-          "description": null,
           "children": [
             {
               "node_type": "item",
-              "title": "Animockup",
-              "description": "A web-based tool that helps you create animated mockups for your product teasers.",
+              "title": "Excalidraw",
+              "description": "An open source virtual hand-drawn style whiteboard for sketching hand-drawn like diagrams.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 231283452,
+                "language": "TypeScript",
+                "last_commit": "2026-08-16T15:30:04Z",
+                "owner": "excalidraw",
+                "repo": "excalidraw",
+                "stars": 130005
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mermaid",
+              "description": "A diagramming and charting tool that renders Markdown-inspired text definitions to create charts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26066727,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:18:22Z",
+                "owner": "mermaid-js",
+                "repo": "mermaid",
+                "stars": 89842
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PlantUML",
+              "description": "Allows users to create diagrams using a simple syntax.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1051476,
+                "language": "Java",
+                "last_commit": "2026-08-17T01:03:55Z",
+                "owner": "plantuml",
+                "repo": "plantuml",
+                "stars": 13253
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "draw.io",
+              "description": "(Open Source) - A JavaScript, client-side editor for general diagramming.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67508428,
                 "language": "JavaScript",
-                "last_commit": "2022-07-02T08:12:35Z",
-                "owner": "alyssaxuu",
-                "repo": "animockup",
-                "stars": 1923
+                "last_commit": "2026-08-09T12:38:12Z",
+                "owner": "jgraph",
+                "repo": "drawio",
+                "stars": 7600
               }
             }
-          ]
+          ],
+          "description": "One diagram is usually worth more than a thousand words.",
+          "node_type": "group",
+          "title": "Diagramming"
         },
         {
-          "node_type": "group",
-          "title": "Presentation Tools",
-          "description": null,
           "children": [
             {
-              "node_type": "item",
-              "title": "reveal.js",
-              "description": "Open source HTML presentation framework.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2026-05-21T19:20:20Z",
-                "owner": "hakimel",
-                "repo": "reveal.js",
-                "stars": 72146
-              }
+              "node_type": "group",
+              "title": "Screen Recorder",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Flameshot",
+                  "description": "Powerful yet simple to use screenshot software.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 90902132,
+                    "language": "C++",
+                    "last_commit": "2026-08-18T20:50:55Z",
+                    "owner": "flameshot-org",
+                    "repo": "flameshot",
+                    "stars": 30641
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ScreenToGif",
+                  "description": "Record a selected area of your screen, edit and save it as a gif or video.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 64713769,
+                    "language": "C#",
+                    "last_commit": "2026-07-28T17:52:48Z",
+                    "owner": "NickeManarin",
+                    "repo": "ScreenToGif",
+                    "stars": 27506
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "rrweb",
+                  "description": "A tool for recording and replaying users' interactions on the web.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 151843254,
+                    "language": "TypeScript",
+                    "last_commit": "2026-07-24T10:27:11Z",
+                    "owner": "rrweb-io",
+                    "repo": "rrweb",
+                    "stars": 20052
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Kap",
+                  "description": "An open-source screen recorder built with web technology.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 65411043,
+                    "language": "TypeScript",
+                    "last_commit": "2024-11-12T15:32:40Z",
+                    "owner": "wulkano",
+                    "repo": "Kap",
+                    "stars": 19331
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Screenity",
+                  "description": "The free and privacy-friendly screen recorder with no limits.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 309123651,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-18T17:39:05Z",
+                    "owner": "alyssaxuu",
+                    "repo": "screenity",
+                    "stars": 18487
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Peek",
+                  "description": "Simple animated GIF screen recorder with an easy to use interface.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 48430079,
+                    "language": "Vala",
+                    "last_commit": "2025-09-24T14:09:08Z",
+                    "owner": "phw",
+                    "repo": "peek",
+                    "stars": 10559
+                  }
+                }
+              ]
             },
             {
-              "node_type": "item",
-              "title": "Slidev",
-              "description": "Presentation slides for developers.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "TypeScript",
-                "last_commit": "2026-08-14T11:37:40Z",
-                "owner": "slidevjs",
-                "repo": "slidev",
-                "stars": 48137
-              }
+              "node_type": "group",
+              "title": "Terminal Recorder",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "asciinema",
+                  "description": "A command-line tool for recording terminal sessions.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2823326,
+                    "language": "Rust",
+                    "last_commit": "2026-08-14T09:03:57Z",
+                    "owner": "asciinema",
+                    "repo": "asciinema",
+                    "stars": 17700
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Terminalizer",
+                  "description": "Record your terminal and generate animated gif images or share a web player.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 141910081,
+                    "language": "JavaScript",
+                    "last_commit": "2024-08-29T00:40:13Z",
+                    "owner": "faressoft",
+                    "repo": "terminalizer",
+                    "stars": 16152
+                  }
+                }
+              ]
             },
             {
-              "node_type": "item",
-              "title": "carbon",
-              "description": "Create and share beautiful images of your source code.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2026-02-10T05:07:19Z",
-                "owner": "carbon-app",
-                "repo": "carbon",
-                "stars": 36087
-              }
+              "node_type": "group",
+              "title": "Animation Builder",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Animockup",
+                  "description": "A web-based tool that helps you create animated mockups for your product teasers.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 248908265,
+                    "language": "JavaScript",
+                    "last_commit": "2022-07-02T08:12:35Z",
+                    "owner": "alyssaxuu",
+                    "repo": "animockup",
+                    "stars": 1923
+                  }
+                }
+              ]
             },
             {
-              "node_type": "item",
-              "title": "Code Hike",
-              "description": "Helps you create a superior code reading experience, whether you are writing blog posts, documentation, tutorials, coding videos, or any type of technical content.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "TypeScript",
-                "last_commit": "2026-03-17T09:09:59Z",
-                "owner": "code-hike",
-                "repo": "codehike",
-                "stars": 5375
-              }
+              "node_type": "group",
+              "title": "Presentation Tools",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "reveal.js",
+                  "description": "Open source HTML presentation framework.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1861458,
+                    "language": "JavaScript",
+                    "last_commit": "2026-05-21T19:20:20Z",
+                    "owner": "hakimel",
+                    "repo": "reveal.js",
+                    "stars": 72150
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Slidev",
+                  "description": "Presentation slides for developers.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 361044034,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-19T06:22:42Z",
+                    "owner": "slidevjs",
+                    "repo": "slidev",
+                    "stars": 48149
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "carbon",
+                  "description": "Create and share beautiful images of your source code.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 94498635,
+                    "language": "JavaScript",
+                    "last_commit": "2026-02-10T05:07:19Z",
+                    "owner": "carbon-app",
+                    "repo": "carbon",
+                    "stars": 36089
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Code Hike",
+                  "description": "Helps you create a superior code reading experience, whether you are writing blog posts, documentation, tutorials, coding videos, or any type of technical content.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 258080286,
+                    "language": "TypeScript",
+                    "last_commit": "2026-03-17T09:09:59Z",
+                    "owner": "code-hike",
+                    "repo": "codehike",
+                    "stars": 5375
+                  }
+                }
+              ]
             }
-          ]
+          ],
+          "description": "Documentation can be more than just plain texts and static pictures.",
+          "node_type": "group",
+          "title": "Multimedia"
         }
       ],
-      "title": "Multimedia"
+      "title": "General Tools"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Beautiful Docs",
+              "description": "Pointers to useful, well-written, and otherwise beautiful documentation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3105906,
+                "language": null,
+                "last_commit": "2026-08-19T01:58:02Z",
+                "owner": "matheusfelipeog",
+                "repo": "beautiful-docs",
+                "stars": 9524
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Open Source Documents",
+              "description": "A curated list of awesome open source or open source licensed documents, guides, books.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35621106,
+                "language": null,
+                "last_commit": "2025-10-29T00:26:24Z",
+                "owner": "44bits",
+                "repo": "awesome-opensource-documents",
+                "stars": 2315
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Documentation | vipulgupta2048",
+              "description": "A curated list of awesome real-life documentation examples.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 303839245,
+                "language": null,
+                "last_commit": "2026-03-11T05:42:00Z",
+                "owner": "vipulgupta2048",
+                "repo": "awesome-documentation",
+                "stars": 52
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Examples"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Converters",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Mammoth",
+                  "description": "Convert Word documents (.docx files) to HTML.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 9107190,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-09T13:58:57Z",
+                    "owner": "mwilliamson",
+                    "repo": "mammoth.js",
+                    "stars": 6284
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Markdown",
+              "description": "A lightweight markup language for creating formatted text using a plain-text editor.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "MarkText",
+                  "description": "A simple and elegant markdown editor, available for Linux, macOS and Windows.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 110446844,
+                    "language": "TypeScript",
+                    "last_commit": "2026-07-27T03:16:54Z",
+                    "owner": "marktext",
+                    "repo": "marktext",
+                    "stars": 60296
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Glow",
+                  "description": "A terminal based markdown reader, which can be used to read documentation directly on the command line.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 219616873,
+                    "language": "Go",
+                    "last_commit": "2026-08-16T00:02:03Z",
+                    "owner": "charmbracelet",
+                    "repo": "glow",
+                    "stars": 26949
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "AsciiDoc",
+              "description": "A plain text markup language for writing technical content.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Asciidoctor",
+                  "description": "A fast, open source, Ruby-based text processor for parsing AsciiDoc and converting it to output formats such as HTML 5, DocBook 5, manual pages, PDF, EPUB 3, and other formats.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 4523235,
+                    "language": "Ruby",
+                    "last_commit": "2026-07-26T17:24:29Z",
+                    "owner": "asciidoctor",
+                    "repo": "asciidoctor",
+                    "stars": 5204
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Formats"
+        }
+      ],
       "title": "More Topics"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Beautiful Docs",
-          "description": "Pointers to useful, well-written, and otherwise beautiful documentation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-03-03T19:26:30Z",
-            "owner": "matheusfelipeog",
-            "repo": "beautiful-docs",
-            "stars": 9522
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Open Source Documents",
-          "description": "A curated list of awesome open source or open source licensed documents, guides, books.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-10-29T00:26:24Z",
-            "owner": "44bits",
-            "repo": "awesome-opensource-documents",
-            "stars": 2315
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Documentation | vipulgupta2048",
-          "description": "A curated list of awesome real-life documentation examples.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-03-11T05:42:00Z",
-            "owner": "vipulgupta2048",
-            "repo": "awesome-documentation",
-            "stars": 52
-          }
-        }
-      ],
-      "title": "Examples"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Converters",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Mammoth",
-              "description": "Convert Word documents (.docx files) to HTML.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2026-08-09T13:58:57Z",
-                "owner": "mwilliamson",
-                "repo": "mammoth.js",
-                "stars": 6284
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Markdown",
-          "description": "A lightweight markup language for creating formatted text using a plain-text editor.",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "MarkText",
-              "description": "A simple and elegant markdown editor, available for Linux, macOS and Windows.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "TypeScript",
-                "last_commit": "2026-07-27T03:16:54Z",
-                "owner": "marktext",
-                "repo": "marktext",
-                "stars": 60244
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Glow",
-              "description": "A terminal based markdown reader, which can be used to read documentation directly on the command line.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Go",
-                "last_commit": "2026-08-16T00:02:03Z",
-                "owner": "charmbracelet",
-                "repo": "glow",
-                "stars": 26939
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "AsciiDoc",
-          "description": "A plain text markup language for writing technical content.",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Asciidoctor",
-              "description": "A fast, open source, Ruby-based text processor for parsing AsciiDoc and converting it to output formats such as HTML 5, DocBook 5, manual pages, PDF, EPUB 3, and other formats.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Ruby",
-                "last_commit": "2026-07-26T17:24:29Z",
-                "owner": "asciidoctor",
-                "repo": "asciidoctor",
-                "stars": 5204
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Formats"
-    },
-    {
-      "description": "Please feel invited to do any contribution.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T23:33:56.018Z",
+    "last_updated": "2026-08-19T12:25:56.906Z",
     "original_repository": "pengqun/awesome-documentation",
+    "original_repository_id": 749848242,
     "original_repository_sha": "0370f36e059330db044c627f53823c2ff0b5dbea",
     "enhanced_repository": "enhansome/enhansome-documentation",
     "enhanced_repository_description": null,
