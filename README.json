@@ -559,7 +559,7 @@
                     "language": "Java",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-28T04:15:32Z",
-                    "open_issues": 5710,
+                    "open_issues": 5709,
                     "owner": "OpenAPITools",
                     "repo": "openapi-generator",
                     "stars": 26696,
@@ -662,7 +662,7 @@
                     "open_issues": 337,
                     "owner": "fern-api",
                     "repo": "fern",
-                    "stars": 3766,
+                    "stars": 3767,
                     "topics": [
                       "api",
                       "docs-as-code",
@@ -1781,8 +1781,8 @@
                     "id": 41881900,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-08-29T04:03:59Z",
-                    "open_issues": 20174,
+                    "last_commit": "2026-08-29T04:48:39Z",
+                    "open_issues": 20178,
                     "owner": "microsoft",
                     "repo": "vscode",
                     "stars": 189757,
@@ -1808,7 +1808,7 @@
                     "id": 51108542,
                     "language": "HTML",
                     "license": null,
-                    "last_commit": "2026-08-28T09:53:42Z",
+                    "last_commit": "2026-08-29T04:48:39Z",
                     "open_issues": 972,
                     "owner": "sonic-net",
                     "repo": "SONiC",
@@ -2103,7 +2103,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-23T22:51:57Z",
-                "open_issues": 1420,
+                "open_issues": 1419,
                 "owner": "sphinx-doc",
                 "repo": "sphinx",
                 "stars": 7994,
@@ -2318,7 +2318,7 @@
                 "open_issues": 189,
                 "owner": "requarks",
                 "repo": "wiki",
-                "stars": 28815,
+                "stars": 28816,
                 "topics": [
                   "cross-platform",
                   "documentation",
@@ -2532,7 +2532,7 @@
                 "open_issues": 714,
                 "owner": "toeverything",
                 "repo": "AFFiNE",
-                "stars": 71985,
+                "stars": 71987,
                 "topics": [
                   "app",
                   "crdt",
@@ -2572,7 +2572,7 @@
                 "open_issues": 963,
                 "owner": "logseq",
                 "repo": "logseq",
-                "stars": 44672,
+                "stars": 44673,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -2605,7 +2605,7 @@
                 "open_issues": 709,
                 "owner": "TriliumNext",
                 "repo": "Trilium",
-                "stars": 37626,
+                "stars": 37625,
                 "topics": [
                   "electron",
                   "electron-app",
@@ -3060,7 +3060,7 @@
                 "open_issues": 3419,
                 "owner": "excalidraw",
                 "repo": "excalidraw",
-                "stars": 130725,
+                "stars": 130726,
                 "topics": [
                   "canvas",
                   "collaboration",
@@ -3086,7 +3086,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-28T20:19:25Z",
-                "open_issues": 1751,
+                "open_issues": 1752,
                 "owner": "mermaid-js",
                 "repo": "mermaid",
                 "stars": 89974,
@@ -3798,7 +3798,7 @@
                     "open_issues": 727,
                     "owner": "marktext",
                     "repo": "marktext",
-                    "stars": 60714,
+                    "stars": 60715,
                     "topics": [
                       "dark-mode",
                       "editor",
@@ -3931,7 +3931,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:08:32.027Z",
+    "last_updated": "2026-08-29T04:52:22.695Z",
     "original_repository_info": {
       "archived": false,
       "description": "📃 A curated and up-to-date list of resources on software documentation templates, tools, guides, examples, etc.",
