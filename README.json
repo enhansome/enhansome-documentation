@@ -14,12 +14,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A lightweight, dependency-free JavaScript library for guiding user focus across the page.",
+                    "homepage": "https://driverjs.com",
                     "id": 124792826,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-07-18T16:01:07Z",
+                    "open_issues": 22,
                     "owner": "nilbuild",
                     "repo": "driver.js",
-                    "stars": 26647
+                    "stars": 26649,
+                    "topics": [
+                      "feature-introductions",
+                      "overlay",
+                      "overlays",
+                      "popover",
+                      "product-tour",
+                      "product-tours",
+                      "spotlight",
+                      "tour",
+                      "user-onboarding",
+                      "walkthrough"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -30,12 +46,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Guide your users through a tour of your app",
+                    "homepage": "https://shepherdjs.dev",
                     "id": 15246993,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-25T10:04:35Z",
+                    "open_issues": 34,
                     "owner": "shipshapecode",
                     "repo": "shepherd",
-                    "stars": 13798
+                    "stars": 13798,
+                    "topics": [
+                      "hacktoberfest",
+                      "shepherd",
+                      "tour"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 }
@@ -58,12 +83,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "✍️ Architecture Decision Records (ADR) management and publication tool",
+                "homepage": "https://thomvaill.github.io/log4brains/",
                 "id": 295764802,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2024-12-17T16:51:30Z",
+                "open_issues": 57,
                 "owner": "thomvaill",
                 "repo": "log4brains",
-                "stars": 1570
+                "stars": 1570,
+                "topics": [
+                  "adr",
+                  "architecture",
+                  "architecture-decision-record",
+                  "architecture-decision-records",
+                  "developer-tools",
+                  "docs-as-code",
+                  "documentation",
+                  "generator",
+                  "knowledge-base",
+                  "markdown",
+                  "static-site-generator",
+                  "tool",
+                  "tooling"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             },
@@ -79,12 +123,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "a AsciiDoc Toolchain for technical Software Documentation, focused on Software Architecture Documentation",
+                    "homepage": "https://doctoolchain.github.io/docToolchain/",
                     "id": 62666917,
                     "language": "Groovy",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T16:33:38Z",
+                    "open_issues": 296,
                     "owner": "docToolchain",
                     "repo": "docToolchain",
-                    "stars": 860
+                    "stars": 860,
+                    "topics": [
+                      "arc42",
+                      "asciidoc",
+                      "asciidoctor",
+                      "asciidoctor-diagram",
+                      "asciidoctor-pdf",
+                      "confluence",
+                      "docs-as-code",
+                      "enterprise-architect",
+                      "hacktoberfest",
+                      "hacktoberfest2021"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -95,12 +155,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This example shows how you can use arc42 in combination with the C4 model and the Documentation as Code technique.",
+                    "homepage": "https://bitsmuggler.github.io/arc42-c4-software-architecture-documentation-example/",
                     "id": 559197192,
                     "language": "Shell",
+                    "license": null,
                     "last_commit": "2026-08-22T06:16:55Z",
+                    "open_issues": 1,
                     "owner": "bitsmuggler",
                     "repo": "arc42-c4-software-architecture-documentation-example",
-                    "stars": 201
+                    "stars": 201,
+                    "topics": [
+                      "arc42",
+                      "c4",
+                      "c4-model",
+                      "docsascode",
+                      "documentation-as-code"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 }
@@ -118,12 +189,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures",
+                    "homepage": null,
                     "id": 147545986,
                     "language": "PlantUML",
+                    "license": "MIT",
                     "last_commit": "2026-08-26T14:58:27Z",
+                    "open_issues": 0,
                     "owner": "plantuml-stdlib",
                     "repo": "C4-PlantUML",
-                    "stars": 7386
+                    "stars": 7387,
+                    "topics": [
+                      "architecture",
+                      "c4",
+                      "c4model",
+                      "diagram",
+                      "graphviz",
+                      "plantuml",
+                      "uml"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -134,12 +218,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "C4 Modelling little bit easier",
+                    "homepage": "https://tobiashochguertel.github.io/c4-draw.io/",
                     "id": 101432938,
                     "language": "HTML",
+                    "license": "GPL-3.0",
                     "last_commit": "2022-09-12T09:10:28Z",
+                    "open_issues": 14,
                     "owner": "tobiashochguertel",
                     "repo": "c4-draw.io",
-                    "stars": 809
+                    "stars": 809,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -150,12 +239,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is a documentation builder. You feed it .md and .puml and it exports a site, pdf, or a markdown with navigation.",
+                    "homepage": "https://adrianvlupu.github.io/C4-Builder/",
                     "id": 178720222,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2024-03-11T13:23:03Z",
+                    "open_issues": 38,
                     "owner": "adrianvlupu",
                     "repo": "C4-Builder",
-                    "stars": 624
+                    "stars": 624,
+                    "topics": [
+                      "architecture",
+                      "c4-plantuml",
+                      "c4model",
+                      "diagrams",
+                      "docsify",
+                      "documentation",
+                      "markdown",
+                      "pdf-generation",
+                      "plantuml"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -166,12 +270,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Create your software architecture models and diagrams in Go.",
+                    "homepage": null,
                     "id": 276731696,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2026-08-21T00:51:00Z",
+                    "open_issues": 27,
                     "owner": "goadesign",
                     "repo": "model",
-                    "stars": 466
+                    "stars": 466,
+                    "topics": [
+                      "c4",
+                      "diagram-as-code",
+                      "diagrams",
+                      "dsl",
+                      "go"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -182,12 +297,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "C4Sharp (C4S) is a .net library for building C4 Model diagrams.",
+                    "homepage": null,
                     "id": 352080063,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-02-01T22:57:03Z",
+                    "open_issues": 3,
                     "owner": "8T4",
                     "repo": "c4sharp",
-                    "stars": 320
+                    "stars": 320,
+                    "topics": [
+                      "c4-plantuml",
+                      "c4model",
+                      "csharp",
+                      "dotnet",
+                      "dsl",
+                      "nuget",
+                      "plantuml"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 }
@@ -209,12 +337,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "API Documentation Browser",
+                    "homepage": "https://devdocs.io",
                     "id": 13840241,
                     "language": "Ruby",
+                    "license": "MPL-2.0",
                     "last_commit": "2026-08-26T20:41:37Z",
+                    "open_issues": 217,
                     "owner": "freeCodeCamp",
                     "repo": "devdocs",
-                    "stars": 39380
+                    "stars": 39386,
+                    "topics": [
+                      "api-documentation",
+                      "app",
+                      "devdocs",
+                      "developer-tools",
+                      "docs",
+                      "documentation",
+                      "documentation-tool",
+                      "offline",
+                      "pwa"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -230,24 +373,48 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "OpenAPI / Swagger, AsyncAPI & Semoasa definitions to (re)Slate compatible markdown",
+                        "homepage": "https://mermade.github.io/reslate",
                         "id": 70106620,
                         "language": "JavaScript",
+                        "license": "MIT",
                         "last_commit": "2024-06-04T23:50:09Z",
+                        "open_issues": 89,
                         "owner": "Mermade",
                         "repo": "widdershins",
-                        "stars": 1580
+                        "stars": 1580,
+                        "topics": [
+                          "api",
+                          "asyncapi",
+                          "documentation",
+                          "openapi",
+                          "openapi3",
+                          "semoasa",
+                          "slate",
+                          "swagger"
+                        ]
                       },
                       "first_seen": "2026-08-28T06:55:09.323Z"
                     }
                   ],
                   "repo_info": {
                     "archived": true,
+                    "description": "Beautiful static documentation for your API",
+                    "homepage": "https://slatedocs.github.io/slate",
                     "id": 12820537,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-02-01T05:54:12Z",
+                    "open_issues": 50,
                     "owner": "slatedocs",
                     "repo": "slate",
-                    "stars": 36037
+                    "stars": 36037,
+                    "topics": [
+                      "api",
+                      "api-documentation",
+                      "slate",
+                      "static-site-generator"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -258,12 +425,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Offline documentation browser. Your personal reference library, searchable in an instant.",
+                    "homepage": "https://zealdocs.org",
                     "id": 7711472,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-18T13:27:21Z",
+                    "open_issues": 107,
                     "owner": "zealdocs",
                     "repo": "zeal",
-                    "stars": 12780
+                    "stars": 12781,
+                    "topics": [
+                      "api",
+                      "api-documentation",
+                      "dash",
+                      "desktop-application",
+                      "developer-tools",
+                      "docs",
+                      "docset",
+                      "documentation",
+                      "documentation-tool",
+                      "linux",
+                      "offline",
+                      "qt",
+                      "reference",
+                      "windows",
+                      "zeal"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -274,12 +462,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "RESTful web API Documentation Generator.",
+                    "homepage": "http://apidocjs.com",
                     "id": 9568416,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-02-16T09:29:16Z",
+                    "open_issues": 85,
                     "owner": "apidoc",
                     "repo": "apidoc",
-                    "stars": 9656
+                    "stars": 9656,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 }
@@ -297,12 +490,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The open source frontend for GitBook doc sites",
+                    "homepage": "https://www.gitbook.com",
                     "id": 18280236,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-28T06:23:50Z",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-08-28T19:39:15Z",
+                    "open_issues": 102,
                     "owner": "GitbookIO",
                     "repo": "gitbook",
-                    "stars": 29016
+                    "stars": 29017,
+                    "topics": [
+                      "documentation",
+                      "git",
+                      "gitbook",
+                      "markdown"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -313,12 +516,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.",
+                    "homepage": "https://swagger.io",
                     "id": 2055965,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-27T23:02:51Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-28T09:47:20Z",
+                    "open_issues": 1141,
                     "owner": "swagger-api",
                     "repo": "swagger-ui",
-                    "stars": 28994
+                    "stars": 28994,
+                    "topics": [
+                      "hacktoberfest",
+                      "oas",
+                      "open-source",
+                      "openapi",
+                      "openapi-specification",
+                      "openapi3",
+                      "openapi31",
+                      "openapi32",
+                      "rest",
+                      "rest-api",
+                      "swagger",
+                      "swagger-api",
+                      "swagger-client",
+                      "swagger-oss",
+                      "swagger-ui"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -329,12 +553,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)",
+                    "homepage": "https://openapi-generator.tech",
                     "id": 133134007,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T04:15:32Z",
+                    "open_issues": 5710,
                     "owner": "OpenAPITools",
                     "repo": "openapi-generator",
-                    "stars": 26688
+                    "stars": 26696,
+                    "topics": [
+                      "api",
+                      "api-client",
+                      "api-server",
+                      "generator",
+                      "hacktoberfest",
+                      "openapi",
+                      "openapi-generator",
+                      "openapi3",
+                      "rest",
+                      "rest-api",
+                      "rest-client",
+                      "restful-api",
+                      "sdk"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -345,12 +588,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "📘  OpenAPI/Swagger-generated API Reference Documentation",
+                    "homepage": "https://redocly.github.io/redoc/",
                     "id": 45250726,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-20T14:24:51Z",
+                    "open_issues": 449,
                     "owner": "Redocly",
                     "repo": "redoc",
-                    "stars": 25889
+                    "stars": 25891,
+                    "topics": [
+                      "api-documentation",
+                      "documentation-generator",
+                      "documentation-tool",
+                      "hacktoberfest",
+                      "openapi",
+                      "openapi-specification",
+                      "openapi3",
+                      "openapi31",
+                      "reactjs",
+                      "redoc",
+                      "swagger"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -361,12 +621,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support",
+                    "homepage": "https://scalar.com",
                     "id": 679280065,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-28T06:48:20Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T00:09:59Z",
+                    "open_issues": 84,
                     "owner": "scalar",
                     "repo": "scalar",
-                    "stars": 16008
+                    "stars": 16007,
+                    "topics": [
+                      "api",
+                      "api-client",
+                      "docs",
+                      "http-client",
+                      "openapi",
+                      "openapi3",
+                      "reference",
+                      "rest-api",
+                      "swagger",
+                      "vue"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -377,12 +653,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Input OpenAPI. Output SDKs and Docs.",
+                    "homepage": "https://buildwithfern.com",
                     "id": 476820102,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-28T04:18:14Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-29T01:31:49Z",
+                    "open_issues": 337,
                     "owner": "fern-api",
                     "repo": "fern",
-                    "stars": 3765
+                    "stars": 3766,
+                    "topics": [
+                      "api",
+                      "docs-as-code",
+                      "docs-generator",
+                      "openapi",
+                      "sdk-generator"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -393,12 +680,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Build beautiful, interactive API Docs with embeddable React or Web Components, powered by OpenAPI and Markdown.",
+                    "homepage": "https://stoplight.io/open-source/elements/",
                     "id": 184680614,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T12:10:16Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-28T12:54:24Z",
+                    "open_issues": 272,
                     "owner": "stoplightio",
                     "repo": "elements",
-                    "stars": 2454
+                    "stars": 2454,
+                    "topics": [
+                      "api",
+                      "api-documentation",
+                      "gatsby",
+                      "hacktoberfest",
+                      "openapi",
+                      "openapi3",
+                      "openapi3-1",
+                      "react",
+                      "stoplight-elements",
+                      "stoplight-oss",
+                      "swagger-oss"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -409,12 +713,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "RapiDoc -WebComponent for OpenAPI Spec",
+                    "homepage": "https://rapidocweb.com",
                     "id": 165951750,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-02-11T08:37:36Z",
+                    "open_issues": 138,
                     "owner": "rapi-doc",
                     "repo": "RapiDoc",
-                    "stars": 1899
+                    "stars": 1899,
+                    "topics": [
+                      "api",
+                      "custom-element",
+                      "documentation",
+                      "open-api",
+                      "openapi3",
+                      "rapidoc",
+                      "rest",
+                      "swagger",
+                      "swagger-ui"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 }
@@ -432,12 +751,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Autogenerate static GraphQL API documentation",
+                    "homepage": "https://useanvil.com/docs/api/graphql/reference/",
                     "id": 348502906,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-09T13:40:55Z",
+                    "open_issues": 98,
                     "owner": "anvilco",
                     "repo": "spectaql",
-                    "stars": 1229
+                    "stars": 1229,
+                    "topics": [
+                      "api",
+                      "documentation",
+                      "documentation-generator",
+                      "graphql",
+                      "javascript",
+                      "nodejs"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -448,12 +779,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Easily generate beautiful documentation from your GraphQL schema.",
+                    "homepage": "https://graphql-docs.bcodes.me/",
                     "id": 81388642,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2026-01-22T15:24:45Z",
+                    "open_issues": 7,
                     "owner": "brettchalupa",
                     "repo": "graphql-docs",
-                    "stars": 521
+                    "stars": 521,
+                    "topics": [
+                      "documentation",
+                      "good-first-issue",
+                      "graphql",
+                      "ruby"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -464,12 +805,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Autogenerate static GraphQL API documentation",
+                    "homepage": "https://magidoc.js.org",
                     "id": 455860136,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T12:03:03Z",
+                    "open_issues": 25,
                     "owner": "magidoc-org",
                     "repo": "magidoc",
-                    "stars": 286
+                    "stars": 286,
+                    "topics": [
+                      "documentation",
+                      "documentation-generator",
+                      "graphql",
+                      "javascript",
+                      "markdown",
+                      "marked",
+                      "marked-js",
+                      "node",
+                      "nodejs-library",
+                      "prismjs",
+                      "svelte",
+                      "sveltekit",
+                      "typescript",
+                      "typescript-library"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 }
@@ -487,12 +848,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Documentation generator plugin for Google Protocol Buffers",
+                    "homepage": null,
                     "id": 22581723,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2026-07-21T16:29:26Z",
+                    "open_issues": 129,
                     "owner": "pseudomuto",
                     "repo": "protoc-gen-doc",
-                    "stars": 2838
+                    "stars": 2838,
+                    "topics": [
+                      "documentation-tool",
+                      "go",
+                      "golang",
+                      "hacktoberfest",
+                      "hacktoberfest2021",
+                      "protobuf",
+                      "protoc"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -503,12 +877,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple static documentation generator for Protobuf and gRPC contracts.",
+                    "homepage": null,
                     "id": 539184242,
                     "language": "CSS",
+                    "license": "MIT",
                     "last_commit": "2026-05-09T19:00:49Z",
+                    "open_issues": 9,
                     "owner": "markvincze",
                     "repo": "sabledocs",
-                    "stars": 94
+                    "stars": 94,
+                    "topics": [
+                      "documentation",
+                      "grpc",
+                      "protobuf"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 }
@@ -526,12 +909,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!",
+                    "homepage": "https://asyncapi.com/docs/tools/generator",
                     "id": 142165796,
                     "language": "JavaScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-27T23:53:16Z",
+                    "open_issues": 43,
                     "owner": "asyncapi",
                     "repo": "generator",
-                    "stars": 1075
+                    "stars": 1075,
+                    "topics": [
+                      "asyncapi",
+                      "codegen",
+                      "codegenerator",
+                      "documentation",
+                      "generator",
+                      "get-global-docs-autoupdate",
+                      "get-global-holopin",
+                      "get-global-prettierignore",
+                      "hacktoberfest",
+                      "nodejs"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -542,12 +941,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "React component for rendering documentation from your specification in real-time in the browser. It also provides a WebComponent and bundle for Angular and Vue",
+                    "homepage": "https://asyncapi.github.io/asyncapi-react/",
                     "id": 156510564,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-23T06:19:09Z",
+                    "open_issues": 22,
                     "owner": "asyncapi",
                     "repo": "asyncapi-react",
-                    "stars": 241
+                    "stars": 241,
+                    "topics": [
+                      "asyncapi",
+                      "asyncapi-specification",
+                      "event",
+                      "get-global-node-release-workflows",
+                      "hacktoberfest",
+                      "nodejs",
+                      "react",
+                      "reactjs"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -558,12 +971,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A demo site built on top of Kafka topics",
+                    "homepage": null,
                     "id": 508120743,
                     "language": "JavaScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-27T07:49:52Z",
+                    "open_issues": 5,
                     "owner": "swagger-api",
                     "repo": "petstore-kafka",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": [
+                      "swagger-oss"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 }
@@ -581,12 +1001,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "RAML Specification",
+                    "homepage": "http://raml.org",
                     "id": 13226404,
                     "language": null,
+                    "license": null,
                     "last_commit": "2022-03-25T21:55:39Z",
+                    "open_issues": 226,
                     "owner": "raml-org",
                     "repo": "raml-spec",
-                    "stars": 3848
+                    "stars": 3848,
+                    "topics": [
+                      "api-definition",
+                      "api-documentation",
+                      "raml",
+                      "raml-specification"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -597,12 +1027,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "RAML to HTML documentation generator.",
+                    "homepage": "https://www.npmjs.org/package/raml2html",
                     "id": 17437377,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2022-09-22T08:36:40Z",
+                    "open_issues": 27,
                     "owner": "raml2html",
                     "repo": "raml2html",
-                    "stars": 1130
+                    "stars": 1130,
+                    "topics": [
+                      "raml",
+                      "raml-document",
+                      "raml-tooling",
+                      "raml2html"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -613,12 +1053,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An interactive REST console based on RAML/OAS files",
+                    "homepage": null,
                     "id": 10970632,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-26T19:23:46Z",
+                    "open_issues": 49,
                     "owner": "mulesoft",
                     "repo": "api-console",
-                    "stars": 909
+                    "stars": 909,
+                    "topics": [
+                      "raml",
+                      "raml-document",
+                      "raml-tooling"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 }
@@ -643,12 +1092,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A curated list of awesome READMEs",
+                    "homepage": null,
                     "id": 29456624,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-08-20T19:50:09Z",
+                    "open_issues": 1,
                     "owner": "matiassingers",
                     "repo": "awesome-readme",
-                    "stars": 21384
+                    "stars": 21388,
+                    "topics": [
+                      "awesome",
+                      "awesome-list",
+                      "list",
+                      "readme"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -659,12 +1118,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An awesome README template to jumpstart your projects! ",
+                    "homepage": null,
                     "id": 161215159,
                     "language": null,
+                    "license": "Unlicense",
                     "last_commit": "2026-04-18T12:39:32Z",
+                    "open_issues": 12,
                     "owner": "othneildrew",
                     "repo": "Best-README-Template",
-                    "stars": 16322
+                    "stars": 16323,
+                    "topics": [
+                      "readme",
+                      "readme-template"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -675,12 +1142,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An online drag-and-drop editor to easily build READMEs",
+                    "homepage": "https://readme.so",
                     "id": 356007050,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-03-13T04:38:06Z",
+                    "open_issues": 64,
                     "owner": "octokatherine",
                     "repo": "readme.so",
-                    "stars": 4628
+                    "stars": 4629,
+                    "topics": [
+                      "markdown",
+                      "nextjs",
+                      "react",
+                      "tailwindcss"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -691,12 +1168,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Java tool for generating multilingual Markdown documentation from templates with variables, imports, and widgets",
+                    "homepage": "https://github.com/nanolaba/readme-generator",
                     "id": 780794188,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-05-18T10:01:41Z",
+                    "open_issues": 14,
                     "owner": "nanolaba",
                     "repo": "readme-generator",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": [
+                      "cli",
+                      "document-generation",
+                      "documentation-tool",
+                      "i18n",
+                      "java",
+                      "markdown",
+                      "markdown-templates",
+                      "maven-plugin",
+                      "multilingual",
+                      "readme",
+                      "readme-generator-template",
+                      "readme-md",
+                      "readme-template",
+                      "template-engine",
+                      "toc-generator"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 }
@@ -714,12 +1212,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Vim plugin for intensely nerdy commenting powers",
+                    "homepage": null,
                     "id": 3287,
                     "language": "Vim Script",
+                    "license": "CC0-1.0",
                     "last_commit": "2025-11-19T08:24:44Z",
+                    "open_issues": 102,
                     "owner": "preservim",
                     "repo": "nerdcommenter",
-                    "stars": 5006
+                    "stars": 5006,
+                    "topics": [
+                      "comment",
+                      "commenting",
+                      "vim",
+                      "vim-plugin",
+                      "vim-plugins"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 }
@@ -737,12 +1246,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Templates for open source and other licenses",
+                    "homepage": null,
                     "id": 9262063,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2021-04-13T11:14:57Z",
+                    "open_issues": 15,
                     "owner": "licenses",
                     "repo": "license-templates",
-                    "stars": 456
+                    "stars": 456,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 }
@@ -765,12 +1279,38 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
+                        "homepage": "https://storybook.js.org",
                         "id": 54173593,
                         "language": "TypeScript",
-                        "last_commit": "2026-08-28T06:28:53Z",
+                        "license": "MIT",
+                        "last_commit": "2026-08-28T21:09:18Z",
+                        "open_issues": 1774,
                         "owner": "storybookjs",
                         "repo": "storybook",
-                        "stars": 90950
+                        "stars": 90958,
+                        "topics": [
+                          "angular",
+                          "components",
+                          "design-systems",
+                          "documentation",
+                          "html",
+                          "javascript",
+                          "react",
+                          "react-native",
+                          "stories",
+                          "storybook",
+                          "styleguide",
+                          "svelte",
+                          "testing",
+                          "typescript",
+                          "ui",
+                          "vite",
+                          "vue",
+                          "web-components",
+                          "webpack",
+                          "workshop"
+                        ]
                       },
                       "first_seen": "2026-08-28T06:55:09.323Z"
                     },
@@ -781,12 +1321,29 @@
                       "children": [],
                       "repo_info": {
                         "archived": true,
+                        "description": "✍ It has never been so easy to document your things!",
+                        "homepage": null,
                         "id": 125596489,
                         "language": "TypeScript",
+                        "license": "MIT",
                         "last_commit": "2025-11-21T04:28:57Z",
+                        "open_issues": 110,
                         "owner": "pedronauck",
                         "repo": "docz",
-                        "stars": 23581
+                        "stars": 23581,
+                        "topics": [
+                          "design-system",
+                          "docs",
+                          "documentation",
+                          "docz",
+                          "gatsby",
+                          "js",
+                          "mdx",
+                          "react",
+                          "theme",
+                          "ui",
+                          "zero-configuration"
+                        ]
                       },
                       "first_seen": "2026-08-28T06:55:09.323Z"
                     },
@@ -797,12 +1354,23 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "An API documentation generator for JavaScript.",
+                        "homepage": "https://jsdoc.app/",
                         "id": 560495,
                         "language": "JavaScript",
-                        "last_commit": "2026-08-27T23:30:16Z",
+                        "license": "Apache-2.0",
+                        "last_commit": "2026-08-28T16:46:59Z",
+                        "open_issues": 459,
                         "owner": "jsdoc",
                         "repo": "jsdoc",
-                        "stars": 15455
+                        "stars": 15456,
+                        "topics": [
+                          "api",
+                          "docs",
+                          "documentation",
+                          "javascript",
+                          "jsdoc"
+                        ]
                       },
                       "first_seen": "2026-08-28T06:55:09.323Z"
                     },
@@ -813,12 +1381,23 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": ":book: documentation for modern JavaScript",
+                        "homepage": "http://documentation.js.org/",
                         "id": 31936600,
                         "language": "JavaScript",
+                        "license": "NOASSERTION",
                         "last_commit": "2025-04-15T18:50:26Z",
+                        "open_issues": 204,
                         "owner": "documentationjs",
                         "repo": "documentation",
-                        "stars": 5799
+                        "stars": 5799,
+                        "topics": [
+                          "babel",
+                          "documentation",
+                          "documentation-tool",
+                          "javascript",
+                          "jsdoc"
+                        ]
                       },
                       "first_seen": "2026-08-28T06:55:09.323Z"
                     }
@@ -836,12 +1415,28 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A doc comment standard for TypeScript",
+                        "homepage": "https://tsdoc.org/",
                         "id": 123358607,
                         "language": "TypeScript",
+                        "license": "MIT",
                         "last_commit": "2026-08-24T22:40:36Z",
+                        "open_issues": 153,
                         "owner": "microsoft",
                         "repo": "tsdoc",
-                        "stars": 4961
+                        "stars": 4961,
+                        "topics": [
+                          "comments",
+                          "doc-comments",
+                          "documentation",
+                          "jsdoc",
+                          "markdown",
+                          "parser",
+                          "rushstack",
+                          "specification",
+                          "syntax",
+                          "typescript"
+                        ]
                       },
                       "first_seen": "2026-08-28T06:55:09.323Z"
                     }
@@ -859,12 +1454,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Style guides for Google-originated open-source projects",
+                        "homepage": "https://google.github.io/styleguide/",
                         "id": 35969061,
                         "language": "HTML",
+                        "license": "NOASSERTION",
                         "last_commit": "2026-06-03T15:51:23Z",
+                        "open_issues": 170,
                         "owner": "google",
                         "repo": "styleguide",
-                        "stars": 39546
+                        "stars": 39549,
+                        "topics": [
+                          "cpplint",
+                          "style-guide",
+                          "styleguide"
+                        ]
                       },
                       "first_seen": "2026-08-28T06:55:09.323Z"
                     }
@@ -882,12 +1486,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Documentation Generator for PHP ",
+                        "homepage": "https://www.phpdoc.org",
                         "id": 761653,
                         "language": "PHP",
-                        "last_commit": "2026-08-24T02:37:55Z",
+                        "license": "MIT",
+                        "last_commit": "2026-08-28T12:08:18Z",
+                        "open_issues": 169,
                         "owner": "phpDocumentor",
                         "repo": "phpDocumentor",
-                        "stars": 4346
+                        "stars": 4346,
+                        "topics": [
+                          "docblock",
+                          "docblocks",
+                          "graphviz",
+                          "hacktoberfest",
+                          "php",
+                          "phpdocumentor"
+                        ]
                       },
                       "first_seen": "2026-08-28T06:55:09.323Z"
                     }
@@ -905,12 +1521,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Static site generator for .NET API documentation.",
+                        "homepage": "https://dotnet.github.io/docfx/",
                         "id": 38007053,
                         "language": "C#",
+                        "license": "MIT",
                         "last_commit": "2026-08-27T08:28:24Z",
+                        "open_issues": 452,
                         "owner": "dotnet",
                         "repo": "docfx",
-                        "stars": 4448
+                        "stars": 4449,
+                        "topics": [
+                          "api",
+                          "csharp",
+                          "documentation",
+                          "dotnet",
+                          "markdown",
+                          "static-site-generator"
+                        ]
                       },
                       "first_seen": "2026-08-28T06:55:09.323Z"
                     }
@@ -928,12 +1556,20 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Official doxygen git repository",
+                        "homepage": "https://www.doxygen.org",
                         "id": 10160141,
                         "language": "C++",
+                        "license": "GPL-2.0",
                         "last_commit": "2026-08-26T18:50:38Z",
+                        "open_issues": 1858,
                         "owner": "doxygen",
                         "repo": "doxygen",
-                        "stars": 6563
+                        "stars": 6564,
+                        "topics": [
+                          "doxygen",
+                          "doxygen-documentation"
+                        ]
                       },
                       "first_seen": "2026-08-28T06:55:09.323Z"
                     }
@@ -956,12 +1592,23 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "Apache Maven Javadoc Plugin",
+                            "homepage": "https://maven.apache.org/plugins/maven-javadoc-plugin/",
                             "id": 113678408,
                             "language": "Java",
+                            "license": "Apache-2.0",
                             "last_commit": "2026-08-24T10:55:09Z",
+                            "open_issues": 81,
                             "owner": "apache",
                             "repo": "maven-javadoc-plugin",
-                            "stars": 107
+                            "stars": 107,
+                            "topics": [
+                              "build-management",
+                              "java",
+                              "maven",
+                              "maven-javadoc-plugin",
+                              "maven-plugins"
+                            ]
                           },
                           "first_seen": "2026-08-28T06:55:09.323Z"
                         }
@@ -981,12 +1628,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "API documentation engine for Kotlin",
+                        "homepage": "https://kotl.in/dokka",
                         "id": 21763603,
                         "language": "Kotlin",
+                        "license": "Apache-2.0",
                         "last_commit": "2026-08-24T14:57:56Z",
+                        "open_issues": 675,
                         "owner": "Kotlin",
                         "repo": "dokka",
-                        "stars": 3805
+                        "stars": 3805,
+                        "topics": [
+                          "api-reference",
+                          "documentation",
+                          "dokka",
+                          "kotlin"
+                        ]
                       },
                       "first_seen": "2026-08-28T06:55:09.323Z"
                     }
@@ -1004,12 +1661,23 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Automatically generate RESTful API documentation with Swagger 2.0 for Go.",
+                        "homepage": null,
                         "id": 93928882,
                         "language": "Go",
+                        "license": "MIT",
                         "last_commit": "2026-08-18T18:04:17Z",
+                        "open_issues": 475,
                         "owner": "swaggo",
                         "repo": "swag",
-                        "stars": 12996
+                        "stars": 12997,
+                        "topics": [
+                          "annotations",
+                          "golang",
+                          "openapi",
+                          "swagger",
+                          "swagger2"
+                        ]
                       },
                       "first_seen": "2026-08-28T06:55:09.323Z"
                     }
@@ -1027,12 +1695,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "crates.io documentation generator",
+                        "homepage": "https://docs.rs",
                         "id": 50424101,
                         "language": "Rust",
+                        "license": "MIT",
                         "last_commit": "2026-08-27T09:16:57Z",
+                        "open_issues": 144,
                         "owner": "rust-lang",
                         "repo": "docs.rs",
-                        "stars": 1172
+                        "stars": 1172,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T06:55:09.323Z"
                     }
@@ -1050,12 +1723,30 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Database documentation built easy",
+                        "homepage": "http://schemaspy.org",
                         "id": 64106157,
                         "language": "HTML",
+                        "license": "LGPL-3.0",
                         "last_commit": "2026-03-05T20:31:40Z",
+                        "open_issues": 302,
                         "owner": "schemaspy",
                         "repo": "schemaspy",
-                        "stars": 3712
+                        "stars": 3712,
+                        "topics": [
+                          "data-dictionary",
+                          "database",
+                          "database-diagrams",
+                          "database-documentation",
+                          "database-schemas",
+                          "documentation",
+                          "entity-relationship-diagram",
+                          "er-diagram",
+                          "java",
+                          "reverse-engineering",
+                          "schema",
+                          "schemaspy"
+                        ]
                       },
                       "first_seen": "2026-08-28T06:55:09.323Z"
                     }
@@ -1085,12 +1776,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Visual Studio Code",
+                    "homepage": "https://code.visualstudio.com",
                     "id": 41881900,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-28T06:37:12Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T04:03:59Z",
+                    "open_issues": 20174,
                     "owner": "microsoft",
                     "repo": "vscode",
-                    "stars": 189725
+                    "stars": 189757,
+                    "topics": [
+                      "editor",
+                      "electron",
+                      "microsoft",
+                      "typescript",
+                      "visual-studio-code"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -1101,12 +1803,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Landing page for Software for Open Networking in the Cloud (SONiC) - https://sonic-net.github.io/SONiC/",
+                    "homepage": null,
                     "id": 51108542,
                     "language": "HTML",
-                    "last_commit": "2026-08-27T07:49:05Z",
+                    "license": null,
+                    "last_commit": "2026-08-28T09:53:42Z",
+                    "open_issues": 972,
                     "owner": "sonic-net",
                     "repo": "SONiC",
-                    "stars": 2903
+                    "stars": 2904,
+                    "topics": [
+                      "hacktoberfest"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -1117,12 +1826,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "IEEE 829 Format",
+                    "homepage": null,
                     "id": 20866828,
                     "language": null,
+                    "license": null,
                     "last_commit": "2014-06-21T18:36:21Z",
+                    "open_issues": 1,
                     "owner": "JennifferLockwood",
                     "repo": "test_plan_template",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 }
@@ -1140,12 +1854,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This repository contains General Test Cases for performing Manual Testing on the Web/Mobile application. It also has Test cases related to API Testing. Templates related to Test Plan and BugBash are also updated.",
+                    "homepage": "https://mfaisalkhatri.github.io",
                     "id": 104551127,
                     "language": null,
+                    "license": "Apache-2.0",
                     "last_commit": "2025-08-03T15:03:29Z",
+                    "open_issues": 1,
                     "owner": "mfaisalkhatri",
                     "repo": "Manual_Testing",
-                    "stars": 490
+                    "stars": 490,
+                    "topics": [
+                      "apitesting",
+                      "beginner",
+                      "examples",
+                      "learning",
+                      "mobiletesting",
+                      "software-testing",
+                      "templates",
+                      "test-cases",
+                      "testcases",
+                      "testing",
+                      "testing-practices",
+                      "tests",
+                      "tutorial",
+                      "tutorials",
+                      "validation",
+                      "webtesting"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 }
@@ -1171,12 +1907,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy to maintain open source documentation websites.",
+                "homepage": "https://docusaurus.io",
                 "id": 94911145,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T16:50:37Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T20:35:46Z",
+                "open_issues": 397,
                 "owner": "facebook",
                 "repo": "docusaurus",
-                "stars": 66112
+                "stars": 66119,
+                "topics": [
+                  "documentation",
+                  "hacktoberfest",
+                  "javascript",
+                  "open-source",
+                  "react",
+                  "website"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             },
@@ -1187,12 +1935,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🃏 A magical documentation site generator.",
+                "homepage": "https://docsify.js.org",
                 "id": 74260508,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T04:32:57Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T16:51:01Z",
+                "open_issues": 93,
                 "owner": "docsifyjs",
                 "repo": "docsify",
-                "stars": 31482
+                "stars": 31487,
+                "topics": [
+                  "doc",
+                  "docs",
+                  "docsify",
+                  "documentation",
+                  "documentation-tool",
+                  "github-pages",
+                  "markdown",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             },
@@ -1208,24 +1970,47 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Documentation that simply works",
+                    "homepage": "https://squidfunk.github.io/mkdocs-material/",
                     "id": 50617428,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-27T13:02:04Z",
+                    "open_issues": 1,
                     "owner": "squidfunk",
                     "repo": "mkdocs-material",
-                    "stars": 27341
+                    "stars": 27342,
+                    "topics": [
+                      "documentation",
+                      "framework",
+                      "material-design",
+                      "mkdocs",
+                      "plugins",
+                      "theme"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Project documentation with Markdown.",
+                "homepage": "https://www.mkdocs.org",
                 "id": 15830664,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2025-10-20T13:17:06Z",
+                "open_issues": 188,
                 "owner": "mkdocs",
                 "repo": "mkdocs",
-                "stars": 22383
+                "stars": 22387,
+                "topics": [
+                  "documentation",
+                  "markdown",
+                  "mkdocs",
+                  "python",
+                  "static-site-generator"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             },
@@ -1236,12 +2021,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create book from markdown files. Like Gitbook but implemented in Rust",
+                "homepage": "https://rust-lang.github.io/mdBook/",
                 "id": 38655056,
                 "language": "Rust",
-                "last_commit": "2026-08-26T18:36:35Z",
+                "license": "MPL-2.0",
+                "last_commit": "2026-08-28T20:54:35Z",
+                "open_issues": 668,
                 "owner": "rust-lang",
                 "repo": "mdBook",
-                "stars": 22104
+                "stars": 22104,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             },
@@ -1252,12 +2042,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌟 Build beautiful, accessible, high-performance documentation websites with Astro",
+                "homepage": "https://starlight.astro.build",
                 "id": 614933136,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T19:08:16Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T15:05:47Z",
+                "open_issues": 30,
                 "owner": "withastro",
                 "repo": "starlight",
-                "stars": 9139
+                "stars": 9149,
+                "topics": [
+                  "astro",
+                  "docs-generator",
+                  "documentation",
+                  "starlight",
+                  "static-site-generator"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             },
@@ -1268,12 +2069,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A powerful, flexible, Markdown-based authoring framework.",
+                "homepage": "https://markdoc.dev",
                 "id": 490388312,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-04T13:30:39Z",
+                "open_issues": 28,
                 "owner": "markdoc",
                 "repo": "markdoc",
-                "stars": 8420
+                "stars": 8422,
+                "topics": [
+                  "authoring",
+                  "documentation",
+                  "markdoc",
+                  "markdown",
+                  "react",
+                  "toolchain"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             },
@@ -1284,12 +2097,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Sphinx documentation generator",
+                "homepage": "https://www.sphinx-doc.org/",
                 "id": 28710753,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-23T22:51:57Z",
+                "open_issues": 1420,
                 "owner": "sphinx-doc",
                 "repo": "sphinx",
-                "stars": 7992
+                "stars": 7994,
+                "topics": [
+                  "docs",
+                  "documentation",
+                  "documentation-tool",
+                  "markdown",
+                  "python",
+                  "restructuredtext",
+                  "sphinx"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             },
@@ -1300,12 +2126,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Authoring Books and Technical Documents with R Markdown",
+                "homepage": "https://pkgs.rstudio.com/bookdown/",
                 "id": 45090026,
                 "language": "JavaScript",
-                "last_commit": "2026-08-17T23:07:17Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-28T16:51:09Z",
+                "open_issues": 230,
                 "owner": "rstudio",
                 "repo": "bookdown",
-                "stars": 4069
+                "stars": 4069,
+                "topics": [
+                  "book",
+                  "bookdown",
+                  "epub",
+                  "gitbook",
+                  "html",
+                  "latex",
+                  "rmarkdown"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             },
@@ -1316,12 +2155,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Literate Programming can be Quick and Dirty.",
+                "homepage": "http://ashkenas.com/docco/",
                 "id": 540542,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2025-11-17T10:31:55Z",
+                "open_issues": 65,
                 "owner": "jashkenas",
                 "repo": "docco",
-                "stars": 3572
+                "stars": 3572,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             },
@@ -1332,12 +2176,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Write beautiful documentations with Nuxt and Markdown.",
+                "homepage": "https://docus.dev",
                 "id": 312318044,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:56:26Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T15:54:57Z",
+                "open_issues": 47,
                 "owner": "nuxt-content",
                 "repo": "docus",
-                "stars": 3015
+                "stars": 3017,
+                "topics": [
+                  "documentation-generator",
+                  "nuxt",
+                  "nuxt-theme"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             },
@@ -1348,12 +2201,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Precision documentation from OpenAPI, MCP, Doxygen, and Markdown guides. Static HTML you own.",
+                "homepage": "https://sourcey.com",
                 "id": 49493043,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-25T13:43:00Z",
+                "open_issues": 12,
                 "owner": "sourcey",
                 "repo": "sourcey",
-                "stars": 1362
+                "stars": 1362,
+                "topics": [
+                  "api-documentation",
+                  "developer-tools",
+                  "docs",
+                  "documentation",
+                  "documentation-generator",
+                  "doxygen",
+                  "godoc",
+                  "llms-txt",
+                  "mcp-server",
+                  "openapi",
+                  "openapi-documentation",
+                  "openapi3",
+                  "openapi31",
+                  "static-site-generator",
+                  "swagger",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             },
@@ -1364,12 +2239,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A batteries-included developer documentation site generator",
+                "homepage": "https://cli.doctave.com",
                 "id": 294650775,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2022-09-19T04:10:27Z",
+                "open_issues": 24,
                 "owner": "Doctave",
                 "repo": "doctave",
-                "stars": 669
+                "stars": 669,
+                "topics": [
+                  "cli",
+                  "docs-as-code",
+                  "doctave",
+                  "documentation",
+                  "documentation-generator",
+                  "documentation-site",
+                  "mermaid-diagrams",
+                  "rust",
+                  "static-site-generator"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             },
@@ -1380,12 +2270,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ambitious docs framework for everyone",
+                "homepage": "https://xyd.dev",
                 "id": 896939708,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T23:19:10Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T01:49:00Z",
+                "open_issues": 36,
                 "owner": "livesession",
                 "repo": "xyd",
-                "stars": 113
+                "stars": 113,
+                "topics": [
+                  "api-explorer",
+                  "docs",
+                  "docs-generator",
+                  "documentation",
+                  "graphql",
+                  "markdown",
+                  "mdx",
+                  "openapi",
+                  "react",
+                  "rest-api"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             }
@@ -1403,12 +2309,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wiki.js | A modern and powerful wiki app built on Node.js",
+                "homepage": "https://js.wiki",
                 "id": 65848095,
                 "language": "Vue",
-                "last_commit": "2026-08-27T05:40:01Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T02:15:09Z",
+                "open_issues": 189,
                 "owner": "requarks",
                 "repo": "wiki",
-                "stars": 28811
+                "stars": 28815,
+                "topics": [
+                  "cross-platform",
+                  "documentation",
+                  "git",
+                  "markdown",
+                  "nodejs",
+                  "open-source",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             },
@@ -1419,12 +2338,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.",
+                "homepage": null,
                 "id": 585285,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2025-11-24T22:15:31Z",
+                "open_issues": 91,
                 "owner": "gollum",
                 "repo": "gollum",
-                "stars": 14318
+                "stars": 14319,
+                "topics": [
+                  "documentation",
+                  "documentation-tool",
+                  "gollum",
+                  "jruby-support",
+                  "markdown",
+                  "ruby",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             },
@@ -1435,12 +2367,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Personal Wiki for Vim",
+                "homepage": "http://vimwiki.github.io/",
                 "id": 6698053,
                 "language": "Vim Script",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-30T18:15:10Z",
+                "open_issues": 230,
                 "owner": "vimwiki",
                 "repo": "vimwiki",
-                "stars": 9514
+                "stars": 9514,
+                "topics": [
+                  "hacktoberfest",
+                  "personal-organizer",
+                  "vim",
+                  "vim-plugin",
+                  "vimwiki",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             },
@@ -1451,12 +2395,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing.",
+                "homepage": "https://www.mediawiki.org",
                 "id": 6495081,
                 "language": "PHP",
-                "last_commit": "2026-08-28T06:52:12Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T01:48:37Z",
+                "open_issues": 0,
                 "owner": "wikimedia",
                 "repo": "mediawiki",
-                "stars": 5153
+                "stars": 5154,
+                "topics": [
+                  "mediawiki",
+                  "php",
+                  "wiki",
+                  "wikipedia"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             },
@@ -1467,12 +2421,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The DokuWiki Open Source Wiki Engine",
+                "homepage": "http://www.dokuwiki.org",
                 "id": 456930,
                 "language": "PHP",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-27T09:58:35Z",
+                "open_issues": 466,
                 "owner": "dokuwiki",
                 "repo": "dokuwiki",
-                "stars": 4707
+                "stars": 4708,
+                "topics": [
+                  "dokuwiki",
+                  "php",
+                  "wiki",
+                  "wiki-engine"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             },
@@ -1488,12 +2452,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":neckbeard: Awesome list GitHub Wikis",
+                    "homepage": null,
                     "id": 490239470,
                     "language": null,
+                    "license": "CC0-1.0",
                     "last_commit": "2026-07-11T22:30:36Z",
+                    "open_issues": 1,
                     "owner": "MyHoneyBadger",
                     "repo": "awesome-github-wiki",
-                    "stars": 487
+                    "stars": 487,
+                    "topics": [
+                      "awesome",
+                      "awesome-list",
+                      "awesome-wiki",
+                      "awesomeness",
+                      "github",
+                      "github-wiki",
+                      "hacktoberfest",
+                      "stackoverflow",
+                      "stackoverflow-answer",
+                      "stackoverflow-questions",
+                      "trending",
+                      "trending-repositories"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 }
@@ -1511,12 +2493,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Federated Wiki - node server as npm package",
+                    "homepage": "https://npmjs.org/package/wiki",
                     "id": 14955213,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-11T15:18:39Z",
+                    "open_issues": 27,
                     "owner": "fedwiki",
                     "repo": "wiki",
-                    "stars": 369
+                    "stars": 369,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 }
@@ -1536,12 +2523,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
+                "homepage": "https://affine.pro",
                 "id": 519859998,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T04:50:12Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T13:24:46Z",
+                "open_issues": 714,
                 "owner": "toeverything",
                 "repo": "AFFiNE",
-                "stars": 71964
+                "stars": 71985,
+                "topics": [
+                  "app",
+                  "crdt",
+                  "editor",
+                  "electron",
+                  "knowledge-base",
+                  "markdown",
+                  "miro",
+                  "notes",
+                  "notion",
+                  "notion-alternative",
+                  "rust",
+                  "rust-lang",
+                  "rust-language",
+                  "table",
+                  "tableview",
+                  "whiteboard",
+                  "wiki",
+                  "workspace"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             },
@@ -1552,12 +2563,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
+                "homepage": "https://logseq.com",
                 "id": 266231149,
                 "language": "Clojure",
-                "last_commit": "2026-08-27T18:01:24Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-28T17:16:24Z",
+                "open_issues": 963,
                 "owner": "logseq",
                 "repo": "logseq",
-                "stars": 44658
+                "stars": 44672,
+                "topics": [
+                  "clojure",
+                  "clojurescript",
+                  "git",
+                  "graph",
+                  "knowledge-base",
+                  "knowledge-graph",
+                  "local-first",
+                  "markdown",
+                  "note-taking",
+                  "org-mode",
+                  "pkm"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             },
@@ -1568,12 +2596,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build your personal knowledge base with Trilium Notes",
+                "homepage": "https://triliumnotes.org",
                 "id": 92111509,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T06:48:34Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T00:36:17Z",
+                "open_issues": 709,
                 "owner": "TriliumNext",
                 "repo": "Trilium",
-                "stars": 37621
+                "stars": 37626,
+                "topics": [
+                  "electron",
+                  "electron-app",
+                  "knowledge-base",
+                  "knowledge-graph",
+                  "knowledge-management",
+                  "knowledge-management-graph",
+                  "local-first",
+                  "note-managment",
+                  "note-taker",
+                  "note-taking",
+                  "notebook",
+                  "notes",
+                  "notes-app",
+                  "personal-knowledge-base",
+                  "personal-wiki",
+                  "scriptable",
+                  "self-hosted",
+                  "self-hosting",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             },
@@ -1584,12 +2637,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.",
+                "homepage": "https://docmost.com",
                 "id": 674295265,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T23:07:17Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-28T22:05:39Z",
+                "open_issues": 326,
                 "owner": "docmost",
                 "repo": "docmost",
-                "stars": 21499
+                "stars": 21505,
+                "topics": [
+                  "confluence",
+                  "documentation",
+                  "drawio",
+                  "knowledge-base",
+                  "mediawiki",
+                  "miro",
+                  "notion",
+                  "notion-alternative",
+                  "open-source",
+                  "opensource",
+                  "quip",
+                  "realtime-collaboration",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             },
@@ -1600,12 +2672,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views",
+                "homepage": "http://seafile.com/",
                 "id": 4999959,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T05:49:27Z",
+                "open_issues": 92,
                 "owner": "haiwen",
                 "repo": "seafile",
-                "stars": 15178
+                "stars": 15179,
+                "topics": [
+                  "cloud-storage",
+                  "document-management",
+                  "file-sharing",
+                  "file-sync",
+                  "knowledge-management",
+                  "markdown",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             },
@@ -1616,12 +2701,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "mrdoc,online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。",
+                "homepage": "https://mrdoc.io/",
                 "id": 254536602,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-20T03:51:10Z",
+                "open_issues": 51,
                 "owner": "zmister2016",
                 "repo": "MrDoc",
-                "stars": 3232
+                "stars": 3232,
+                "topics": [
+                  "django",
+                  "document-management",
+                  "knowledge-management",
+                  "markdown",
+                  "notes-app",
+                  "python",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             },
@@ -1632,12 +2730,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS",
+                "homepage": "https://www.documize.com",
                 "id": 57418962,
                 "language": "JavaScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-05-18T16:18:58Z",
+                "open_issues": 46,
                 "owner": "documize",
                 "repo": "community",
-                "stars": 2416
+                "stars": 2416,
+                "topics": [
+                  "collaboration",
+                  "confluence",
+                  "dashboards",
+                  "docs",
+                  "document-conversion",
+                  "document-management",
+                  "documentation",
+                  "documentation-tool",
+                  "emberjs",
+                  "enterprise",
+                  "go",
+                  "keycloak",
+                  "knowledge",
+                  "knowledge-base",
+                  "knowledge-management",
+                  "knowledgebase",
+                  "reporting",
+                  "selfhosted",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             }
@@ -1655,12 +2778,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "✍️ AI powered documentation writer",
+                "homepage": "https://www.mintlify.com/writer",
                 "id": 441005943,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-12T17:31:03Z",
+                "open_issues": 66,
                 "owner": "mintlify",
                 "repo": "writer",
-                "stars": 3131
+                "stars": 3131,
+                "topics": [
+                  "intellij-plugin",
+                  "machine-learning",
+                  "productivity",
+                  "vscode-extension"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             },
@@ -1671,12 +2804,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "README file generator, powered by AI.",
+                "homepage": "https://eli64s.github.io/readme-ai/",
                 "id": 589727205,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T02:49:26Z",
+                "open_issues": 58,
                 "owner": "eli64s",
                 "repo": "readme-ai",
-                "stars": 2979
+                "stars": 2980,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "ai-agents",
+                  "ai-documentation",
+                  "anthropic",
+                  "badge-generator",
+                  "cli",
+                  "developer-tools",
+                  "devtools",
+                  "documentation",
+                  "documentation-generator",
+                  "gemini",
+                  "gpt",
+                  "markdown",
+                  "markdown-generator",
+                  "python",
+                  "readme",
+                  "readme-generator",
+                  "readme-md-generator",
+                  "readme-template"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             }
@@ -1694,12 +2853,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Style and Grammar Checker for 25+ Languages",
+                "homepage": "https://languagetool.org",
                 "id": 11981144,
                 "language": "Java",
-                "last_commit": "2026-08-28T04:46:03Z",
+                "license": "LGPL-2.1",
+                "last_commit": "2026-08-28T15:47:06Z",
+                "open_issues": 2147,
                 "owner": "languagetool-org",
                 "repo": "languagetool",
-                "stars": 14881
+                "stars": 14888,
+                "topics": [
+                  "grammar",
+                  "natural-language",
+                  "natural-language-processing",
+                  "proofreading",
+                  "spellcheck",
+                  "style-checker"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             },
@@ -1710,12 +2881,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Catch insensitive, inconsiderate writing",
+                "homepage": "https://alexjs.com",
                 "id": 40781628,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-11-27T17:45:46Z",
+                "open_issues": 28,
                 "owner": "get-alex",
                 "repo": "alex",
-                "stars": 5100
+                "stars": 5100,
+                "topics": [
+                  "alex",
+                  "hacktoberfest2018",
+                  "linter",
+                  "writing"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             },
@@ -1726,12 +2907,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!",
+                "homepage": "https://lychee.cli.rs",
                 "id": 285115432,
                 "language": "Rust",
-                "last_commit": "2026-08-25T09:17:21Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T20:21:05Z",
+                "open_issues": 75,
                 "owner": "lycheeverse",
                 "repo": "lychee",
-                "stars": 3866
+                "stars": 3871,
+                "topics": [
+                  "broken-links",
+                  "check",
+                  "link",
+                  "link-checker",
+                  "link-checkers",
+                  "link-checking",
+                  "validator"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             },
@@ -1742,12 +2936,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚨 Make the case correct, PLEASE!",
+                "homepage": null,
                 "id": 476254167,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-15T01:48:52Z",
+                "open_issues": 8,
                 "owner": "antfu",
                 "repo": "case-police",
-                "stars": 1428
+                "stars": 1428,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             },
@@ -1758,12 +2957,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Broken link checker that crawls websites and validates links. Find broken links, dead links, and invalid URLs in websites, documentation, and local files. Perfect for SEO audits and CI/CD.",
+                "homepage": null,
                 "id": 170236232,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T04:23:01Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T02:04:35Z",
+                "open_issues": 6,
                 "owner": "JustinBeckwith",
                 "repo": "linkinator",
-                "stars": 1253
+                "stars": 1255,
+                "topics": [
+                  "404",
+                  "broken-link-checker",
+                  "broken-links",
+                  "ci-cd",
+                  "dead-links",
+                  "html",
+                  "link-checker",
+                  "link-validator",
+                  "nodejs",
+                  "seo",
+                  "seo-tools",
+                  "testing",
+                  "typescript",
+                  "url-validator",
+                  "web-crawler",
+                  "website-crawler"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             },
@@ -1774,12 +2995,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spelling, grammar and style checking on LaTeX documents",
+                "homepage": "https://sylvainhalle.github.io/textidote",
                 "id": 136962671,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-21T20:44:40Z",
+                "open_issues": 38,
                 "owner": "sylvainhalle",
                 "repo": "textidote",
-                "stars": 1056
+                "stars": 1055,
+                "topics": [
+                  "grammar-checker",
+                  "languagetool",
+                  "latex",
+                  "linter",
+                  "spell-check",
+                  "spell-checker"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             },
@@ -1790,12 +3023,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spell check action",
+                "homepage": null,
                 "id": 188080710,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-08-25T04:36:33Z",
+                "open_issues": 6,
                 "owner": "rojopolis",
                 "repo": "spellcheck-github-actions",
-                "stars": 151
+                "stars": 151,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             }
@@ -1813,12 +3051,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+                "homepage": "https://excalidraw.com",
                 "id": 231283452,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T15:03:19Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T12:28:30Z",
+                "open_issues": 3419,
                 "owner": "excalidraw",
                 "repo": "excalidraw",
-                "stars": 130675
+                "stars": 130725,
+                "topics": [
+                  "canvas",
+                  "collaboration",
+                  "diagrams",
+                  "drawing",
+                  "hacktoberfest",
+                  "productivity",
+                  "whiteboard"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             },
@@ -1829,12 +3080,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown",
+                "homepage": "https://mermaid.ai/open-source/",
                 "id": 26066727,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T06:50:48Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T20:19:25Z",
+                "open_issues": 1751,
                 "owner": "mermaid-js",
                 "repo": "mermaid",
-                "stars": 89967
+                "stars": 89974,
+                "topics": [
+                  "diagrams",
+                  "diagrams-as-code",
+                  "documentation",
+                  "flowchart",
+                  "javascript",
+                  "mindmap",
+                  "typescript",
+                  "uml-diagrams"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             },
@@ -1845,12 +3110,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate diagrams from textual description",
+                "homepage": "https://plantuml.com",
                 "id": 1051476,
                 "language": "Java",
-                "last_commit": "2026-08-27T21:34:49Z",
+                "license": "LGPL-3.0",
+                "last_commit": "2026-08-28T18:50:56Z",
+                "open_issues": 588,
                 "owner": "plantuml",
                 "repo": "plantuml",
-                "stars": 13275
+                "stars": 13277,
+                "topics": [
+                  "diagram",
+                  "diagram-as-code",
+                  "diagrams",
+                  "diagrams-as-code",
+                  "java",
+                  "plantuml",
+                  "uml",
+                  "uml-diagram"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             },
@@ -1861,12 +3140,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "draw.io is a JavaScript, client-side editor for general diagramming.",
+                "homepage": "https://www.drawio.com",
                 "id": 67508428,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T21:51:03Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T11:39:47Z",
+                "open_issues": 101,
                 "owner": "jgraph",
                 "repo": "drawio",
-                "stars": 7771
+                "stars": 7780,
+                "topics": [
+                  "diagram",
+                  "javascript",
+                  "whiteboard"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             }
@@ -1889,12 +3177,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:",
+                    "homepage": "https://flameshot.org",
                     "id": 90902132,
                     "language": "C++",
-                    "last_commit": "2026-08-28T00:47:07Z",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-08-28T19:11:15Z",
+                    "open_issues": 716,
                     "owner": "flameshot-org",
                     "repo": "flameshot",
-                    "stars": 30708
+                    "stars": 30709,
+                    "topics": [
+                      "capture",
+                      "cross-platform",
+                      "free-software",
+                      "gnu-linux",
+                      "gui",
+                      "hacktoberfest",
+                      "image-editing",
+                      "qt",
+                      "screenshot"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -1905,12 +3208,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.",
+                    "homepage": "http://www.screentogif.com",
                     "id": 64713769,
                     "language": "C#",
+                    "license": "MS-PL",
                     "last_commit": "2026-07-28T17:52:48Z",
+                    "open_issues": 331,
                     "owner": "NickeManarin",
                     "repo": "ScreenToGif",
-                    "stars": 27559
+                    "stars": 27565,
+                    "topics": [
+                      "editor",
+                      "gif",
+                      "recorder",
+                      "sketchboard",
+                      "video",
+                      "webcam",
+                      "wpf"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -1921,12 +3237,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "record and replay the web",
+                    "homepage": "https://www.rrweb.io/",
                     "id": 151843254,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T05:55:42Z",
+                    "open_issues": 423,
                     "owner": "rrweb-io",
                     "repo": "rrweb",
-                    "stars": 20087
+                    "stars": 20089,
+                    "topics": [
+                      "fullstory",
+                      "hotjar",
+                      "logrocket",
+                      "recorder",
+                      "session-replay"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -1937,12 +3264,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An open-source screen recorder built with web technology",
+                    "homepage": "https://getkap.co",
                     "id": 65411043,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2024-11-12T15:32:40Z",
+                    "open_issues": 254,
                     "owner": "wulkano",
                     "repo": "Kap",
-                    "stars": 19339
+                    "stars": 19341,
+                    "topics": [
+                      "aperture",
+                      "app",
+                      "capture",
+                      "communication",
+                      "electron",
+                      "javascript",
+                      "kap",
+                      "mac",
+                      "macos",
+                      "nextjs",
+                      "open-source",
+                      "oss",
+                      "productivity",
+                      "record",
+                      "screen-capture",
+                      "screen-recorder"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -1953,12 +3302,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The free and privacy-friendly screen recorder with no limits 🎥",
+                    "homepage": "https://screenity.io",
                     "id": 309123651,
                     "language": "JavaScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-18T17:39:05Z",
+                    "open_issues": 8,
                     "owner": "alyssaxuu",
                     "repo": "screenity",
-                    "stars": 18509
+                    "stars": 18512,
+                    "topics": [
+                      "annotation",
+                      "annotation-tool",
+                      "audio",
+                      "camera",
+                      "chrome-extension",
+                      "design",
+                      "editor",
+                      "ffmpeg",
+                      "javascript",
+                      "productivity",
+                      "recorder",
+                      "screen-capture",
+                      "screen-recorder",
+                      "screencast",
+                      "tensorflow",
+                      "video"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -1969,12 +3340,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Simple animated GIF screen recorder with an easy to use interface",
+                    "homepage": null,
                     "id": 48430079,
                     "language": "Vala",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-09-24T14:09:08Z",
+                    "open_issues": 5,
                     "owner": "phw",
                     "repo": "peek",
-                    "stars": 10555
+                    "stars": 10555,
+                    "topics": [
+                      "apng",
+                      "gif",
+                      "gif-recorder",
+                      "gnome",
+                      "gtk3",
+                      "linux",
+                      "screencast",
+                      "vala",
+                      "wayland",
+                      "webm"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 }
@@ -1992,12 +3379,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Terminal session recorder, streamer and player 📹",
+                    "homepage": "https://asciinema.org",
                     "id": 2823326,
                     "language": "Rust",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-14T09:03:57Z",
+                    "open_issues": 8,
                     "owner": "asciinema",
                     "repo": "asciinema",
-                    "stars": 17742
+                    "stars": 17743,
+                    "topics": [
+                      "asciicast",
+                      "asciinema",
+                      "cli",
+                      "recording",
+                      "rustlang",
+                      "streaming",
+                      "terminal"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -2008,12 +3408,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🦄 Record your terminal and generate animated gif images or share a web player",
+                    "homepage": "https://terminalizer.com",
                     "id": 141910081,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2024-08-29T00:40:13Z",
+                    "open_issues": 108,
                     "owner": "faressoft",
                     "repo": "terminalizer",
-                    "stars": 16156
+                    "stars": 16158,
+                    "topics": [
+                      "animated",
+                      "bash",
+                      "bash-profile",
+                      "capture",
+                      "colors",
+                      "command-line",
+                      "font",
+                      "generate",
+                      "gif",
+                      "powershell",
+                      "pty",
+                      "record",
+                      "render",
+                      "repeat",
+                      "shell",
+                      "shot",
+                      "terminal",
+                      "theme",
+                      "tty",
+                      "zsh"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 }
@@ -2031,12 +3457,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Create animated mockups in the browser 🔥",
+                    "homepage": "https://animockup.com",
                     "id": 248908265,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2022-07-02T08:12:35Z",
+                    "open_issues": 3,
                     "owner": "alyssaxuu",
                     "repo": "animockup",
-                    "stars": 1925
+                    "stars": 1925,
+                    "topics": [
+                      "canvas",
+                      "design",
+                      "design-tools",
+                      "editor",
+                      "javascript",
+                      "marketing",
+                      "marketing-tools",
+                      "tool"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 }
@@ -2054,12 +3494,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The HTML Presentation Framework",
+                    "homepage": "https://revealjs.com",
                     "id": 1861458,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T09:06:06Z",
+                    "open_issues": 910,
                     "owner": "hakimel",
                     "repo": "reveal.js",
-                    "stars": 72216
+                    "stars": 72231,
+                    "topics": [
+                      "presentations",
+                      "slides",
+                      "slideshow"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -2070,12 +3519,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Presentation Slides for Developers",
+                    "homepage": "https://sli.dev",
                     "id": 361044034,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-25T00:42:02Z",
+                    "open_issues": 223,
                     "owner": "slidevjs",
                     "repo": "slidev",
-                    "stars": 48309
+                    "stars": 48321,
+                    "topics": [
+                      "markdown",
+                      "presentation",
+                      "slides",
+                      "vite",
+                      "vue",
+                      "vueuse"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -2086,12 +3547,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":black_heart: Create and share beautiful images of your source code",
+                    "homepage": "https://carbon.now.sh",
                     "id": 94498635,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-02-10T05:07:19Z",
+                    "open_issues": 85,
                     "owner": "carbon-app",
                     "repo": "carbon",
-                    "stars": 36090
+                    "stars": 36090,
+                    "topics": [
+                      "beautiful",
+                      "carbon",
+                      "education",
+                      "github-gist",
+                      "javascript",
+                      "presentation",
+                      "sharing",
+                      "snippets",
+                      "tweet"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -2102,12 +3578,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Build rich content websites with Markdown and React",
+                    "homepage": "https://codehike.org",
                     "id": 258080286,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-03-17T09:09:59Z",
+                    "open_issues": 19,
                     "owner": "code-hike",
                     "repo": "codehike",
-                    "stars": 5376
+                    "stars": 5376,
+                    "topics": [
+                      "blog",
+                      "code",
+                      "docs",
+                      "javascript",
+                      "markdown",
+                      "mdx",
+                      "react",
+                      "scrollytelling",
+                      "syntax-highlighting"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 }
@@ -2132,12 +3623,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Atlassian Confluence wrapped in a Docker image",
+                    "homepage": "https://cptactionhank.github.io/docker-atlassian-confluence",
                     "id": 22655173,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2025-10-08T00:08:26Z",
+                    "open_issues": 32,
                     "owner": "cptactionhank",
                     "repo": "docker-atlassian-confluence",
-                    "stars": 420
+                    "stars": 420,
+                    "topics": [
+                      "atlassian-confluence",
+                      "confluence",
+                      "container",
+                      "containers",
+                      "docker"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 }
@@ -2163,12 +3665,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pointers to useful, well-written, and otherwise beautiful documentation.",
+                "homepage": null,
                 "id": 3105906,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-27T11:11:04Z",
+                "open_issues": 2,
                 "owner": "matheusfelipeog",
                 "repo": "beautiful-docs",
-                "stars": 9524
+                "stars": 9524,
+                "topics": [
+                  "beautiful",
+                  "beautiful-docs",
+                  "dev",
+                  "developer",
+                  "doc",
+                  "docs",
+                  "documentation",
+                  "documentations",
+                  "list"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             },
@@ -2179,12 +3696,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":blue_book: A curated list of awesome open source or open source licensed documents, guides, books.",
+                "homepage": null,
                 "id": 35621106,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-29T00:26:24Z",
+                "open_issues": 12,
                 "owner": "44bits",
                 "repo": "awesome-opensource-documents",
-                "stars": 2321
+                "stars": 2322,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             },
@@ -2195,12 +3717,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome documentation websites ✍️💯",
+                "homepage": null,
                 "id": 303839245,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-11T05:42:00Z",
+                "open_issues": 7,
                 "owner": "vipulgupta2048",
                 "repo": "awesome-documentation",
-                "stars": 52
+                "stars": 52,
+                "topics": [
+                  "accessiblity",
+                  "awesome-list",
+                  "best-practices",
+                  "docs",
+                  "documentation",
+                  "guides",
+                  "hacktoberfest",
+                  "internationalization",
+                  "references",
+                  "tutorials"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             }
@@ -2223,12 +3761,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Convert Word documents (.docx files) to HTML",
+                    "homepage": null,
                     "id": 9107190,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-09T13:58:57Z",
+                    "license": "BSD-2-Clause",
+                    "last_commit": "2026-08-28T16:32:44Z",
+                    "open_issues": 64,
                     "owner": "mwilliamson",
                     "repo": "mammoth.js",
-                    "stars": 6290
+                    "stars": 6291,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 }
@@ -2246,12 +3789,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
+                    "homepage": "https://www.marktext.me",
                     "id": 110446844,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-07-27T03:16:54Z",
+                    "open_issues": 727,
                     "owner": "marktext",
                     "repo": "marktext",
-                    "stars": 60677
+                    "stars": 60714,
+                    "topics": [
+                      "dark-mode",
+                      "editor",
+                      "electron",
+                      "focus-mode",
+                      "latex",
+                      "linux",
+                      "mac",
+                      "macos",
+                      "markdown",
+                      "marktext",
+                      "source-code",
+                      "typewriter-mode",
+                      "vue",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 },
@@ -2262,12 +3825,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Render markdown on the CLI, with pizzazz! 💅🏻",
+                    "homepage": null,
                     "id": 219616873,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2026-08-16T00:02:03Z",
+                    "open_issues": 225,
                     "owner": "charmbracelet",
                     "repo": "glow",
-                    "stars": 27091
+                    "stars": 27104,
+                    "topics": [
+                      "cli",
+                      "excitement",
+                      "hacktoberfest",
+                      "markdown"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 }
@@ -2285,12 +3858,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.",
+                    "homepage": "https://asciidoctor.org",
                     "id": 4523235,
                     "language": "Ruby",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-26T17:24:29Z",
+                    "open_issues": 679,
                     "owner": "asciidoctor",
                     "repo": "asciidoctor",
-                    "stars": 5209
+                    "stars": 5210,
+                    "topics": [
+                      "asciidoc",
+                      "asciidoctor",
+                      "converter",
+                      "docbook",
+                      "html",
+                      "manpage",
+                      "ruby",
+                      "rubygem"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:55:09.323Z"
                 }
@@ -2310,12 +3897,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pa11y is your automated accessibility testing pal",
+                "homepage": "https://pa11y.org",
                 "id": 8576730,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T01:34:50Z",
+                "license": "LGPL-3.0",
+                "last_commit": "2026-08-28T14:08:33Z",
+                "open_issues": 43,
                 "owner": "pa11y",
                 "repo": "pa11y",
-                "stars": 4492
+                "stars": 4492,
+                "topics": [
+                  "a11y",
+                  "accessibility",
+                  "accessibility-testing",
+                  "automated-testing",
+                  "axe",
+                  "html-codesniffer",
+                  "javascript",
+                  "pa11y",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
             }
@@ -2329,15 +3931,38 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:55:09.323Z",
+    "last_updated": "2026-08-29T04:08:32.027Z",
     "original_repository_info": {
       "archived": false,
+      "description": "📃 A curated and up-to-date list of resources on software documentation templates, tools, guides, examples, etc.",
+      "homepage": null,
       "id": 749848242,
       "language": "Python",
+      "license": "CC0-1.0",
       "last_commit": "2026-06-20T10:53:32Z",
+      "open_issues": 13,
       "owner": "pengqun",
       "repo": "awesome-documentation",
-      "stars": 162
+      "stars": 162,
+      "topics": [
+        "api-docs",
+        "awesome",
+        "awesome-list",
+        "diagramming",
+        "docs",
+        "docs-as-code",
+        "docs-generator",
+        "docs-site",
+        "document",
+        "documentation",
+        "documentation-generator",
+        "documentation-site",
+        "documentation-template",
+        "documentation-tool",
+        "documentations",
+        "software-documentation",
+        "software-engineering"
+      ]
     },
     "original_repository_sha": "0370f36e059330db044c627f53823c2ff0b5dbea",
     "enhanced_repository": "enhansome/enhansome-documentation",
