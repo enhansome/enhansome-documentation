@@ -626,7 +626,7 @@
                     "open_issues": 445,
                     "owner": "Redocly",
                     "repo": "redoc",
-                    "stars": 25937,
+                    "stars": 25938,
                     "topics": [
                       "api-documentation",
                       "documentation-generator",
@@ -747,7 +747,7 @@
                     "id": 165951750,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T19:14:26Z",
+                    "last_commit": "2026-10-03T03:45:59Z",
                     "open_issues": 102,
                     "owner": "rapi-doc",
                     "repo": "RapiDoc",
@@ -1130,7 +1130,7 @@
                     "open_issues": 2,
                     "owner": "matiassingers",
                     "repo": "awesome-readme",
-                    "stars": 21528,
+                    "stars": 21530,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -1450,7 +1450,7 @@
                         "language": "TypeScript",
                         "license": "MIT",
                         "last_commit": "2026-10-02T00:25:01Z",
-                        "open_issues": 154,
+                        "open_issues": 155,
                         "owner": "microsoft",
                         "repo": "tsdoc",
                         "stars": 4967,
@@ -1699,7 +1699,7 @@
                         "open_issues": 470,
                         "owner": "swaggo",
                         "repo": "swag",
-                        "stars": 13039,
+                        "stars": 13040,
                         "topics": [
                           "annotations",
                           "golang",
@@ -1810,11 +1810,11 @@
                     "id": 41881900,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-03T01:48:30Z",
-                    "open_issues": 21340,
+                    "last_commit": "2026-10-03T04:36:42Z",
+                    "open_issues": 21339,
                     "owner": "microsoft",
                     "repo": "vscode",
-                    "stars": 193368,
+                    "stars": 193370,
                     "topics": [
                       "editor",
                       "electron",
@@ -1837,7 +1837,7 @@
                     "id": 51108542,
                     "language": "HTML",
                     "license": null,
-                    "last_commit": "2026-10-02T04:21:35Z",
+                    "last_commit": "2026-10-03T04:02:54Z",
                     "open_issues": 997,
                     "owner": "sonic-net",
                     "repo": "SONiC",
@@ -2059,7 +2059,7 @@
                 "open_issues": 657,
                 "owner": "rust-lang",
                 "repo": "mdBook",
-                "stars": 22185,
+                "stars": 22186,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
@@ -2132,7 +2132,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-21T00:27:06Z",
-                "open_issues": 1468,
+                "open_issues": 1469,
                 "owner": "sphinx-doc",
                 "repo": "sphinx",
                 "stars": 8047,
@@ -2343,7 +2343,7 @@
                 "id": 65848095,
                 "language": "Vue",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-02T21:43:11Z",
+                "last_commit": "2026-10-03T04:21:28Z",
                 "open_issues": 5,
                 "owner": "requarks",
                 "repo": "wiki",
@@ -2429,7 +2429,7 @@
                 "id": 6495081,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T01:49:51Z",
+                "last_commit": "2026-10-03T04:35:03Z",
                 "open_issues": 0,
                 "owner": "wikimedia",
                 "repo": "mediawiki",
@@ -2618,11 +2618,11 @@
                 "id": 266231149,
                 "language": "Clojure",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-03T01:54:37Z",
+                "last_commit": "2026-10-03T03:50:16Z",
                 "open_issues": 963,
                 "owner": "logseq",
                 "repo": "logseq",
-                "stars": 45115,
+                "stars": 45114,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -2655,7 +2655,7 @@
                 "open_issues": 683,
                 "owner": "TriliumNext",
                 "repo": "Trilium",
-                "stars": 38172,
+                "stars": 38175,
                 "topics": [
                   "electron",
                   "electron-app",
@@ -2696,7 +2696,7 @@
                 "open_issues": 352,
                 "owner": "docmost",
                 "repo": "docmost",
-                "stars": 21858,
+                "stars": 21859,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -2738,7 +2738,7 @@
                 "open_issues": 101,
                 "owner": "haiwen",
                 "repo": "seafile",
-                "stars": 15303,
+                "stars": 15304,
                 "topics": [
                   "cloud-storage",
                   "document-management",
@@ -3185,7 +3185,7 @@
                 "open_issues": 3284,
                 "owner": "excalidraw",
                 "repo": "excalidraw",
-                "stars": 133408,
+                "stars": 133415,
                 "topics": [
                   "canvas",
                   "collaboration",
@@ -3211,7 +3211,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-02T12:51:28Z",
-                "open_issues": 1834,
+                "open_issues": 1835,
                 "owner": "mermaid-js",
                 "repo": "mermaid",
                 "stars": 90515,
@@ -3311,7 +3311,7 @@
                     "open_issues": 745,
                     "owner": "flameshot-org",
                     "repo": "flameshot",
-                    "stars": 31062,
+                    "stars": 31067,
                     "topics": [
                       "capture",
                       "cross-platform",
@@ -3342,7 +3342,7 @@
                     "open_issues": 339,
                     "owner": "NickeManarin",
                     "repo": "ScreenToGif",
-                    "stars": 27733,
+                    "stars": 27734,
                     "topics": [
                       "editor",
                       "gif",
@@ -3371,7 +3371,7 @@
                     "open_issues": 418,
                     "owner": "rrweb-io",
                     "repo": "rrweb",
-                    "stars": 20235,
+                    "stars": 20237,
                     "topics": [
                       "fullstory",
                       "hotjar",
@@ -3628,7 +3628,7 @@
                     "open_issues": 918,
                     "owner": "hakimel",
                     "repo": "reveal.js",
-                    "stars": 72376,
+                    "stars": 72377,
                     "topics": [
                       "presentations",
                       "slides",
@@ -3653,7 +3653,7 @@
                     "open_issues": 217,
                     "owner": "slidevjs",
                     "repo": "slidev",
-                    "stars": 48910,
+                    "stars": 48911,
                     "topics": [
                       "markdown",
                       "presentation",
@@ -3830,7 +3830,7 @@
                 "open_issues": 12,
                 "owner": "44bits",
                 "repo": "awesome-opensource-documents",
-                "stars": 2335,
+                "stars": 2336,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:55:09.323Z"
@@ -3923,7 +3923,7 @@
                     "open_issues": 350,
                     "owner": "marktext",
                     "repo": "marktext",
-                    "stars": 62056,
+                    "stars": 62057,
                     "topics": [
                       "dark-mode",
                       "editor",
@@ -3959,7 +3959,7 @@
                     "open_issues": 240,
                     "owner": "charmbracelet",
                     "repo": "glow",
-                    "stars": 27559,
+                    "stars": 27562,
                     "topics": [
                       "cli",
                       "excitement",
@@ -4056,7 +4056,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:55:08.297Z",
+    "last_updated": "2026-10-03T04:41:10.764Z",
     "original_repository_info": {
       "archived": false,
       "description": "📃 A curated and up-to-date list of resources on software documentation templates, tools, guides, examples, etc.",
