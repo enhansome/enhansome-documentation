@@ -90,7 +90,7 @@ Answers frequently asked questions to quickly resolve common issues or clarify t
 
 Assist users in understanding and navigating the features and functionalities of the app directly from within its interface.
 
-* [Driver.js](https://github.com/nilbuild/driver.js) ⭐ 27,198 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-14 ![GitHub Repo stars](https://img.shields.io/github/stars/nilbuild/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page.
+* [Driver.js](https://github.com/nilbuild/driver.js) ⭐ 27,203 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-14 ![GitHub Repo stars](https://img.shields.io/github/stars/nilbuild/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page.
 * [Shepherd](https://github.com/shipshapecode/shepherd) ⭐ 13,838 | 🐛 19 | 🌐 JavaScript | 📅 2026-11-20 ![GitHub Repo stars](https://img.shields.io/github/stars/shipshapecode/shepherd) - Guide your users through a tour of your app.
 
 #### Others
@@ -110,7 +110,7 @@ Assist users in understanding and navigating the features and functionalities of
 * [Reasoning Formats](https://github.com/reasoning-formats/reasoning-formats) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2026-09-04 ![GitHub Repo stars](https://img.shields.io/github/stars/reasoning-formats/reasoning-formats) - Draft machine-readable YAML formats for decision records (DRF) and the organizational context they are validated against (CRF), both defined by JSON Schema.
 
 * [arc42](https://arc42.org/) - Proven, practical and pragmatic template for documentation and communication of software and system architectures.
-  * [docToolchain](https://github.com/doctoolchain/doctoolchain) ⭐ 878 | 🐛 309 | 🌐 Groovy | 📅 2026-10-29 ![GitHub Repo stars](https://img.shields.io/github/stars/doctoolchain/doctoolchain) - An implementation of the docs-as-code approach for software architecture, which use arc42 as template.
+  * [docToolchain](https://github.com/doctoolchain/doctoolchain) ⭐ 878 | 🐛 311 | 🌐 Groovy | 📅 2026-10-29 ![GitHub Repo stars](https://img.shields.io/github/stars/doctoolchain/doctoolchain) - An implementation of the docs-as-code approach for software architecture, which use arc42 as template.
   * [Example: arc42 + C4 model](https://github.com/bitsmuggler/arc42-c4-software-architecture-documentation-example) ⭐ 210 | 🐛 1 | 🌐 Shell | 📅 2026-08-22 ![GitHub Repo stars](https://img.shields.io/github/stars/bitsmuggler/arc42-c4-software-architecture-documentation-example) - Shows how to use arc42 in combination with the C4 model with the Documentation as Code technique.
   * [Template Download](https://arc42.org/download#format-overview) - The arc42 template in various formats, including docx, asciidoc, markdown, latex, rst, html, Confluence, etc.
   * [Example: HTML Sanity Checker](https://hsc.aim42.org/documentation/hsc_arc42) - Verbose example for the documentation of a Gradle plugin, created by Dr. Gernot Starke.
@@ -118,7 +118,7 @@ Assist users in understanding and navigating the features and functionalities of
   * [The Ultimate Guide To Software Architecture Documentation](https://www.workingsoftware.dev/software-architecture-documentation-the-ultimate-guide/) - Write, structure, visualize and manage software architecture documentation in a lean way using appropriate documentation tools, including arc42.
 
 * [C4 model](https://c4model.com) - The C4 model for visualizing software architecture using Context, Containers, Components, and Code.
-  * [C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML) ⭐ 7,463 | 🐛 0 | 🌐 PlantUML | 📅 2026-10-13 ![GitHub Repo stars](https://img.shields.io/github/stars/plantuml-stdlib/C4-PlantUML) - Includes macros, stereotypes, and other goodies (like VSCode Snippets) for creating C4 diagrams with PlantUML.
+  * [C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML) ⭐ 7,462 | 🐛 0 | 🌐 PlantUML | 📅 2026-10-13 ![GitHub Repo stars](https://img.shields.io/github/stars/plantuml-stdlib/C4-PlantUML) - Includes macros, stereotypes, and other goodies (like VSCode Snippets) for creating C4 diagrams with PlantUML.
   * [c4-draw.io](https://github.com/tobiashochguertel/c4-draw.io) ⭐ 809 | 🐛 14 | 🌐 HTML | 📅 2022-09-12 ![GitHub Repo stars](https://img.shields.io/github/stars/tobiashochguertel/c4-draw.io) - A C4 Modelling plugin for draw\.io, which provides C4 Notation Elements in draw\.io.
   * [C4-Builder](https://github.com/adrianvlupu/C4-Builder) ⭐ 628 | 🐛 37 | 🌐 JavaScript | 📅 2024-03-11 ![GitHub Repo stars](https://img.shields.io/github/stars/adrianvlupu/C4-Builder) - A lightweight Node.js cli tool for building, maintaining and sharing a software architecture project using only text.
   * [Goa Design - Model](https://github.com/goadesign/model) ⭐ 469 | 🐛 31 | 🌐 Go | 📅 2026-11-16 ![GitHub Repo stars](https://img.shields.io/github/stars/goadesign/model) - Create your software architecture models and diagrams in Go. The Model DSL is implemented in Go and follows the C4 Model.
@@ -134,7 +134,7 @@ Assist users in understanding and navigating the features and functionalities of
 
 #### General
 
-* [DevDocs](https://github.com/freeCodeCamp/devdocs) ⭐ 39,656 | 🐛 195 | 🌐 Ruby | 📅 2026-11-20 ![GitHub Repo stars](https://img.shields.io/github/stars/freeCodeCamp/devdocs) - Combines multiple developer documentations in a clean and organized web UI with instant search, offline support, mobile version, dark theme, keyboard shortcuts, and more.
+* [DevDocs](https://github.com/freeCodeCamp/devdocs) ⭐ 39,657 | 🐛 196 | 🌐 Ruby | 📅 2026-11-20 ![GitHub Repo stars](https://img.shields.io/github/stars/freeCodeCamp/devdocs) - Combines multiple developer documentations in a clean and organized web UI with instant search, offline support, mobile version, dark theme, keyboard shortcuts, and more.
 * [Zeal](https://github.com/zealdocs/zeal) ⭐ 12,883 | 🐛 103 | 🌐 C++ | 📅 2026-10-31 ![GitHub Repo stars](https://img.shields.io/github/stars/zealdocs/zeal) - Offline documentation browser inspired by Dash.
 * [API Reference template](https://gitlab.com/tgdp/templates/-/blob/main/api-reference/template-api-reference.md) - Open-source template provided by The Good Docs Project.
 
@@ -142,12 +142,12 @@ Assist users in understanding and navigating the features and functionalities of
 
 [OpenAPI Specification](https://swagger.io/specification/) defines a standard, language-agnostic interface to HTTP APIs. An OpenAPI definition can then be used by documentation generation tools to display the API.
 
-* [GitBook](https://github.com/GitbookIO/gitbook) ⭐ 29,101 | 🐛 24 | 🌐 TypeScript | 📅 2026-11-20 ![GitHub Repo stars](https://img.shields.io/github/stars/GitbookIO/gitbook) - A modern platform for creating and managing interactive API documentation from OpenAPI definitions.
+* [GitBook](https://github.com/GitbookIO/gitbook) ⭐ 29,103 | 🐛 25 | 🌐 TypeScript | 📅 2026-11-21 ![GitHub Repo stars](https://img.shields.io/github/stars/GitbookIO/gitbook) - A modern platform for creating and managing interactive API documentation from OpenAPI definitions.
 * [Swagger UI](https://github.com/swagger-api/swagger-ui) ⭐ 29,089 | 🐛 1,168 | 🌐 JavaScript | 📅 2026-11-20 ![GitHub Repo stars](https://img.shields.io/github/stars/swagger-api/swagger-ui) - Dynamically generate beautiful documentation from a Swagger-compliant API.
-* [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,866 | 🐛 5,890 | 🌐 Java | 📅 2026-11-20 ![GitHub Repo stars](https://img.shields.io/github/stars/OpenAPITools/openapi-generator) - Generate API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
-* [Redoc](https://github.com/Redocly/redoc) ⭐ 26,023 | 🐛 270 | 🌐 TypeScript | 📅 2026-11-20 ![GitHub Repo stars](https://img.shields.io/github/stars/Redocly/redoc) - An open source tool for generating documentation from OpenAPI (formerly Swagger) definitions.
-* [Scalar](https://github.com/scalar/scalar) ⭐ 16,433 | 🐛 28 | 🌐 TypeScript | 📅 2026-11-21 ![GitHub Repo stars](https://img.shields.io/github/stars/scalar/scalar) - Generate interactive API documentations from Swagger files.
-* [Fern](https://github.com/fern-api/fern) ⭐ 3,842 | 🐛 195 | 🌐 TypeScript | 📅 2026-11-21 ![GitHub Repo stars](https://img.shields.io/github/stars/fern-api/fern) - Generate SDKs and API documentation from OpenAPI definitions.
+* [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,866 | 🐛 5,878 | 🌐 Java | 📅 2026-11-21 ![GitHub Repo stars](https://img.shields.io/github/stars/OpenAPITools/openapi-generator) - Generate API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
+* [Redoc](https://github.com/Redocly/redoc) ⭐ 26,024 | 🐛 270 | 🌐 TypeScript | 📅 2026-11-20 ![GitHub Repo stars](https://img.shields.io/github/stars/Redocly/redoc) - An open source tool for generating documentation from OpenAPI (formerly Swagger) definitions.
+* [Scalar](https://github.com/scalar/scalar) ⭐ 16,435 | 🐛 32 | 🌐 TypeScript | 📅 2026-11-21 ![GitHub Repo stars](https://img.shields.io/github/stars/scalar/scalar) - Generate interactive API documentations from Swagger files.
+* [Fern](https://github.com/fern-api/fern) ⭐ 3,843 | 🐛 188 | 🌐 TypeScript | 📅 2026-11-22 ![GitHub Repo stars](https://img.shields.io/github/stars/fern-api/fern) - Generate SDKs and API documentation from OpenAPI definitions.
 * [Elements](https://github.com/stoplightio/elements) ⭐ 2,474 | 🐛 260 | 🌐 TypeScript | 📅 2026-11-19 ![GitHub Repo stars](https://img.shields.io/github/stars/stoplightio/elements) - Beautiful API documentation powered by OpenAPI and Markdown.
 * [RapiDoc](https://github.com/rapi-doc/RapiDoc) ⭐ 1,915 | 🐛 40 | 🌐 JavaScript | 📅 2026-11-21 ![GitHub Repo stars](https://img.shields.io/github/stars/rapi-doc/RapiDoc) - WebComponent Custom Element for OpenAPI Spec viewing.
 * [Swagger Petstore](https://petstore3.swagger.io/) - A sample Pet Store Server based on the OpenAPI 3.0 specification.
@@ -157,7 +157,7 @@ Assist users in understanding and navigating the features and functionalities of
 
 [GraphQL](https://graphql.org/) is a query language for APIs, which provides a complete and understandable description of the data in your API.
 
-* [SpectaQL](https://github.com/anvilco/spectaql) ⭐ 1,234 | 🐛 97 | 🌐 JavaScript | 📅 2026-11-13 ![GitHub Repo stars](https://img.shields.io/github/stars/anvilco/spectaql) - A Node.js library that generates static documentation for a GraphQL schema.
+* [SpectaQL](https://github.com/anvilco/spectaql) ⭐ 1,234 | 🐛 98 | 🌐 JavaScript | 📅 2026-11-13 ![GitHub Repo stars](https://img.shields.io/github/stars/anvilco/spectaql) - A Node.js library that generates static documentation for a GraphQL schema.
 * [GraphQLDocs](https://github.com/brettchalupa/graphql-docs) ⭐ 523 | 🐛 8 | 🌐 Ruby | 📅 2026-10-10 ![GitHub Repo stars](https://img.shields.io/github/stars/brettchalupa/graphql-docs) - Ruby library and CLI for easily generating beautiful documentation from your GraphQL schema.
 * [Magidoc](https://github.com/magidoc-org/magidoc) ⭐ 289 | 🐛 25 | 🌐 TypeScript | 📅 2026-11-12 ![GitHub Repo stars](https://img.shields.io/github/stars/magidoc-org/magidoc) - A JavaScript library that auto-generates static documentation from any GraphQL schema.
 * [GitHub GraphQL API documentation](https://docs.github.com/en/graphql) - A great real world example of GraphQL API from GitHub.
@@ -194,8 +194,8 @@ Assist users in understanding and navigating the features and functionalities of
 
 README files are a staple of any code project. They provide the first introduction to a new codebase and help you share important project details with collaborators.
 
-* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,754 | 🐛 1 | 📅 2026-11-10 ![GitHub Repo stars](https://img.shields.io/github/stars/matiassingers/awesome-readme) - A curated list of awesome READMEs, including examples, articles and tools.
-* [Best-README-Template](https://github.com/othneildrew/Best-README-Template) ⭐ 16,485 | 🐛 14 | 📅 2026-04-18 ![GitHub Repo stars](https://img.shields.io/github/stars/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects.
+* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,758 | 🐛 1 | 📅 2026-11-10 ![GitHub Repo stars](https://img.shields.io/github/stars/matiassingers/awesome-readme) - A curated list of awesome READMEs, including examples, articles and tools.
+* [Best-README-Template](https://github.com/othneildrew/Best-README-Template) ⭐ 16,489 | 🐛 14 | 📅 2026-04-18 ![GitHub Repo stars](https://img.shields.io/github/stars/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects.
 * [readme.so](https://github.com/octokatherine/readme.so) ⭐ 4,634 | 🐛 61 | 🌐 JavaScript | 📅 2026-03-13 ![GitHub Repo stars](https://img.shields.io/github/stars/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs.
 * [NRG](https://github.com/nanolaba/readme-generator) ⭐ 10 | 🐛 13 | 🌐 Java | 📅 2026-11-17 ![GitHub Repo stars](https://img.shields.io/github/stars/nanolaba/readme-generator) - Multi-language README generator that builds README files from a single `.src.md` template with imports, widgets, and a table-of-contents engine. CLI, Maven plugin, and Java library.
 * [README template](https://gitlab.com/tgdp/templates/-/blob/main/readme/template-readme.md) - Open-source template provided by The Good Docs Project.
@@ -222,24 +222,24 @@ README files are a staple of any code project. They provide the first introducti
 #### Language-specific
 
 * JavaScript
-  * [Storybook](https://github.com/storybookjs/storybook) ⭐ 91,671 | 🐛 1,894 | 🌐 TypeScript | 📅 2026-11-20 ![GitHub Repo stars](https://img.shields.io/github/stars/storybookjs/storybook) - A frontend workshop made for UI development, testing, and documentation.
+  * [Storybook](https://github.com/storybookjs/storybook) ⭐ 91,675 | 🐛 1,898 | 🌐 TypeScript | 📅 2026-11-20 ![GitHub Repo stars](https://img.shields.io/github/stars/storybookjs/storybook) - A frontend workshop made for UI development, testing, and documentation.
   * [JSDoc](https://github.com/jsdoc/jsdoc) ⭐ 15,475 | 🐛 462 | 🌐 JavaScript | 📅 2026-11-21 ![GitHub Repo stars](https://img.shields.io/github/stars/jsdoc/jsdoc) - An API documentation generator for JavaScript.
   * [documentation.js](https://github.com/documentationjs/documentation) ⭐ 5,793 | 🐛 204 | 🌐 JavaScript | 📅 2025-04-15 ![GitHub Repo stars](https://img.shields.io/github/stars/documentationjs/documentation) - The documentation system for modern JavaScript.
 * TypeScript
   * [TSDoc](https://github.com/microsoft/tsdoc) ⭐ 4,976 | 🐛 156 | 🌐 TypeScript | 📅 2026-11-20 ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/tsdoc) - A doc comment standard for TypeScript.
 * Python
-  * [Comments and Docstrings](https://github.com/google/styleguide/blob/gh-pages/pyguide.md#38-comments-and-docstrings) ⭐ 39,855 | 🐛 85 | 🌐 Emacs Lisp | 📅 2026-11-19 - From Google Python Style Guide.
+  * [Comments and Docstrings](https://github.com/google/styleguide/blob/gh-pages/pyguide.md#38-comments-and-docstrings) ⭐ 39,857 | 🐛 85 | 🌐 Emacs Lisp | 📅 2026-11-19 - From Google Python Style Guide.
   * [Docstring Conventions](https://peps.python.org/pep-0257/) - This PEP documents the semantics and conventions associated with Python docstrings.
   * [Documenting Python Code: A Complete Guide](https://realpython.com/documenting-python-code/#commenting-vs-documenting-code) - Covering differences between commenting and documenting, use of docstrings, and guidelines for documenting Python projects.
 * PHP
-  * [phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) ⭐ 4,351 | 🐛 147 | 🌐 PHP | 📅 2026-11-16 ![GitHub Repo stars](https://img.shields.io/github/stars/phpDocumentor/phpDocumentor) - The de-facto documentation tool for PHP projects, offering a robust solution for generating comprehensive documentation effortlessly.
+  * [phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) ⭐ 4,350 | 🐛 147 | 🌐 PHP | 📅 2026-11-21 ![GitHub Repo stars](https://img.shields.io/github/stars/phpDocumentor/phpDocumentor) - The de-facto documentation tool for PHP projects, offering a robust solution for generating comprehensive documentation effortlessly.
 * C#
-  * [Docfx](https://github.com/dotnet/docfx) ⭐ 4,453 | 🐛 430 | 🌐 C# | 📅 2026-11-16 ![GitHub Repo stars](https://img.shields.io/github/stars/dotnet/docfx) - Static site generator for .NET API documentation.
+  * [Docfx](https://github.com/dotnet/docfx) ⭐ 4,453 | 🐛 431 | 🌐 C# | 📅 2026-11-16 ![GitHub Repo stars](https://img.shields.io/github/stars/dotnet/docfx) - Static site generator for .NET API documentation.
 * C++
-  * [Doxygen](https://github.com/doxygen/doxygen) ⭐ 6,623 | 🐛 1,911 | 🌐 C++ | 📅 2026-11-19 ![GitHub Repo stars](https://img.shields.io/github/stars/doxygen/doxygen) - The de facto standard tool for generating documentation from annotated C++ sources.
+  * [Doxygen](https://github.com/doxygen/doxygen) ⭐ 6,623 | 🐛 1,911 | 🌐 C++ | 📅 2026-11-21 ![GitHub Repo stars](https://img.shields.io/github/stars/doxygen/doxygen) - The de facto standard tool for generating documentation from annotated C++ sources.
 * Java
   * [JavaDoc](https://en.wikipedia.org/wiki/Javadoc) - A documentation generator created by Sun Microsystems for the Java language (now owned by Oracle Corporation) for generating API documentation in HTML format from Java source code.
-    * [Maven Javadoc Plugin](https://github.com/apache/maven-javadoc-plugin) ⭐ 108 | 🐛 87 | 🌐 Java | 📅 2026-11-20 ![GitHub Repo stars](https://img.shields.io/github/stars/apache/maven-javadoc-plugin) - Uses the Javadoc tool to generate javadocs for the specified project.
+    * [Maven Javadoc Plugin](https://github.com/apache/maven-javadoc-plugin) ⭐ 108 | 🐛 88 | 🌐 Java | 📅 2026-11-20 ![GitHub Repo stars](https://img.shields.io/github/stars/apache/maven-javadoc-plugin) - Uses the Javadoc tool to generate javadocs for the specified project.
     * [javadoc.io](https://javadoc.io/) - A free service that indexes and serves JavaDoc for Maven Central.
 * Kotlin
   * [Dokka](https://github.com/Kotlin/dokka) ⭐ 3,818 | 🐛 674 | 🌐 Kotlin | 📅 2026-11-20 ![GitHub Repo stars](https://img.shields.io/github/stars/Kotlin/dokka) - An API documentation engine for Kotlin.
@@ -247,7 +247,7 @@ README files are a staple of any code project. They provide the first introducti
   * [Swag](https://github.com/swaggo/swag) ⭐ 13,055 | 🐛 488 | 🌐 Go | 📅 2026-09-30 ![GitHub Repo stars](https://img.shields.io/github/stars/swaggo/swag) - Converts Go annotations to Swagger Documentation 2.0.
   * [Go Doc Comments](https://go.dev/doc/comment) - Extract documentation from Go source code.
 * Rust
-  * [Docs.rs](https://github.com/rust-lang/docs.rs) ⭐ 1,183 | 🐛 155 | 🌐 Rust | 📅 2026-11-20 ![GitHub Repo stars](https://img.shields.io/github/stars/rust-lang/docs.rs) - An open source project to host documentation of crates for the Rust Programming Language.
+  * [Docs.rs](https://github.com/rust-lang/docs.rs) ⭐ 1,183 | 🐛 157 | 🌐 Rust | 📅 2026-11-21 ![GitHub Repo stars](https://img.shields.io/github/stars/rust-lang/docs.rs) - An open source project to host documentation of crates for the Rust Programming Language.
   * [Rustdoc](https://doc.rust-lang.org/nightly/rustdoc/) - Generate documentation for Rust projects.
 * Ruby
   * [TomDoc for Ruby](http://tomdoc.org/) - A code documentation specification that helps you write precise documentation that is nice to read in plain text, yet structured enough to be automatically extracted and processed by a machine.
@@ -260,12 +260,12 @@ README files are a staple of any code project. They provide the first introducti
 ### Test Documentation
 
 * Test Plans
-  * [Writing Test Plan Items | VS Code](https://github.com/microsoft/vscode/wiki/Writing-Test-Plan-Items) ⭐ 195,691 | 🐛 21,730 | 🌐 TypeScript | 📅 2026-11-21 - A guide for writing Test Plan Item (TPI) for VS Code project.
-  * [SONiC Test Plan Template](https://github.com/sonic-net/SONiC/blob/master/doc/SONiC%20Test%20Plan%20Template.md) ⭐ 2,974 | 🐛 1,008 | 🌐 HTML | 📅 2026-11-20 - A test plan template from Software for Open Networking in the Cloud (SONiC).
+  * [Writing Test Plan Items | VS Code](https://github.com/microsoft/vscode/wiki/Writing-Test-Plan-Items) ⭐ 195,670 | 🐛 21,760 | 🌐 TypeScript | 📅 2026-11-22 - A guide for writing Test Plan Item (TPI) for VS Code project.
+  * [SONiC Test Plan Template](https://github.com/sonic-net/SONiC/blob/master/doc/SONiC%20Test%20Plan%20Template.md) ⭐ 2,975 | 🐛 1,008 | 🌐 HTML | 📅 2026-11-21 - A test plan template from Software for Open Networking in the Cloud (SONiC).
   * [IEEE Test Plan Template](https://github.com/JennifferLockwood/test_plan_template) ⭐ 4 | 🐛 1 | 📅 2014-06-21 ![GitHub Repo stars](https://img.shields.io/github/stars/JennifferLockwood/test_plan_template) - IEEE 829 templates in HTML5 and Markdown formats.
   * [Performance Test Plan Document](https://www.perfmatrix.com/performance-test-plan-document-template/) -  A free .docx template for performance test plan from PerfMatrix.
 * Test Cases
-  * [TestCases and Templates for Manual Software Testing](https://github.com/mfaisalkhatri/Manual_Testing) ⭐ 500 | 🐛 1 | 📅 2025-08-03 ![GitHub Repo stars](https://img.shields.io/github/stars/mfaisalkhatri/Manual_Testing) - General Test Cases for performing Manual Testing and API Testing on the Web/Mobile application.
+  * [TestCases and Templates for Manual Software Testing](https://github.com/mfaisalkhatri/Manual_Testing) ⭐ 501 | 🐛 1 | 📅 2025-08-03 ![GitHub Repo stars](https://img.shields.io/github/stars/mfaisalkhatri/Manual_Testing) - General Test Cases for performing Manual Testing and API Testing on the Web/Mobile application.
   * [Test Case Template (Download Sample Excel)](https://www.guru99.com/download-sample-test-case-template-with-explanation-of-important-fields.html) - A free test case template from Guru99, with both Excel and Word formats.
   * [Test Case Template with Examples: Free Excel & Word Sample for Download](https://katalon.com/resources-center/blog/test-case-template-examples) - A free test case template from Katalon, with guidelines and direct download links.
 * Test Report
@@ -287,14 +287,14 @@ README files are a staple of any code project. They provide the first introducti
 
 ### Site Builder
 
-* [Docusaurus](https://github.com/facebook/docusaurus) ⭐ 66,776 | 🐛 444 | 🌐 TypeScript | 📅 2026-11-20 ![GitHub Repo stars](https://img.shields.io/github/stars/facebook/docusaurus) - A project for building, deploying, and maintaining open source project websites easily.
-* [Docsify](https://github.com/docsifyjs/docsify) ⭐ 31,604 | 🐛 89 | 🌐 JavaScript | 📅 2026-11-14 ![GitHub Repo stars](https://img.shields.io/github/stars/docsifyjs/docsify) - A magical documentation site generator.
-* [MkDocs](https://github.com/mkdocs/mkdocs) ⭐ 22,564 | 🐛 182 | 🌐 Python | 📅 2025-10-20 ![GitHub Repo stars](https://img.shields.io/github/stars/mkdocs/mkdocs) - A fast, simple and downright gorgeous static site generator that's geared towards building project documentation.
-  * [Material for MkDocs](https://github.com/squidfunk/mkdocs-material) ⭐ 27,634 | 🐛 1 | 🌐 Python | 📅 2026-11-19 ![GitHub Repo stars](https://img.shields.io/github/stars/squidfunk/mkdocs-material) - A powerful documentation framework on top of MkDocs.
-* [mdBook](https://github.com/rust-lang/mdBook) ⭐ 22,318 | 🐛 629 | 🌐 Rust | 📅 2026-11-17 ![GitHub Repo stars](https://img.shields.io/github/stars/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust.
-* [Starlight](https://github.com/withastro/starlight) ⭐ 9,628 | 🐛 28 | 🌐 TypeScript | 📅 2026-11-21 ![GitHub Repo stars](https://img.shields.io/github/stars/withastro/starlight) - Build beautiful, accessible, high-performance documentation websites with Astro.
-* [Markdoc](https://github.com/markdoc/markdoc) ⭐ 8,529 | 🐛 39 | 🌐 TypeScript | 📅 2026-11-19 ![GitHub Repo stars](https://img.shields.io/github/stars/markdoc/markdoc) - A Markdown-based syntax and toolchain for creating custom documentation sites and experiences.
-* [Sphinx](https://github.com/sphinx-doc/sphinx) ⭐ 8,102 | 🐛 1,337 | 🌐 Python | 📅 2026-11-16 ![GitHub Repo stars](https://img.shields.io/github/stars/sphinx-doc/sphinx) - Make it easy to create intelligent and beautiful documentation.
+* [Docusaurus](https://github.com/facebook/docusaurus) ⭐ 66,782 | 🐛 449 | 🌐 TypeScript | 📅 2026-11-20 ![GitHub Repo stars](https://img.shields.io/github/stars/facebook/docusaurus) - A project for building, deploying, and maintaining open source project websites easily.
+* [Docsify](https://github.com/docsifyjs/docsify) ⭐ 31,606 | 🐛 89 | 🌐 JavaScript | 📅 2026-11-14 ![GitHub Repo stars](https://img.shields.io/github/stars/docsifyjs/docsify) - A magical documentation site generator.
+* [MkDocs](https://github.com/mkdocs/mkdocs) ⭐ 22,566 | 🐛 182 | 🌐 Python | 📅 2025-10-20 ![GitHub Repo stars](https://img.shields.io/github/stars/mkdocs/mkdocs) - A fast, simple and downright gorgeous static site generator that's geared towards building project documentation.
+  * [Material for MkDocs](https://github.com/squidfunk/mkdocs-material) ⭐ 27,638 | 🐛 1 | 🌐 Python | 📅 2026-11-19 ![GitHub Repo stars](https://img.shields.io/github/stars/squidfunk/mkdocs-material) - A powerful documentation framework on top of MkDocs.
+* [mdBook](https://github.com/rust-lang/mdBook) ⭐ 22,319 | 🐛 630 | 🌐 Rust | 📅 2026-11-17 ![GitHub Repo stars](https://img.shields.io/github/stars/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust.
+* [Starlight](https://github.com/withastro/starlight) ⭐ 9,635 | 🐛 25 | 🌐 TypeScript | 📅 2026-11-21 ![GitHub Repo stars](https://img.shields.io/github/stars/withastro/starlight) - Build beautiful, accessible, high-performance documentation websites with Astro.
+* [Markdoc](https://github.com/markdoc/markdoc) ⭐ 8,531 | 🐛 39 | 🌐 TypeScript | 📅 2026-11-22 ![GitHub Repo stars](https://img.shields.io/github/stars/markdoc/markdoc) - A Markdown-based syntax and toolchain for creating custom documentation sites and experiences.
+* [Sphinx](https://github.com/sphinx-doc/sphinx) ⭐ 8,102 | 🐛 1,336 | 🌐 Python | 📅 2026-11-16 ![GitHub Repo stars](https://img.shields.io/github/stars/sphinx-doc/sphinx) - Make it easy to create intelligent and beautiful documentation.
   * [Read the Docs](https://about.readthedocs.com/) - Hosts documentation for the open source community, which supports Sphinx docs written with reStructuredText.
 * [bookdown](https://github.com/rstudio/bookdown) ⭐ 4,095 | 🐛 228 | 🌐 JavaScript | 📅 2026-09-18 ![GitHub Repo stars](https://img.shields.io/github/stars/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown.
 * [Docco](https://github.com/jashkenas/docco) ⭐ 3,566 | 🐛 65 | 🌐 HTML | 📅 2025-11-17 ![GitHub Repo stars](https://img.shields.io/github/stars/jashkenas/docco) - A quick-and-dirty, hundred-line-long, literate-programming-style documentation generator.
@@ -302,17 +302,17 @@ README files are a staple of any code project. They provide the first introducti
 * [Sourcey](https://github.com/sourcey/sourcey) ⭐ 1,380 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-14 ![GitHub Repo stars](https://img.shields.io/github/stars/sourcey/sourcey) - Multi-source static documentation generator. Consumes OpenAPI, MCP, Doxygen XML, godoc, and Markdown to produce one static HTML site. Self-hosted, AGPL-3.0.
 * [Doctave](https://github.com/Doctave/doctave) ⭐ 668 | 🐛 24 | 🌐 Rust | 📅 2022-09-19 ![GitHub Repo stars](https://img.shields.io/github/stars/Doctave/doctave) - A batteries-included developer documentation site generator.
 * [xyd](https://github.com/livesession/xyd) ⭐ 117 | 🐛 36 | 🌐 TypeScript | 📅 2026-11-16 ![GitHub Repo stars](https://img.shields.io/github/stars/livesession/xyd) - A new scalable docs framework built for everyone powered by LiveSession.
-* [dartdoc\_modern](https://github.com/777genius/dartdoc_modern) ⭐ 16 | 🐛 0 | 🌐 Dart | 📅 2026-11-17 ![GitHub Repo stars](https://img.shields.io/github/stars/777genius/dartdoc_modern) - Generates Dart API reference and guide websites using Jaspr, VitePress, or classic HTML.
+* [dartdoc\_modern](https://github.com/777genius/dartdoc_modern) ⭐ 16 | 🐛 0 | 🌐 Dart | 📅 2026-11-21 ![GitHub Repo stars](https://img.shields.io/github/stars/777genius/dartdoc_modern) - Generates Dart API reference and guide websites using Jaspr, VitePress, or classic HTML.
 * [GitBook](https://www.gitbook.com/) ![GitHub Repo stars](https://img.shields.io/github/stars/gitbookio/gitbook) - A modern platform for creating beautiful, user-focused documentation for products, APIs, and SDKs.
 * [Jamdesk](https://jamdesk.com/) - Git-backed MDX documentation platform with a CLI for local previews, OpenAPI references, AI chat, custom domains, and managed deployment.
 
 ### Wiki Builder
 
-* [Wiki.js](https://github.com/Requarks/wiki) ⭐ 29,344 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-20 ![GitHub Repo stars](https://img.shields.io/github/stars/Requarks/wiki) - A modern and powerful wiki app built on Node.js.
+* [Wiki.js](https://github.com/Requarks/wiki) ⭐ 29,356 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-21 ![GitHub Repo stars](https://img.shields.io/github/stars/Requarks/wiki) - A modern and powerful wiki app built on Node.js.
 * [Gollum](https://github.com/gollum/gollum) ⭐ 14,349 | 🐛 91 | 🌐 Ruby | 📅 2025-11-24 ![GitHub Repo stars](https://img.shields.io/github/stars/gollum/gollum) - A simple wiki system built on top of Git.
-* [VimWiki](https://github.com/vimwiki/vimwiki) ⭐ 9,523 | 🐛 233 | 🌐 Vim Script | 📅 2026-04-30 ![GitHub Repo stars](https://img.shields.io/github/stars/vimwiki/vimwiki) - A personal wiki for Vim, which can be used to write documentation.
-* [MediaWiki](https://github.com/wikimedia/mediawiki) ⭐ 5,233 | 🐛 0 | 🌐 PHP | 📅 2026-11-21 ![GitHub Repo stars](https://img.shields.io/github/stars/wikimedia/mediawiki) - A free and open-source wiki software package written in PHP. It serves as the platform for Wikipedia and the other Wikimedia projects.
-* [DokuWiki](https://github.com/dokuwiki/dokuwiki) ⭐ 4,743 | 🐛 480 | 🌐 PHP | 📅 2026-11-16 ![GitHub Repo stars](https://img.shields.io/github/stars/dokuwiki/dokuwiki) - A simple to use and highly versatile Open Source wiki software that doesn't require a database.
+* [VimWiki](https://github.com/vimwiki/vimwiki) ⭐ 9,524 | 🐛 233 | 🌐 Vim Script | 📅 2026-04-30 ![GitHub Repo stars](https://img.shields.io/github/stars/vimwiki/vimwiki) - A personal wiki for Vim, which can be used to write documentation.
+* [MediaWiki](https://github.com/wikimedia/mediawiki) ⭐ 5,232 | 🐛 0 | 🌐 PHP | 📅 2026-11-22 ![GitHub Repo stars](https://img.shields.io/github/stars/wikimedia/mediawiki) - A free and open-source wiki software package written in PHP. It serves as the platform for Wikipedia and the other Wikimedia projects.
+* [DokuWiki](https://github.com/dokuwiki/dokuwiki) ⭐ 4,745 | 🐛 480 | 🌐 PHP | 📅 2026-11-16 ![GitHub Repo stars](https://img.shields.io/github/stars/dokuwiki/dokuwiki) - A simple to use and highly versatile Open Source wiki software that doesn't require a database.
 * [wiki](https://github.com/plasma-ai/wiki) ⭐ 108 | 🐛 0 | 🌐 Python | 📅 2026-11-05 ![GitHub Repo stars](https://img.shields.io/github/stars/plasma-ai/wiki) - Build and maintain indexed Markdown knowledge bases with generated hierarchical indexes, cross-links, and scoped CLI commands for agents.
 * [GitHub Wiki](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis)
   * [Awesome GitHub Wikis](https://github.com/MyHoneyBadger/awesome-github-wiki) ⭐ 502 | 🐛 1 | 📅 2026-10-31 ![GitHub Repo stars](https://img.shields.io/github/stars/MyHoneyBadger/awesome-github-wiki) - A curated list of awesome GitHub Wikis, including examples, tips and tricks.
@@ -323,30 +323,30 @@ README files are a staple of any code project. They provide the first introducti
 
 ### Knowledge Base
 
-* [AFFiNE](https://github.com/toeverything/AFFiNE) ⭐ 75,872 | 🐛 842 | 🌐 TypeScript | 📅 2026-11-20 ![GitHub Repo stars](https://img.shields.io/github/stars/toeverything/AFFiNE) - A next-gen knowledge base that brings planning, sorting and creating all together.
-* [Logseq](https://github.com/logseq/logseq) ⭐ 45,682 | 🐛 935 | 🌐 Clojure | 📅 2026-11-21 ![GitHub Repo stars](https://img.shields.io/github/stars/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration.
-* [Trilium Notes](https://github.com/TriliumNext/Trilium) ⭐ 39,039 | 🐛 590 | 🌐 TypeScript | 📅 2026-11-21 ![GitHub Repo stars](https://img.shields.io/github/stars/TriliumNext/Trilium) - A hierarchical note taking application with focus on building large personal knowledge bases.
-* [Docmost](https://github.com/docmost/docmost) ⭐ 22,389 | 🐛 293 | 🌐 TypeScript | 📅 2026-11-21 ![GitHub Repo stars](https://img.shields.io/github/stars/docmost/docmost) - An open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
-* [Seafile](https://github.com/haiwen/seafile) ⭐ 15,480 | 🐛 99 | 🌐 C | 📅 2026-11-11 ![GitHub Repo stars](https://img.shields.io/github/stars/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
+* [AFFiNE](https://github.com/toeverything/AFFiNE) ⭐ 76,345 | 🐛 843 | 🌐 TypeScript | 📅 2026-11-22 ![GitHub Repo stars](https://img.shields.io/github/stars/toeverything/AFFiNE) - A next-gen knowledge base that brings planning, sorting and creating all together.
+* [Logseq](https://github.com/logseq/logseq) ⭐ 45,684 | 🐛 934 | 🌐 Clojure | 📅 2026-11-22 ![GitHub Repo stars](https://img.shields.io/github/stars/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration.
+* [Trilium Notes](https://github.com/TriliumNext/Trilium) ⭐ 39,045 | 🐛 566 | 🌐 TypeScript | 📅 2026-11-21 ![GitHub Repo stars](https://img.shields.io/github/stars/TriliumNext/Trilium) - A hierarchical note taking application with focus on building large personal knowledge bases.
+* [Docmost](https://github.com/docmost/docmost) ⭐ 22,395 | 🐛 294 | 🌐 TypeScript | 📅 2026-11-21 ![GitHub Repo stars](https://img.shields.io/github/stars/docmost/docmost) - An open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
+* [Seafile](https://github.com/haiwen/seafile) ⭐ 15,483 | 🐛 98 | 🌐 C | 📅 2026-11-11 ![GitHub Repo stars](https://img.shields.io/github/stars/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
 * [MrDoc](https://github.com/zmister2016/MrDoc) ⭐ 3,245 | 🐛 40 | 🌐 JavaScript | 📅 2026-11-20 ![GitHub Repo stars](https://img.shields.io/github/stars/zmister2016/MrDoc) - An online document system suitable for individuals and small teams to manage documents, wiki, knowledge and notes.
 * [Documize](https://github.com/documize/community) ⭐ 2,423 | 🐛 48 | 🌐 JavaScript | 📅 2026-05-18 ![GitHub Repo stars](https://img.shields.io/github/stars/documize/community) - Modern Confluence alternative designed for internal & external docs.
 
 ### AI-powered Tools
 
 * [Readme AI](https://github.com/eli64s/readme-ai) ⭐ 3,013 | 🐛 61 | 🌐 Python | 📅 2026-11-11 ![GitHub Repo stars](https://img.shields.io/github/stars/eli64s/readme-ai) - A developer tool that automatically generates comprehensive README files using repository analysis and language models. It supports multiple LLM providers, custom templates, and offline generation.
-* [CodeAlmanac](https://github.com/AlmanacCode/codealmanac) ⭐ 950 | 🐛 54 | 🌐 TypeScript | 📅 2026-11-16 ![GitHub Repo stars](https://img.shields.io/github/stars/AlmanacCode/codealmanac) - Self-updating repository wiki for AI coding agents that tracks project conversations and context locally in the repo.
+* [CodeAlmanac](https://github.com/AlmanacCode/codealmanac) ⭐ 949 | 🐛 54 | 🌐 TypeScript | 📅 2026-11-16 ![GitHub Repo stars](https://img.shields.io/github/stars/AlmanacCode/codealmanac) - Self-updating repository wiki for AI coding agents that tracks project conversations and context locally in the repo.
 * [notabene](https://github.com/z29k/notabene) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-12 ![GitHub Repo stars](https://img.shields.io/github/stars/z29k/notabene) - Renders a repo's Markdown/MDX as a navigable site with anchored comments that an AI agent applies back to the source files.
 * [GitBook AI](https://www.gitbook.com/solutions/ai) - A built-in AI assistant that helps teams quickly draft, refine, and enhance product documentation with smart, context-aware suggestions.
 
 ### Checker & Formatter
 
-* [LanguageTool](https://github.com/languagetool-org/languagetool) ⭐ 15,285 | 🐛 2,165 | 🌐 Java | 📅 2026-11-20 ![GitHub Repo stars](https://img.shields.io/github/stars/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages.
-* [alex](https://github.com/get-alex/alex) ⭐ 5,109 | 🐛 28 | 🌐 JavaScript | 📅 2024-11-27 ![GitHub Repo stars](https://img.shields.io/github/stars/get-alex/alex) - Catch insensitive, inconsiderate writing.
-* [Lychee](https://github.com/lycheeverse/lychee) ⭐ 4,150 | 🐛 80 | 🌐 Rust | 📅 2026-11-16 ![GitHub Repo stars](https://img.shields.io/github/stars/lycheeverse/lychee) - Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more.
+* [LanguageTool](https://github.com/languagetool-org/languagetool) ⭐ 15,286 | 🐛 2,165 | 🌐 Java | 📅 2026-11-21 ![GitHub Repo stars](https://img.shields.io/github/stars/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages.
+* [alex](https://github.com/get-alex/alex) ⭐ 5,110 | 🐛 28 | 🌐 JavaScript | 📅 2024-11-27 ![GitHub Repo stars](https://img.shields.io/github/stars/get-alex/alex) - Catch insensitive, inconsiderate writing.
+* [Lychee](https://github.com/lycheeverse/lychee) ⭐ 4,151 | 🐛 82 | 🌐 Rust | 📅 2026-11-16 ![GitHub Repo stars](https://img.shields.io/github/stars/lycheeverse/lychee) - Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more.
 * [CasePolice](https://github.com/antfu/case-police) ⭐ 1,423 | 🐛 9 | 🌐 TypeScript | 📅 2026-04-15 ![GitHub Repo stars](https://img.shields.io/github/stars/antfu/case-police) - Scan all your source files and fix the cases of known names.
 * [linkinator](https://github.com/JustinBeckwith/linkinator) ⭐ 1,290 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-20 ![GitHub Repo stars](https://img.shields.io/github/stars/JustinBeckwith/linkinator) - A super simple site crawler and broken link checker.
 * [TeXtidote](https://github.com/sylvainhalle/textidote) ⭐ 1,059 | 🐛 38 | 🌐 Java | 📅 2026-09-09 ![GitHub Repo stars](https://img.shields.io/github/stars/sylvainhalle/textidote) - A correction tool for LaTeX documents and other formats.
-* [Spellcheck GitHub Actions](https://github.com/rojopolis/spellcheck-github-actions) ⭐ 151 | 🐛 7 | 🌐 Shell | 📅 2026-11-16 ![GitHub Repo stars](https://img.shields.io/github/stars/rojopolis/spellcheck-github-actions) - A GitHub Action that spell checks Python, Markdown, and Text files.
+* [Spellcheck GitHub Actions](https://github.com/rojopolis/spellcheck-github-actions) ⭐ 151 | 🐛 7 | 🌐 Shell | 📅 2026-11-21 ![GitHub Repo stars](https://img.shields.io/github/stars/rojopolis/spellcheck-github-actions) - A GitHub Action that spell checks Python, Markdown, and Text files.
 * [Readability checker](https://www.thewriter.com/tools/readability) - Score your writing based on the Flesch reading ease scale, which looks at how long your words and sentences are.
 * [Capitalize My Title](https://capitalizemytitle.com/) - An easy, smart title capitalization tool that uses title capitalization rules published by leading professional organizations to ensure your titles and headlines are capitalized correctly.
 * [Tables Generator](https://www.tablesgenerator.com/) - Generate tables in HTML, Markdown, Latex, MediaWiki, etc.
@@ -356,11 +356,11 @@ README files are a staple of any code project. They provide the first introducti
 
 One diagram is usually worth more than a thousand words.
 
-* [Excalidraw](https://github.com/excalidraw/excalidraw) ⭐ 136,030 | 🐛 3,587 | 🌐 TypeScript | 📅 2026-11-20 ![GitHub Repo stars](https://img.shields.io/github/stars/excalidraw/excalidraw) - An open source virtual hand-drawn style whiteboard for sketching hand-drawn like diagrams.
-* [Mermaid](https://github.com/mermaid-js/mermaid) ⭐ 91,184 | 🐛 1,953 | 🌐 TypeScript | 📅 2026-11-21 ![GitHub Repo stars](https://img.shields.io/github/stars/mermaid-js/mermaid) - A diagramming and charting tool that renders Markdown-inspired text definitions to create charts.
+* [Excalidraw](https://github.com/excalidraw/excalidraw) ⭐ 136,085 | 🐛 3,592 | 🌐 TypeScript | 📅 2026-11-21 ![GitHub Repo stars](https://img.shields.io/github/stars/excalidraw/excalidraw) - An open source virtual hand-drawn style whiteboard for sketching hand-drawn like diagrams.
+* [Mermaid](https://github.com/mermaid-js/mermaid) ⭐ 91,191 | 🐛 1,959 | 🌐 TypeScript | 📅 2026-11-21 ![GitHub Repo stars](https://img.shields.io/github/stars/mermaid-js/mermaid) - A diagramming and charting tool that renders Markdown-inspired text definitions to create charts.
   * [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/) - A live editor for Mermaid diagrams.
-* [PlantUML](https://github.com/plantuml/plantuml) ⭐ 13,432 | 🐛 595 | 🌐 Java | 📅 2026-11-20 ![GitHub Repo stars](https://img.shields.io/github/stars/plantuml/plantuml) - Allows users to create diagrams using a simple syntax.
-* [draw.io](https://github.com/jgraph/drawio) ⭐ 9,499 | 🐛 44 | 🌐 JavaScript | 📅 2026-11-17 ![GitHub Repo stars](https://img.shields.io/github/stars/jgraph/drawio) (Open Source) - A JavaScript, client-side editor for general diagramming.
+* [PlantUML](https://github.com/plantuml/plantuml) ⭐ 13,433 | 🐛 599 | 🌐 Java | 📅 2026-11-21 ![GitHub Repo stars](https://img.shields.io/github/stars/plantuml/plantuml) - Allows users to create diagrams using a simple syntax.
+* [draw.io](https://github.com/jgraph/drawio) ⭐ 9,508 | 🐛 44 | 🌐 JavaScript | 📅 2026-11-17 ![GitHub Repo stars](https://img.shields.io/github/stars/jgraph/drawio) (Open Source) - A JavaScript, client-side editor for general diagramming.
 * [Lucidchart](https://www.lucidchart.com/) - Generate visuals automatically with AI and data imports, or build your own using intuitive diagramming tools.
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle/) - A Mac-only diagramming tool that offers a wide range of features for creating diagrams.
 * [(Chinese) Architecture Diagramming: Tools and Methodologies](https://developer.aliyun.com/article/774446) - It discusses the benefits of using diagrams in architecture document, and highlights some standards and best practices.
@@ -370,26 +370,26 @@ One diagram is usually worth more than a thousand words.
 Documentation can be more than just plain texts and static pictures.
 
 * Screen Recorder
-  * [Flameshot](https://github.com/flameshot-org/flameshot) ⭐ 31,604 | 🐛 750 | 🌐 C++ | 📅 2026-11-18 ![GitHub Repo stars](https://img.shields.io/github/stars/flameshot-org/flameshot) - Powerful yet simple to use screenshot software.
-  * [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) ⭐ 27,979 | 🐛 350 | 🌐 C# | 📅 2026-10-14 ![GitHub Repo stars](https://img.shields.io/github/stars/NickeManarin/ScreenToGif) - Record a selected area of your screen, edit and save it as a gif or video.
-  * [rrweb](https://github.com/rrweb-io/rrweb) ⭐ 20,403 | 🐛 450 | 🌐 TypeScript | 📅 2026-11-20 ![GitHub Repo stars](https://img.shields.io/github/stars/rrweb-io/rrweb) - A tool for recording and replaying users' interactions on the web.
-  * [Kap](https://github.com/wulkano/kap) ⭐ 19,430 | 🐛 261 | 🌐 TypeScript | 📅 2024-11-12 ![GitHub Repo stars](https://img.shields.io/github/stars/wulkano/kap) - An open-source screen recorder built with web technology.
-  * [Screenity](https://github.com/alyssaxuu/screenity) ⭐ 19,002 | 🐛 8 | 🌐 JavaScript | 📅 2026-11-20 ![GitHub Repo stars](https://img.shields.io/github/stars/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits.
+  * [Flameshot](https://github.com/flameshot-org/flameshot) ⭐ 31,650 | 🐛 752 | 🌐 C++ | 📅 2026-11-18 ![GitHub Repo stars](https://img.shields.io/github/stars/flameshot-org/flameshot) - Powerful yet simple to use screenshot software.
+  * [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) ⭐ 27,981 | 🐛 351 | 🌐 C# | 📅 2026-10-14 ![GitHub Repo stars](https://img.shields.io/github/stars/NickeManarin/ScreenToGif) - Record a selected area of your screen, edit and save it as a gif or video.
+  * [rrweb](https://github.com/rrweb-io/rrweb) ⭐ 20,406 | 🐛 450 | 🌐 TypeScript | 📅 2026-11-20 ![GitHub Repo stars](https://img.shields.io/github/stars/rrweb-io/rrweb) - A tool for recording and replaying users' interactions on the web.
+  * [Kap](https://github.com/wulkano/kap) ⭐ 19,432 | 🐛 261 | 🌐 TypeScript | 📅 2024-11-12 ![GitHub Repo stars](https://img.shields.io/github/stars/wulkano/kap) - An open-source screen recorder built with web technology.
+  * [Screenity](https://github.com/alyssaxuu/screenity) ⭐ 19,003 | 🐛 8 | 🌐 JavaScript | 📅 2026-11-20 ![GitHub Repo stars](https://img.shields.io/github/stars/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits.
   * [iScribby](https://iscribby.com/) - Windows screen annotation tool for drawing over applications and copying images.
 
 * Audio Recorder
   * [Tenacity](https://codeberg.org/tenacityteam/tenacity) -  An easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor for Windows, macOS, Linux, and other operating systems.
 
 * Terminal Recorder
-  * [asciinema](https://github.com/asciinema/asciinema) ⭐ 17,977 | 🐛 14 | 🌐 Rust | 📅 2026-11-17 ![GitHub Repo stars](https://img.shields.io/github/stars/asciinema/asciinema) - A command-line tool for recording terminal sessions.
-  * [Terminalizer](https://github.com/faressoft/terminalizer) ⭐ 16,172 | 🐛 107 | 🌐 JavaScript | 📅 2024-08-29 ![GitHub Repo stars](https://img.shields.io/github/stars/faressoft/terminalizer) - Record your terminal and generate animated gif images or share a web player.
+  * [asciinema](https://github.com/asciinema/asciinema) ⭐ 17,978 | 🐛 14 | 🌐 Rust | 📅 2026-11-17 ![GitHub Repo stars](https://img.shields.io/github/stars/asciinema/asciinema) - A command-line tool for recording terminal sessions.
+  * [Terminalizer](https://github.com/faressoft/terminalizer) ⭐ 16,171 | 🐛 107 | 🌐 JavaScript | 📅 2024-08-29 ![GitHub Repo stars](https://img.shields.io/github/stars/faressoft/terminalizer) - Record your terminal and generate animated gif images or share a web player.
 
 * Animation Builder
-  * [Animockup](https://github.com/alyssaxuu/animockup) ⭐ 1,940 | 🐛 3 | 🌐 JavaScript | 📅 2022-07-02 ![GitHub Repo stars](https://img.shields.io/github/stars/alyssaxuu/animockup) - A web-based tool that helps you create animated mockups for your product teasers.
+  * [Animockup](https://github.com/alyssaxuu/animockup) ⭐ 1,941 | 🐛 3 | 🌐 JavaScript | 📅 2022-07-02 ![GitHub Repo stars](https://img.shields.io/github/stars/alyssaxuu/animockup) - A web-based tool that helps you create animated mockups for your product teasers.
 
 * Presentation Tools
-  * [reveal.js](https://github.com/hakimel/reveal.js) ⭐ 72,610 | 🐛 933 | 🌐 JavaScript | 📅 2026-09-30 ![GitHub Repo stars](https://img.shields.io/github/stars/hakimel/reveal.js) - Open source HTML presentation framework.
-  * [Slidev](https://github.com/slidevjs/slidev) ⭐ 49,587 | 🐛 229 | 🌐 TypeScript | 📅 2026-11-05 ![GitHub Repo stars](https://img.shields.io/github/stars/slidevjs/slidev) - Presentation slides for developers.
+  * [reveal.js](https://github.com/hakimel/reveal.js) ⭐ 72,615 | 🐛 932 | 🌐 JavaScript | 📅 2026-09-30 ![GitHub Repo stars](https://img.shields.io/github/stars/hakimel/reveal.js) - Open source HTML presentation framework.
+  * [Slidev](https://github.com/slidevjs/slidev) ⭐ 49,592 | 🐛 229 | 🌐 TypeScript | 📅 2026-11-05 ![GitHub Repo stars](https://img.shields.io/github/stars/slidevjs/slidev) - Presentation slides for developers.
   * [carbon](https://github.com/carbon-app/carbon) ⭐ 36,147 | 🐛 78 | 🌐 JavaScript | 📅 2026-11-05 ![GitHub Repo stars](https://img.shields.io/github/stars/carbon-app/carbon) - Create and share beautiful images of your source code.
   * [Code Hike](https://github.com/code-hike/codehike) ⭐ 5,400 | 🐛 20 | 🌐 TypeScript | 📅 2026-03-17 ![GitHub Repo stars](https://img.shields.io/github/stars/code-hike/codehike) - Helps you create a superior code reading experience, whether you are writing blog posts, documentation, tutorials, coding videos, or any type of technical content.
 
@@ -433,10 +433,10 @@ Documentation can be more than just plain texts and static pictures.
   * [Mammoth](https://github.com/mwilliamson/mammoth.js) ⭐ 6,346 | 🐛 62 | 🌐 JavaScript | 📅 2026-10-16 ![GitHub Repo stars](https://img.shields.io/github/stars/mwilliamson/mammoth.js) - Convert Word documents (.docx files) to HTML.
   * [Pandoc](https://pandoc.org/) - A universal document converter, which can convert files from one markup format into another.
 * [Markdown](https://www.wikiwand.com/en/Markdown) - A lightweight markup language for creating formatted text using a plain-text editor.
-  * [MarkText](https://github.com/marktext/marktext) ⭐ 64,228 | 🐛 270 | 🌐 TypeScript | 📅 2026-11-17 ![GitHub Repo stars](https://img.shields.io/github/stars/marktext/marktext) - A simple and elegant markdown editor, available for Linux, macOS and Windows.
-  * [Glow](https://github.com/charmbracelet/glow) ⭐ 28,116 | 🐛 270 | 🌐 Go | 📅 2026-11-04 ![GitHub Repo stars](https://img.shields.io/github/stars/charmbracelet/glow) - A terminal based markdown reader, which can be used to read documentation directly on the command line.
+  * [MarkText](https://github.com/marktext/marktext) ⭐ 64,255 | 🐛 272 | 🌐 TypeScript | 📅 2026-11-17 ![GitHub Repo stars](https://img.shields.io/github/stars/marktext/marktext) - A simple and elegant markdown editor, available for Linux, macOS and Windows.
+  * [Glow](https://github.com/charmbracelet/glow) ⭐ 28,128 | 🐛 270 | 🌐 Go | 📅 2026-11-04 ![GitHub Repo stars](https://img.shields.io/github/stars/charmbracelet/glow) - A terminal based markdown reader, which can be used to read documentation directly on the command line.
 * [AsciiDoc](https://asciidoc.org) - A plain text markup language for writing technical content.
-  * [Asciidoctor](https://github.com/asciidoctor/asciidoctor) ⭐ 5,226 | 🐛 643 | 🌐 Ruby | 📅 2026-11-20 ![GitHub Repo stars](https://img.shields.io/github/stars/asciidoctor/asciidoctor) - A fast, open source, Ruby-based text processor for parsing AsciiDoc and converting it to output formats such as HTML 5, DocBook 5, manual pages, PDF, EPUB 3, and other formats.
+  * [Asciidoctor](https://github.com/asciidoctor/asciidoctor) ⭐ 5,227 | 🐛 643 | 🌐 Ruby | 📅 2026-11-21 ![GitHub Repo stars](https://img.shields.io/github/stars/asciidoctor/asciidoctor) - A fast, open source, Ruby-based text processor for parsing AsciiDoc and converting it to output formats such as HTML 5, DocBook 5, manual pages, PDF, EPUB 3, and other formats.
   * [Antora](https://gitlab.com/antora/antora) - A modular documentation site generator that helps you organize and publish content written in AsciiDoc to the web.
 * [reStructuredText](https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html) - The default plaintext markup language used by Sphinx.
 * [DocBook](https://docbook.org/) - An XML schema for writing books and manuals about technical subjects.
@@ -508,4 +508,4 @@ Please feel invited to do any [contribution](CONTRIBUTING.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
